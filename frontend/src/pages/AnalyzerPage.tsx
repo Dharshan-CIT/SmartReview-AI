@@ -126,7 +126,7 @@ export default function AnalyzerPage() {
                 ))}
               </div>
             </div>
-            <div className="flex gap-2">
+            <div className="flex flex-wrap gap-2">
               {demo ? (
                 <Button type="button" variant="secondary" size="lg" icon={<Square className="h-4 w-4" aria-hidden />} onClick={stopDemo}>Stop demo</Button>
               ) : (
