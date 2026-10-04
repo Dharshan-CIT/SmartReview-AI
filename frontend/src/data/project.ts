@@ -18,9 +18,9 @@ export const PROJECT = {
   guide: "Mr. R. Thirumalai Murugan, M.E.",
   institution: "Chennai Institute of Technology",
   department: "Department of Artificial Intelligence and Machine Learning",
-  programme: "B.E. / B.Tech, Artificial Intelligence and Machine Learning",
-  course: "Project-Based Learning (PBL)",
-  academicYear: "Semester 3",
+  programme: "B.E. Artificial Intelligence and Machine Learning",
+  course: "Machine Learning - Project-Based Learning (PBL)",
+  academicYear: "2026-27 (Semester 3)",
   github: "https://github.com/Dharshan-CIT/SmartReview-AI",
   contact: "", // e.g. "yourname@example.com"
 };

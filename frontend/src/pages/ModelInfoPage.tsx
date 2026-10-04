@@ -17,6 +17,26 @@ function Detail({ label, value }: { label: string; value: string }) {
   );
 }
 
+/** Same as Detail, but the value is a clickable external link (used for GitHub). */
+function DetailLink({ label, href }: { label: string; href: string }) {
+  if (!href) return null;
+  const todo = isPlaceholder(href);
+  return (
+    <div className="grid gap-1 py-2 sm:grid-cols-[11rem_1fr] sm:gap-4">
+      <dt className="text-sm font-medium text-muted">{label}</dt>
+      <dd>
+        {todo ? (
+          <span className="text-mix">{href.replace(/^TODO:\s*/, "")} (not filled in yet)</span>
+        ) : (
+          <a href={href} target="_blank" rel="noopener noreferrer" className="text-primary-ink underline-offset-2 hover:underline">
+            {href}
+          </a>
+        )}
+      </dd>
+    </div>
+  );
+}
+
 const CONCEPTS = [
   { term: "ABSA", def: "Aspect-Based Sentiment Analysis. Instead of one sentiment for a whole review, it finds each product feature mentioned and the sentiment towards it." },
   { term: "ATE", def: "Aspect Term Extraction: find WHAT the customer talks about (e.g. \"battery life\"). We treat it as tagging every word of the review." },
@@ -83,7 +103,7 @@ export default function ModelInfoPage() {
             <Detail label="Institution" value={PROJECT.institution} />
             <Detail label="Academic year" value={PROJECT.academicYear} />
             <Detail label="Guide / faculty" value={PROJECT.guide} />
-            <Detail label="GitHub" value={PROJECT.github} />
+            <DetailLink label="GitHub" href={PROJECT.github} />
             <Detail label="Contact" value={PROJECT.contact} />
           </dl>
 
