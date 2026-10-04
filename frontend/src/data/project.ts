@@ -21,7 +21,7 @@ export const PROJECT = {
   programme: "B.E. / B.Tech, Artificial Intelligence and Machine Learning",
   course: "Project-Based Learning (PBL)",
   academicYear: "Semester 3",
-  github: "", // e.g. "https://github.com/your-name/smartreview-ai"
+  github: "https://github.com/Dharshan-CIT/SmartReview-AI",
   contact: "", // e.g. "yourname@example.com"
 };
 
