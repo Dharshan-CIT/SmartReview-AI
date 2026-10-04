@@ -1,0 +1,1893 @@
+[
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-12",
+  "text": "this camera is perfect for an enthusiastic amateur photographer.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 5,
+    "end": 11
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-13",
+  "text": "the pictures are razor-sharp, even in macro.",
+  "aspects": [
+   {
+    "term": "picture",
+    "polarity": "positive",
+    "start": 4,
+    "end": 11
+   },
+   {
+    "term": "macro",
+    "polarity": "positive",
+    "start": 38,
+    "end": 43
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-17",
+  "text": "the manual does a fine job filling in any blanks that remain.",
+  "aspects": [
+   {
+    "term": "manual",
+    "polarity": "positive",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-18",
+  "text": "the auto-focus performs well, but i love having the 12 optional scene modes - they are dummy-proof, and correspond to many situations in which i would actually seek to use the camera.",
+  "aspects": [
+   {
+    "term": "scene mode",
+    "polarity": "positive",
+    "start": 64,
+    "end": 74
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-19",
+  "text": "comes with a 16 mb compact flash and one rechargable battery the charging unit, included, is fast and small.",
+  "aspects": [
+   {
+    "term": "rechargable battery",
+    "polarity": "positive",
+    "start": 41,
+    "end": 60
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-21",
+  "text": "i enthusiastically recommend this camera.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 34,
+    "end": 40
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-25",
+  "text": "it's easy to use, and yet very feature rich.",
+  "aspects": [
+   {
+    "term": "feature",
+    "polarity": "positive",
+    "start": 31,
+    "end": 38
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-26",
+  "text": "in the auto mode it functions basically as a point and click, the scene modes are very easy to use and produce good results.",
+  "aspects": [
+   {
+    "term": "auto mode",
+    "polarity": "positive",
+    "start": 7,
+    "end": 16
+   },
+   {
+    "term": "scene mode",
+    "polarity": "positive",
+    "start": 66,
+    "end": 76
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-27",
+  "text": "the manual mode is feature rich and i can 't wait to get the hang of it.",
+  "aspects": [
+   {
+    "term": "manual mode",
+    "polarity": "positive",
+    "start": 4,
+    "end": 15
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-28",
+  "text": "the macro mode is exceptional, the pictures are very clear and you can take the pictures with the lens unbelievably close the subject.",
+  "aspects": [
+   {
+    "term": "macro mode",
+    "polarity": "positive",
+    "start": 4,
+    "end": 14
+   },
+   {
+    "term": "picture",
+    "polarity": "positive",
+    "start": 35,
+    "end": 42
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-29",
+  "text": "the battery life is very good, i got about 90 minutes with the lcd turned on all the time, the first time around, and i have been using it with the lcd off every now and then, and have yet needed to recharge it.",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "positive",
+    "start": 4,
+    "end": 16
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-35",
+  "text": "i fell in love with this camera, it combines ease of use, with an immense amount of options and power.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 25,
+    "end": 31
+   },
+   {
+    "term": "use",
+    "polarity": "positive",
+    "start": 53,
+    "end": 56
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-37",
+  "text": "this camera is ideal for people who want more power, but don't want to spend 1000s dollars on a camera.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 5,
+    "end": 11
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-45",
+  "text": "1. pictures won't transfer to pc directly from the camera using the included transfer cable.",
+  "aspects": [
+   {
+    "term": "transfer",
+    "polarity": "negative",
+    "start": 18,
+    "end": 26
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-55",
+  "text": ". this camera keeps on autofocussing in auto mode with a buzzing sound which can 't be stopped.",
+  "aspects": [
+   {
+    "term": "auto mode",
+    "polarity": "negative",
+    "start": 40,
+    "end": 49
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-60",
+  "text": ". even the slightest of the shakes totally distorts your image",
+  "aspects": [
+   {
+    "term": "image",
+    "polarity": "negative",
+    "start": 57,
+    "end": 62
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-63",
+  "text": ". lens cap is a really annoying",
+  "aspects": [
+   {
+    "term": "lens cap",
+    "polarity": "negative",
+    "start": 2,
+    "end": 10
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-66",
+  "text": ". the movie clips taken will always have some ' noise ' in it - you can 't avoid that.",
+  "aspects": [
+   {
+    "term": "movie",
+    "polarity": "negative",
+    "start": 6,
+    "end": 11
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-67",
+  "text": "but overall this is a good camera with a ' really good ' picture clarity; an exceptional close-up shooting capability.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 27,
+    "end": 33
+   },
+   {
+    "term": "picture",
+    "polarity": "positive",
+    "start": 57,
+    "end": 64
+   },
+   {
+    "term": "close-up shooting",
+    "polarity": "positive",
+    "start": 89,
+    "end": 106
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-70",
+  "text": "within a year, there are problems with my menu dial knob.",
+  "aspects": [
+   {
+    "term": "menu dial knob",
+    "polarity": "negative",
+    "start": 42,
+    "end": 56
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-72",
+  "text": "i send my camera to nikon for servicing, took them a whole 6 weeks to diagnose the problem.",
+  "aspects": [
+   {
+    "term": "servicing",
+    "polarity": "negative",
+    "start": 30,
+    "end": 39
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-75",
+  "text": "it is a good camera in terms of the function and quality, but take your chance with it because nikon absolutely sucks when it comes to customer service.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 13,
+    "end": 19
+   },
+   {
+    "term": "customer service",
+    "polarity": "negative",
+    "start": 135,
+    "end": 151
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-77",
+  "text": "got a \" system error \" problem 30 days after purchase.",
+  "aspects": [
+   {
+    "term": "system error",
+    "polarity": "negative",
+    "start": 8,
+    "end": 20
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-78",
+  "text": "made the camera totally inoperable.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "negative",
+    "start": 9,
+    "end": 15
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-79",
+  "text": "also, the lens cap design is flawed.",
+  "aspects": [
+   {
+    "term": "lens cap",
+    "polarity": "negative",
+    "start": 10,
+    "end": 18
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-81",
+  "text": "audio on video also lacking.",
+  "aspects": [
+   {
+    "term": "audio",
+    "polarity": "negative",
+    "start": 0,
+    "end": 5
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-82",
+  "text": "otherwise, it takes very good pictures; shutter delay isn't so bad either.",
+  "aspects": [
+   {
+    "term": "picture",
+    "polarity": "positive",
+    "start": 30,
+    "end": 37
+   },
+   {
+    "term": "delay",
+    "polarity": "positive",
+    "start": 48,
+    "end": 53
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-86",
+  "text": "nikon 4300, i feel, is the best camera out there for the features and price.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 32,
+    "end": 38
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-96",
+  "text": "the pictures are absolutely amazing - the camera captures the minutest of details.",
+  "aspects": [
+   {
+    "term": "picture",
+    "polarity": "positive",
+    "start": 4,
+    "end": 11
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-100",
+  "text": "3. the pictures come out hazy if your hands shake even for a moment during the entire process of taking a picture.",
+  "aspects": [
+   {
+    "term": "picture",
+    "polarity": "negative",
+    "start": 106,
+    "end": 113
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-113",
+  "text": "the movie mode is also working great.",
+  "aspects": [
+   {
+    "term": "movie mode",
+    "polarity": "positive",
+    "start": 4,
+    "end": 14
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-114",
+  "text": "the 4300 comes with excellent easy to install software i use it on xp and win98 without problem, battery charger, usb and video cable.",
+  "aspects": [
+   {
+    "term": "software",
+    "polarity": "positive",
+    "start": 46,
+    "end": 54
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-116",
+  "text": "i experimented with online print ordering with the two major us brick and mortar retailers, and they both delivered great results.",
+  "aspects": [
+   {
+    "term": "print",
+    "polarity": "positive",
+    "start": 27,
+    "end": 32
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-117",
+  "text": "even at the \" normal \" setting, a 8x10 print! shows not a single sign of visible rendering or pixels - you could never tell that the picture has been taken by a \" digital \".",
+  "aspects": [
+   {
+    "term": "print",
+    "polarity": "positive",
+    "start": 39,
+    "end": 44
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-118",
+  "text": "the battery life is ok, but can be somewhat short when working a lot with the monitor on.",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "positive",
+    "start": 4,
+    "end": 16
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-123",
+  "text": "over all a fantastic very compact camera, which made us experience photography on a totally new level!",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 34,
+    "end": 40
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-129",
+  "text": "focusing on a display rack about 20 feet away in a brightly lit room during day time, pictures produced by this camera were blurry and in a shade of orange.",
+  "aspects": [
+   {
+    "term": "picture",
+    "polarity": "negative",
+    "start": 86,
+    "end": 93
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-139",
+  "text": "after nearly 800 pictures i have found that this nikon takes incredible pictures.",
+  "aspects": [
+   {
+    "term": "picture",
+    "polarity": "positive",
+    "start": 17,
+    "end": 24
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-140",
+  "text": "the digital zoom takes as good of pictures, as the optical zoom does!",
+  "aspects": [
+   {
+    "term": "digital zoom",
+    "polarity": "positive",
+    "start": 4,
+    "end": 16
+   },
+   {
+    "term": "optical zoom",
+    "polarity": "positive",
+    "start": 51,
+    "end": 63
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-142",
+  "text": "i love all of the features, and presets as well.",
+  "aspects": [
+   {
+    "term": "feature",
+    "polarity": "positive",
+    "start": 18,
+    "end": 25
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-143",
+  "text": "sunset feature takes incredible pics in the morning, and the evening!",
+  "aspects": [
+   {
+    "term": "sunset feature",
+    "polarity": "positive",
+    "start": 0,
+    "end": 14
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-144",
+  "text": "the software you get with this camera is perfect.",
+  "aspects": [
+   {
+    "term": "software",
+    "polarity": "positive",
+    "start": 4,
+    "end": 12
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-145",
+  "text": "touchups, redeye, and so on are very easy to alter, and correct.",
+  "aspects": [
+   {
+    "term": "touchup",
+    "polarity": "positive",
+    "start": 0,
+    "end": 7
+   },
+   {
+    "term": "redeye",
+    "polarity": "positive",
+    "start": 10,
+    "end": 16
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-149",
+  "text": "battery life is good, although i recommend two rechargebles, or a alkaline backup, for those emergency pics you have to have.",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "positive",
+    "start": 0,
+    "end": 12
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-150",
+  "text": "all and all, i am extremely pleased with this camera.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 46,
+    "end": 52
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-153",
+  "text": "great camera, great investment!",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 6,
+    "end": 12
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-156",
+  "text": "the nikon coolpix 4300 is wonderful -- easy to use, high quality, and compact in size.",
+  "aspects": [
+   {
+    "term": "quality",
+    "polarity": "positive",
+    "start": 57,
+    "end": 64
+   },
+   {
+    "term": "size",
+    "polarity": "positive",
+    "start": 81,
+    "end": 85
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-158",
+  "text": "the auto setting does a great job most of the time but there are manual settings for those who want them.",
+  "aspects": [
+   {
+    "term": "auto setting",
+    "polarity": "positive",
+    "start": 4,
+    "end": 16
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-165",
+  "text": "the only things i have found that i havent liked is that the lcd is hard to read in daylight but everyone elses is too.",
+  "aspects": [
+   {
+    "term": "lcd",
+    "polarity": "negative",
+    "start": 61,
+    "end": 64
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-166",
+  "text": "downloads are a snap and quick.",
+  "aspects": [
+   {
+    "term": "download",
+    "polarity": "positive",
+    "start": 0,
+    "end": 8
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-167",
+  "text": "controls easy yo use and easy to get to.",
+  "aspects": [
+   {
+    "term": "control",
+    "polarity": "positive",
+    "start": 0,
+    "end": 7
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-168",
+  "text": "i'm extremely glad i bought this camera.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 33,
+    "end": 39
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-170",
+  "text": "really happy with this little camera.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 30,
+    "end": 36
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-173",
+  "text": "settings for just about everything, beautiful pics and beautiful prints.",
+  "aspects": [
+   {
+    "term": "print",
+    "polarity": "positive",
+    "start": 65,
+    "end": 70
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-174",
+  "text": "i expected the 12x digital zoom to be grainy, but onfull size high to fine quality, the zoomed images are quite impressive.",
+  "aspects": [
+   {
+    "term": "zoomed image",
+    "polarity": "positive",
+    "start": 88,
+    "end": 100
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-177",
+  "text": "still, at least from my perspective, a great camera for the money, and i'm a happy camper!",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 45,
+    "end": 51
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-179",
+  "text": "this is a wonderful camera.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 20,
+    "end": 26
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-183",
+  "text": "one neat thing - i have taken some pictures in what i thought would be impossible lighting conditions pitch black rooms - no problem for the camera - rooms looked like they had ample lighting.",
+  "aspects": [
+   {
+    "term": "picture",
+    "polarity": "positive",
+    "start": 35,
+    "end": 42
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-185",
+  "text": "this little camera has created a marriage between myself and nikon. never knew i could love a digital camera so much.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 12,
+    "end": 18
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-186",
+  "text": "the software that comes with it is amazing and the online service that comes free is really very neat. clean clear and well focused on over 95% of all photos taken by a beginner.",
+  "aspects": [
+   {
+    "term": "software",
+    "polarity": "positive",
+    "start": 4,
+    "end": 12
+   },
+   {
+    "term": "online service",
+    "polarity": "positive",
+    "start": 51,
+    "end": 65
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-190",
+  "text": "just point and shoot and the photos were great.",
+  "aspects": [
+   {
+    "term": "photo",
+    "polarity": "positive",
+    "start": 29,
+    "end": 34
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-192",
+  "text": "the memory card fit nicely since i also have a pocket pc and it automatically installed a picture software on my pda wolla.",
+  "aspects": [
+   {
+    "term": "memory card",
+    "polarity": "positive",
+    "start": 4,
+    "end": 15
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-195",
+  "text": "if you have to buy a camera on a buget, this has got to be the one.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 21,
+    "end": 27
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-199",
+  "text": "great camera, i have been using this for several months and got excellent results, simple friendly usage, in many scenes indoor, outdoor, snow, close up macro etc.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 6,
+    "end": 12
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-202",
+  "text": "this is my first digital camera and i can say that i am quite impressed with the features that it has.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 25,
+    "end": 31
+   },
+   {
+    "term": "feature",
+    "polarity": "positive",
+    "start": 81,
+    "end": 88
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-204",
+  "text": "i particularly like the way it aids me in taking my macro shots.",
+  "aspects": [
+   {
+    "term": "macro",
+    "polarity": "positive",
+    "start": 52,
+    "end": 57
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-206",
+  "text": "one downside though is that autofocus does not work well when battery is low.",
+  "aspects": [
+   {
+    "term": "autofocus",
+    "polarity": "negative",
+    "start": 28,
+    "end": 37
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-208",
+  "text": "battery life is ok.",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "positive",
+    "start": 0,
+    "end": 12
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-211",
+  "text": "great camera, and for the price you can 't beat it.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 6,
+    "end": 12
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-213",
+  "text": "i found the controls very intuitive and learned how to manuver through the menus quickly.",
+  "aspects": [
+   {
+    "term": "control",
+    "polarity": "positive",
+    "start": 12,
+    "end": 19
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-214",
+  "text": "the quality is superb.",
+  "aspects": [
+   {
+    "term": "quality",
+    "polarity": "positive",
+    "start": 4,
+    "end": 11
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-215",
+  "text": "the small size is perfect for my little hands, but may perhaps be uncomfortable or awkward for a bigger person.",
+  "aspects": [
+   {
+    "term": "size",
+    "polarity": "positive",
+    "start": 10,
+    "end": 14
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-222",
+  "text": "it comes with a rechargable battery that does not seem to last all that long, especially if you use the flash a lot.",
+  "aspects": [
+   {
+    "term": "battery",
+    "polarity": "negative",
+    "start": 28,
+    "end": 35
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-224",
+  "text": "it does not have an auto-focus assist light which is nice for taking shots in low-light situations it allows the camera to focus in low light.",
+  "aspects": [
+   {
+    "term": "auto-focus assist light",
+    "polarity": "negative",
+    "start": 20,
+    "end": 43
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-226",
+  "text": "it has a 3x optical zoom, which is average for these cameras.",
+  "aspects": [
+   {
+    "term": "optical zoom",
+    "polarity": "negative",
+    "start": 12,
+    "end": 24
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-234",
+  "text": "it really is an awesome camera that is hard to beat for general-to moderate snapping.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 24,
+    "end": 30
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-236",
+  "text": "they take excellent macro shots as well.",
+  "aspects": [
+   {
+    "term": "macro",
+    "polarity": "positive",
+    "start": 20,
+    "end": 25
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-237",
+  "text": "the menus and features are easy to manipulate and access, and it takes silent movies.",
+  "aspects": [
+   {
+    "term": "menu",
+    "polarity": "positive",
+    "start": 4,
+    "end": 8
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-239",
+  "text": "i compared this to a lot of other cameras, believe me, it's value for money.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 34,
+    "end": 40
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-240",
+  "text": "the picturers are amazing.",
+  "aspects": [
+   {
+    "term": "picture",
+    "polarity": "positive",
+    "start": 4,
+    "end": 11
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-245",
+  "text": "recently bought this coolpix 4300 along with a 256mb ultra flash card. as expected, i happily found that qualities of the picture are excellent with 3m-4m pixel / fine combos and many of the user-friendly functions are very similar to slr models, and with added convenience of a digital camera that you can see pictures immediately.",
+  "aspects": [
+   {
+    "term": "function",
+    "polarity": "positive",
+    "start": 205,
+    "end": 213
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-255",
+  "text": "a nikon will make you happier and leave you lots of good memories, as always.",
+  "aspects": [
+   {
+    "term": "nikon",
+    "polarity": "positive",
+    "start": 2,
+    "end": 7
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-257",
+  "text": "i highly recommend this camera to anyone looking for a good digital camera that takes great pictures yet doesn't take weeks to figure out how to operate.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 24,
+    "end": 30
+   },
+   {
+    "term": "picture",
+    "polarity": "positive",
+    "start": 92,
+    "end": 99
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-259",
+  "text": "i am a picture fanatic so i consider myself picky and if your the same way this camera will not let you down.now buy it!",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 80,
+    "end": 86
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-264",
+  "text": "i have it for a week now, and this camera has exceeded my expectations.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 35,
+    "end": 41
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-265",
+  "text": "the daylight pictures are brilliant and the indoor shots are very good provided that your subject is no more than about 8 feet away.",
+  "aspects": [
+   {
+    "term": "picture",
+    "polarity": "positive",
+    "start": 13,
+    "end": 20
+   },
+   {
+    "term": "indoor shot",
+    "polarity": "positive",
+    "start": 44,
+    "end": 55
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-268",
+  "text": "the only drawbacks i've encountered are: 1 indoor shots from a distance > 8ft lack contrast and color, but i've found this to be a problem with all cameras with built-in flashes that i've used even on a nikon slr.",
+  "aspects": [
+   {
+    "term": "indoor shot",
+    "polarity": "negative",
+    "start": 43,
+    "end": 54
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-270",
+  "text": "2 the battery life seems to be on the short side but adequate for most situations.",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "negative",
+    "start": 6,
+    "end": 18
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-273",
+  "text": "3 the picture editing software it came with is adequate, but not very robust.",
+  "aspects": [
+   {
+    "term": "software",
+    "polarity": "negative",
+    "start": 22,
+    "end": 30
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-277",
+  "text": "in summary, i love this camera and would whole-heartedly recommend this to anyone wanting a high quality point and shoot camera in the medium price range.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 24,
+    "end": 30
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-289",
+  "text": "i am impressed with how easy this camera is to use.",
+  "aspects": [
+   {
+    "term": "use",
+    "polarity": "positive",
+    "start": 47,
+    "end": 50
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-290",
+  "text": "it takes great pictures.",
+  "aspects": [
+   {
+    "term": "picture",
+    "polarity": "positive",
+    "start": 15,
+    "end": 22
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-291",
+  "text": "the manual is easy to understand, and it is mostly idiot proof.",
+  "aspects": [
+   {
+    "term": "manual",
+    "polarity": "positive",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-298",
+  "text": "i got this camera about a month ago and i can 't put it down.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 11,
+    "end": 17
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-301",
+  "text": "autofocus feels exactly like my film camera while scene and manual mode add a little fun challenge to it all.",
+  "aspects": [
+   {
+    "term": "autofocus",
+    "polarity": "positive",
+    "start": 0,
+    "end": 9
+   },
+   {
+    "term": "manual mode",
+    "polarity": "positive",
+    "start": 60,
+    "end": 71
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-308",
+  "text": "picture quality in outdoor settings is indistinguishable from 35mm.",
+  "aspects": [
+   {
+    "term": "picture quality",
+    "polarity": "positive",
+    "start": 0,
+    "end": 15
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-309",
+  "text": "on average, indoor shots with a flash are not quite as good as 35mm.",
+  "aspects": [
+   {
+    "term": "indoor shot",
+    "polarity": "negative",
+    "start": 12,
+    "end": 23
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-311",
+  "text": "i am extremely satisfied with this camera.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 35,
+    "end": 41
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-321",
+  "text": "however, its 3x optical setting is acceptable for 70% of the shots that i take.",
+  "aspects": [
+   {
+    "term": "optical setting",
+    "polarity": "positive",
+    "start": 16,
+    "end": 31
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-324",
+  "text": "if you're looking for a small, compact, super resolution digital camera, you can end your search with the nikon 4300!",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 65,
+    "end": 71
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-325",
+  "text": "after a lengthy and extensive journey for a feature-loaded, high performance, travel size camera, i initially gravitated to this little gem because of the superior picture quality 4 mega pixel.",
+  "aspects": [
+   {
+    "term": "picture quality",
+    "polarity": "positive",
+    "start": 164,
+    "end": 179
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-326",
+  "text": "after using it for about a month, i can state unequivocably that this nikon definitely delivers a huge bang for the buck.",
+  "aspects": [
+   {
+    "term": "nikon",
+    "polarity": "positive",
+    "start": 70,
+    "end": 75
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-327",
+  "text": "its easy to use and the sheer fun of being able to use an array of nikon accessories like the telephoto and wide-angle lenses is the proverbial icing on the cake.",
+  "aspects": [
+   {
+    "term": "use",
+    "polarity": "positive",
+    "start": 12,
+    "end": 15
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-328",
+  "text": "yes, the picture quality and features which are too numerous to mention are unmatched for any camera in this price range.",
+  "aspects": [
+   {
+    "term": "picture quality",
+    "polarity": "positive",
+    "start": 9,
+    "end": 24
+   },
+   {
+    "term": "feature",
+    "polarity": "positive",
+    "start": 29,
+    "end": 36
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-329",
+  "text": "the design and construction are excellent -- as is the legendary quality of the nikon optics.",
+  "aspects": [
+   {
+    "term": "design",
+    "polarity": "positive",
+    "start": 4,
+    "end": 10
+   },
+   {
+    "term": "construction",
+    "polarity": "positive",
+    "start": 15,
+    "end": 27
+   },
+   {
+    "term": "optic",
+    "polarity": "positive",
+    "start": 86,
+    "end": 91
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-334",
+  "text": "there are so many functions in this little, yet powerful camera!",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 57,
+    "end": 63
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-339",
+  "text": "but this camera is great!",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 9,
+    "end": 15
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-340",
+  "text": "the picture quality is amazing and you can connect it to your tv and could make silent movies that way if you wanted to.",
+  "aspects": [
+   {
+    "term": "picture quality",
+    "polarity": "positive",
+    "start": 4,
+    "end": 19
+   },
+   {
+    "term": "movie",
+    "polarity": "positive",
+    "start": 87,
+    "end": 92
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-344",
+  "text": "it does have a lense cap, but it won't let you take pics with it on which is real good.",
+  "aspects": [
+   {
+    "term": "lense cap",
+    "polarity": "positive",
+    "start": 15,
+    "end": 24
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-345",
+  "text": "the battery recharges ral fast and the recharger thingy that comes with is real nice.",
+  "aspects": [
+   {
+    "term": "battery",
+    "polarity": "positive",
+    "start": 4,
+    "end": 11
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-346",
+  "text": "ooh, and i dropped it and it still works fine: this little camera has so many features i haven't even gotten to all of them yet.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 59,
+    "end": 65
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-349",
+  "text": "it's easy for beginners to use, but has features that more serious photographers will love, so it's an excellent camera to grow into.",
+  "aspects": [
+   {
+    "term": "use",
+    "polarity": "positive",
+    "start": 27,
+    "end": 30
+   },
+   {
+    "term": "feature",
+    "polarity": "positive",
+    "start": 40,
+    "end": 47
+   },
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 113,
+    "end": 119
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-350",
+  "text": "it's light weight enough to take with you everywhere, but powerful enough to get outstanding pix.",
+  "aspects": [
+   {
+    "term": "weight",
+    "polarity": "positive",
+    "start": 11,
+    "end": 17
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-351",
+  "text": "i love the continuous shot mode, which allows you to take up to 16 pix in rapid succession -- great for action shots.",
+  "aspects": [
+   {
+    "term": "continuous shot mode",
+    "polarity": "positive",
+    "start": 11,
+    "end": 31
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-352",
+  "text": "i'm amazed at the photo quality -- prints are indistinguishable from 35mm prints.",
+  "aspects": [
+   {
+    "term": "photo quality",
+    "polarity": "positive",
+    "start": 18,
+    "end": 31
+   },
+   {
+    "term": "print",
+    "polarity": "positive",
+    "start": 35,
+    "end": 40
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-353",
+  "text": "i only have one complaint, and that is the 8mb card included.",
+  "aspects": [
+   {
+    "term": "8mb card",
+    "polarity": "negative",
+    "start": 43,
+    "end": 51
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-354",
+  "text": "8mb for a camera like this is a joke.",
+  "aspects": [
+   {
+    "term": "8mb",
+    "polarity": "negative",
+    "start": 0,
+    "end": 3
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-360",
+  "text": "1 it has all the features an amatuer photo-enthusiast would want.",
+  "aspects": [
+   {
+    "term": "feature",
+    "polarity": "positive",
+    "start": 17,
+    "end": 24
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-361",
+  "text": "2 it is easy enough for my grandmother to use.",
+  "aspects": [
+   {
+    "term": "use",
+    "polarity": "positive",
+    "start": 42,
+    "end": 45
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-362",
+  "text": "3 it is very compact but the controls are so well designed that they're still easy to use.",
+  "aspects": [
+   {
+    "term": "control",
+    "polarity": "positive",
+    "start": 29,
+    "end": 36
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-366",
+  "text": "7 picture quality is excellent.",
+  "aspects": [
+   {
+    "term": "picture quality",
+    "polarity": "positive",
+    "start": 2,
+    "end": 17
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-367",
+  "text": "8 battery life is excellent.",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "positive",
+    "start": 2,
+    "end": 14
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-368",
+  "text": "9 3x built-in optical zoom is a lot for this price range.",
+  "aspects": [
+   {
+    "term": "optical zoom",
+    "polarity": "positive",
+    "start": 14,
+    "end": 26
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-369",
+  "text": "10 great price for all the features.",
+  "aspects": [
+   {
+    "term": "price",
+    "polarity": "positive",
+    "start": 9,
+    "end": 14
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-371",
+  "text": "1 no direct firewire to the camera.",
+  "aspects": [
+   {
+    "term": "firewire",
+    "polarity": "negative",
+    "start": 12,
+    "end": 20
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-373",
+  "text": "2 the camera is so small that when you attach some lenses i have the 19mm wide-angle -- wc-e 68, the optical viewfinder is partially obscured.",
+  "aspects": [
+   {
+    "term": "viewfinder",
+    "polarity": "negative",
+    "start": 109,
+    "end": 119
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-383",
+  "text": "this camera was affordable, very easy to learn, and produces spectacular images.",
+  "aspects": [
+   {
+    "term": "learn",
+    "polarity": "positive",
+    "start": 41,
+    "end": 46
+   },
+   {
+    "term": "image",
+    "polarity": "positive",
+    "start": 73,
+    "end": 78
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-384",
+  "text": "the auto-mode is good enough for most shots but the 4300 also boasts 12 versatile scene modes as well as a manual mode though i admit i haven't played with it too much on manual.",
+  "aspects": [
+   {
+    "term": "scene mode",
+    "polarity": "positive",
+    "start": 82,
+    "end": 92
+   },
+   {
+    "term": "manual mode",
+    "polarity": "positive",
+    "start": 107,
+    "end": 118
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-385",
+  "text": "it's size also makes it ideal for travel.",
+  "aspects": [
+   {
+    "term": "size",
+    "polarity": "positive",
+    "start": 5,
+    "end": 9
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-386",
+  "text": "overall the nikon 4300 is a very dependable, robust, and useful little camera.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 71,
+    "end": 77
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-388",
+  "text": "awesome camera with huge print quality in a tiny package.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 8,
+    "end": 14
+   },
+   {
+    "term": "print quality",
+    "polarity": "positive",
+    "start": 25,
+    "end": 38
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-389",
+  "text": "the same 4mp chip from the 4500 camera, plus a 3x zoom with the ability to expand upon that with extenders, great closeup mode, long lasting rechargable battery, etc etc.",
+  "aspects": [
+   {
+    "term": "closeup mode",
+    "polarity": "positive",
+    "start": 114,
+    "end": 126
+   },
+   {
+    "term": "battery",
+    "polarity": "positive",
+    "start": 153,
+    "end": 160
+   }
+  ],
+  "domain": "camera_unseen"
+ },
+ {
+  "id": "camera_unseen-Nikon coolpix 4300-390",
+  "text": "in my opinion it's the best camera for the money if you're looking for something that's easy to use, small good for travel, and provides excellent, sharp images.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 28,
+    "end": 34
+   }
+  ],
+  "domain": "camera_unseen"
+ }
+]

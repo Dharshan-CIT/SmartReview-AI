@@ -1,0 +1,377 @@
+{
+  "_note": "Hand-written expected answers (written by a person, not by the model). Keys are aspect words that must appear inside an extracted aspect; values are the correct sentiment. 'none' means the review has no product feature. 'in_scope' marks product types the models were trained/tested on. 'contested': true marks cases where the expected label follows one reading of mild wording (okay / average / so-so = neutral); on real annotated reviews these words are labelled positive more often than neutral, so those cases are reported separately and are not part of the pass-rate guard.",
+  "cases": [
+    {
+      "review": "The display is fantastic and the keyboard is comfortable, but the battery life is terrible.",
+      "expect": {
+        "display": "positive",
+        "keyboard": "positive",
+        "battery": "negative"
+      },
+      "in_scope": true
+    },
+    {
+      "review": "The screen is beautiful but the battery drains quickly.",
+      "expect": {
+        "screen": "positive",
+        "battery": "negative"
+      },
+      "in_scope": true
+    },
+    {
+      "review": "The keyboard is okay.",
+      "expect": {
+        "keyboard": "neutral"
+      },
+      "in_scope": true,
+      "contested": true
+    },
+    {
+      "review": "The trackpad is average.",
+      "expect": {
+        "trackpad": "neutral"
+      },
+      "in_scope": true,
+      "contested": true
+    },
+    {
+      "review": "The speakers are so-so but the screen is gorgeous.",
+      "expect": {
+        "speakers": "neutral",
+        "screen": "positive"
+      },
+      "in_scope": true,
+      "contested": true
+    },
+    {
+      "review": "The laptop is lightweight, the keyboard is comfortable, and the display is excellent.",
+      "expect": {
+        "keyboard": "positive",
+        "display": "positive"
+      },
+      "in_scope": true
+    },
+    {
+      "review": "The fan is loud and the laptop gets very hot.",
+      "expect": {
+        "fan": "negative"
+      },
+      "in_scope": true
+    },
+    {
+      "review": "Great performance for the price and the build quality feels solid.",
+      "expect": {
+        "performance": "positive",
+        "build": "positive"
+      },
+      "in_scope": true
+    },
+    {
+      "review": "The trackpad is unresponsive and the keys feel cheap.",
+      "expect": {
+        "trackpad": "negative"
+      },
+      "in_scope": true
+    },
+    {
+      "review": "Boot time is fast and the storage is plentiful.",
+      "expect": {
+        "storage": "positive"
+      },
+      "in_scope": true
+    },
+    {
+      "review": "The webcam is grainy and the microphone is poor.",
+      "expect": {
+        "webcam": "negative",
+        "microphone": "negative"
+      },
+      "in_scope": true
+    },
+    {
+      "review": "The charger is bulky but the battery lasts all day.",
+      "expect": {
+        "charger": "negative",
+        "battery": "positive"
+      },
+      "in_scope": true
+    },
+    {
+      "review": "The camera quality is excellent but the battery performance is disappointing.",
+      "expect": {
+        "camera": "positive",
+        "battery": "negative"
+      },
+      "in_scope": true
+    },
+    {
+      "review": "The screen is bright and the battery lasts two days, but the speaker is tinny.",
+      "expect": {
+        "screen": "positive",
+        "battery": "positive",
+        "speaker": "negative"
+      },
+      "in_scope": true
+    },
+    {
+      "review": "The phone is fast and the display is sharp.",
+      "expect": {
+        "display": "positive"
+      },
+      "in_scope": true
+    },
+    {
+      "review": "Terrible signal reception and the software is buggy.",
+      "expect": {
+        "signal": "negative",
+        "software": "negative"
+      },
+      "in_scope": true
+    },
+    {
+      "review": "The fingerprint sensor is quick but the camera is mediocre in low light.",
+      "expect": {
+        "fingerprint": "positive",
+        "camera": "negative"
+      },
+      "in_scope": true
+    },
+    {
+      "review": "The battery charges quickly and lasts long.",
+      "expect": {
+        "battery": "positive"
+      },
+      "in_scope": true
+    },
+    {
+      "review": "The screen cracked after a week and the build quality is poor.",
+      "expect": {
+        "build": "negative"
+      },
+      "in_scope": true
+    },
+    {
+      "review": "The lens is excellent and the zoom is fast, but the menu system is confusing.",
+      "expect": {
+        "lens": "positive",
+        "zoom": "positive",
+        "menu": "negative"
+      },
+      "in_scope": true
+    },
+    {
+      "review": "The autofocus is quick and the photos are sharp.",
+      "expect": {
+        "autofocus": "positive"
+      },
+      "in_scope": true
+    },
+    {
+      "review": "The battery dies too fast and the flash is weak.",
+      "expect": {
+        "battery": "negative",
+        "flash": "negative"
+      },
+      "in_scope": true
+    },
+    {
+      "review": "The images are noisy in low light and the viewfinder is small.",
+      "expect": {
+        "viewfinder": "negative"
+      },
+      "in_scope": true
+    },
+    {
+      "review": "The menu is okay and the grip is comfortable.",
+      "expect": {
+        "menu": "neutral",
+        "grip": "positive"
+      },
+      "in_scope": true,
+      "contested": true
+    },
+    {
+      "review": "The storage is huge and the sound quality is great, but the software is buggy.",
+      "expect": {
+        "storage": "positive",
+        "sound": "positive",
+        "software": "negative"
+      },
+      "in_scope": true
+    },
+    {
+      "review": "The battery is poor and the screen is too small.",
+      "expect": {
+        "battery": "negative",
+        "screen": "negative"
+      },
+      "in_scope": true
+    },
+    {
+      "review": "The DVD player reads discs quickly but the remote is flimsy.",
+      "expect": {
+        "remote": "negative"
+      },
+      "in_scope": true
+    },
+    {
+      "review": "The picture quality is excellent and the menu is easy to use.",
+      "expect": {
+        "picture": "positive",
+        "menu": "positive"
+      },
+      "in_scope": true
+    },
+    {
+      "review": "The sound quality is amazing, although the ear cushions are uncomfortable.",
+      "expect": {
+        "sound": "positive",
+        "cushions": "negative"
+      },
+      "in_scope": false
+    },
+    {
+      "review": "The ear cushions are comfortable but the bass is weak and the price is too high.",
+      "expect": {
+        "cushions": "positive",
+        "bass": "negative",
+        "price": "negative"
+      },
+      "in_scope": false
+    },
+    {
+      "review": "The noise cancellation is superb and the battery lasts 30 hours.",
+      "expect": {
+        "noise": "positive",
+        "battery": "positive"
+      },
+      "in_scope": false
+    },
+    {
+      "review": "The microphone is okay but the bluetooth connection keeps dropping.",
+      "expect": {
+        "microphone": "neutral",
+        "bluetooth": "negative"
+      },
+      "in_scope": false,
+      "contested": true
+    },
+    {
+      "review": "The speaker is loud and clear and the bass is punchy.",
+      "expect": {
+        "speaker": "positive",
+        "bass": "positive"
+      },
+      "in_scope": false
+    },
+    {
+      "review": "The volume is low and the sound is muffled.",
+      "expect": {
+        "volume": "negative",
+        "sound": "negative"
+      },
+      "in_scope": false
+    },
+    {
+      "review": "The tablet screen is sharp but the speakers are weak.",
+      "expect": {
+        "screen": "positive",
+        "speakers": "negative"
+      },
+      "in_scope": false
+    },
+    {
+      "review": "The smartwatch battery lasts a week and the display is bright.",
+      "expect": {
+        "battery": "positive",
+        "display": "positive"
+      },
+      "in_scope": false
+    },
+    {
+      "review": "The strap is uncomfortable and the heart rate sensor is inaccurate.",
+      "expect": {
+        "strap": "negative",
+        "sensor": "negative"
+      },
+      "in_scope": false
+    },
+    {
+      "review": "The TV has a stunning picture but the remote is confusing.",
+      "expect": {
+        "picture": "positive",
+        "remote": "negative"
+      },
+      "in_scope": false
+    },
+    {
+      "review": "Setup was easy and the app works well.",
+      "expect": {
+        "setup": "positive",
+        "app": "positive"
+      },
+      "in_scope": false
+    },
+    {
+      "review": "The mouse is comfortable and the scroll wheel is smooth.",
+      "expect": {
+        "mouse": "positive",
+        "scroll": "positive"
+      },
+      "in_scope": false
+    },
+    {
+      "review": "The cable is too short and feels cheap.",
+      "expect": {
+        "cable": "negative"
+      },
+      "in_scope": false
+    },
+    {
+      "review": "I love it.",
+      "expect": "none",
+      "in_scope": true
+    },
+    {
+      "review": "Thank you so much!",
+      "expect": "none",
+      "in_scope": true
+    },
+    {
+      "review": "I bought it last week.",
+      "expect": "none",
+      "in_scope": true
+    },
+    {
+      "review": "Highly recommended!",
+      "expect": "none",
+      "in_scope": true
+    },
+    {
+      "review": "It arrived on time.",
+      "expect": "none",
+      "in_scope": true
+    },
+    {
+      "review": "The battery is not good.",
+      "expect": {
+        "battery": "negative"
+      },
+      "in_scope": true
+    },
+    {
+      "review": "The screen is not bad at all, really bright.",
+      "expect": {
+        "screen": "positive"
+      },
+      "in_scope": true
+    },
+    {
+      "review": "The keyboard is fine for the price.",
+      "expect": {
+        "keyboard": "positive"
+      },
+      "in_scope": true
+    }
+  ]
+}

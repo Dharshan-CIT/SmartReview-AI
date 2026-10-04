@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 760" font-family="Segoe UI, Arial, sans-serif">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#475569"/>
+    </marker>
+    <style>
+      .box { fill:#ffffff; stroke:#cbd5e1; stroke-width:1.5; rx:10; }
+      .box-accent { fill:#eef2ff; stroke:#6366f1; stroke-width:1.5; rx:10; }
+      .box-green { fill:#ecfdf5; stroke:#059669; stroke-width:1.5; rx:10; }
+      .box-amber { fill:#fffbeb; stroke:#d97706; stroke-width:1.5; rx:10; }
+      .title { font-size:13px; font-weight:700; fill:#0f172a; }
+      .sub   { font-size:11px; fill:#475569; }
+      .group { font-size:12px; font-weight:700; fill:#334155; letter-spacing:.04em; text-transform:uppercase; }
+      .arrow { stroke:#475569; stroke-width:1.6; fill:none; marker-end:url(#arrow); }
+      .dash  { stroke:#94a3b8; stroke-width:1.4; fill:none; stroke-dasharray:5 4; marker-end:url(#arrow); }
+    </style>
+  </defs>
+  <rect width="1180" height="760" fill="#f8fafc"/>
+
+  <!-- ============ DATA ============ -->
+  <text x="40" y="34" class="group">1. Data</text>
+  <rect x="40" y="46" width="230" height="64" class="box"/>
+  <text x="54" y="68" class="title">Raw datasets</text>
+  <text x="54" y="86" class="sub">SemEval-2014 laptops</text>
+  <text x="54" y="100" class="sub">M-ABSA phones · Hu&amp;Liu camera/phone/DVD</text>
+
+  <rect x="40" y="128" width="230" height="78" class="box"/>
+  <text x="54" y="150" class="title">Preprocessing</text>
+  <text x="54" y="168" class="sub">clean · BIO tagging</text>
+  <text x="54" y="182" class="sub">sentence-level leak-free split</text>
+  <text x="54" y="196" class="sub">(StratifiedGroupKFold)</text>
+
+  <path class="arrow" d="M155,110 V128"/>
+
+  <!-- ============ TRAINING (Colab) ============ -->
+  <text x="330" y="34" class="group">2. Training (Colab GPU)</text>
+  <rect x="330" y="46" width="230" height="64" class="box-accent"/>
+  <text x="344" y="68" class="title">BERT ATE</text>
+  <text x="344" y="86" class="sub">token classification (BIO)</text>
+  <text x="344" y="100" class="sub">finds aspect spans</text>
+
+  <rect x="330" y="128" width="230" height="64" class="box-accent"/>
+  <text x="344" y="150" class="title">BERT ATSC</text>
+  <text x="344" y="168" class="sub">sentence-pair classification</text>
+  <text x="344" y="182" class="sub">aspect marked with &lt;&lt; &gt;&gt;</text>
+
+  <rect x="330" y="210" width="230" height="64" class="box-amber"/>
+  <text x="344" y="232" class="title">Calibration</text>
+  <text x="344" y="250" class="sub">temperature scaling on validation</text>
+  <text x="344" y="264" class="sub">ECE 0.076 → 0.034 on test</text>
+
+  <path class="arrow" d="M270,88 H330"/>
+  <path class="arrow" d="M270,160 H330"/>
+  <path class="arrow" d="M445,192 V210"/>
+
+  <!-- ============ EVALUATION ============ -->
+  <text x="330" y="320" class="group">3. Evaluation (held out)</text>
+  <rect x="330" y="332" width="230" height="110" class="box"/>
+  <text x="344" y="354" class="title">Test sets × 5 domains</text>
+  <text x="344" y="372" class="sub">laptop · phone · camera/DVD</text>
+  <text x="344" y="386" class="sub">+ 2 products never trained on</text>
+  <text x="344" y="404" class="sub">+ hand-written golden reviews</text>
+  <text x="344" y="422" class="sub">(72/75 correct, regression-guarded)</text>
+
+  <path class="arrow" d="M445,274 V332"/>
+
+  <!-- ============ ARTIFACTS ============ -->
+  <text x="40" y="320" class="group">Artifacts</text>
+  <rect x="40" y="332" width="230" height="110" class="box-green"/>
+  <text x="54" y="354" class="title">models/ate, models/atsc</text>
+  <text x="54" y="372" class="sub">weights + tokenizer + label map</text>
+  <text x="54" y="386" class="sub">+ temperature (absa_config.json)</text>
+  <text x="54" y="404" class="sub">docs/results/*.json</text>
+  <text x="54" y="418" class="sub">(every number on the site comes from here)</text>
+
+  <path class="dash" d="M330,387 H270"/>
+  <path class="arrow" d="M155,206 V332"/>
+
+  <!-- ============ SERVING ============ -->
+  <text x="40" y="500" class="group">4. Serving (your machine)</text>
+
+  <rect x="40" y="512" width="230" height="90" class="box"/>
+  <text x="54" y="534" class="title">ml.inference.ABSAPipeline</text>
+  <text x="54" y="552" class="sub">loads both models ONCE at startup</text>
+  <text x="54" y="566" class="sub">batches requests · clean_spans()</text>
+  <text x="54" y="580" class="sub">flag_mild_wording() (hint only)</text>
+
+  <rect x="330" y="512" width="230" height="90" class="box-accent"/>
+  <text x="344" y="534" class="title">FastAPI backend</text>
+  <text x="344" y="552" class="sub">/api/analyze · /api/analyze/batch</text>
+  <text x="344" y="566" class="sub">/api/history · /api/feedback</text>
+  <text x="344" y="580" class="sub">/api/model-info · /api/analytics</text>
+
+  <rect x="620" y="512" width="230" height="90" class="box"/>
+  <text x="634" y="534" class="title">SQLite</text>
+  <text x="634" y="552" class="sub">reviews · aspects</text>
+  <text x="634" y="566" class="sub">thumbs_up / thumbs_down</text>
+  <text x="634" y="580" class="sub">(history, analytics, feedback)</text>
+
+  <rect x="910" y="512" width="230" height="90" class="box-green"/>
+  <text x="924" y="534" class="title">React frontend</text>
+  <text x="924" y="552" class="sub">Analyzer · Batch · Compare</text>
+  <text x="924" y="566" class="sub">Analytics · History</text>
+  <text x="924" y="580" class="sub">hidden Model page (Alt+Shift+M)</text>
+
+  <path class="arrow" d="M270,557 H330"/>
+  <path class="arrow" d="M560,557 H620"/>
+  <path class="arrow" d="M560,540 H910" />
+  <path class="arrow" d="M850,575 H910" />
+  <path class="dash" d="M155,442 V512"/>
+
+  <!-- ============ FEEDBACK LOOP ============ -->
+  <text x="330" y="680" class="group">5. Human-in-the-loop (future work)</text>
+  <rect x="330" y="692" width="520" height="56" class="box-amber"/>
+  <text x="344" y="714" class="title">👍 / 👎 on any result → most-disputed aspects (Model page)</text>
+  <text x="344" y="732" class="sub">candidates for re-labelling and a future fine-tuning pass — see docs/EXPERIMENTS.md</text>
+
+  <path class="dash" d="M1025,602 V636 H590 V692" />
+  <path class="dash" d="M590,692 V240 L560,240" />
+</svg>

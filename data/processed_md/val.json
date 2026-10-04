@@ -1,0 +1,9467 @@
+[
+ {
+  "id": "2005",
+  "text": "it is of high quality, has a killer GUI, is extremely stable, is highly expandable, is bundled with lots of very good applications, is easy to use, and is absolutely gorgeous.",
+  "aspects": [
+   {
+    "term": "quality",
+    "polarity": "positive",
+    "start": 14,
+    "end": 21
+   },
+   {
+    "term": "GUI",
+    "polarity": "positive",
+    "start": 36,
+    "end": 39
+   },
+   {
+    "term": "applications",
+    "polarity": "positive",
+    "start": 118,
+    "end": 130
+   },
+   {
+    "term": "use",
+    "polarity": "positive",
+    "start": 143,
+    "end": 146
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "263",
+  "text": "I HATE this one.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1158",
+  "text": "Oh, boy!",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1005",
+  "text": "They were great in handling this problem, and I'm looking forward in purchasing additonal products from them in the future.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "130",
+  "text": "but now i have realized its a problem with this brand.",
+  "aspects": [
+   {
+    "term": "brand",
+    "polarity": "negative",
+    "start": 48,
+    "end": 53
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1473",
+  "text": "And this isn't just my one experine.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1193",
+  "text": "Speaking of the browser, it too has problems.",
+  "aspects": [
+   {
+    "term": "browser",
+    "polarity": "negative",
+    "start": 16,
+    "end": 23
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2492",
+  "text": "Amazing Quality!",
+  "aspects": [
+   {
+    "term": "Quality",
+    "polarity": "positive",
+    "start": 8,
+    "end": 15
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1781",
+  "text": "Then 2 of my nephews were going into music and both fell in love with the MacBook Pro.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1718",
+  "text": "I eventually did the migration from my iMac backup disc which uses USB.",
+  "aspects": [
+   {
+    "term": "iMac backup disc",
+    "polarity": "neutral",
+    "start": 39,
+    "end": 55
+   },
+   {
+    "term": "USB",
+    "polarity": "neutral",
+    "start": 67,
+    "end": 70
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "488",
+  "text": "But we had paid for bluetooth, and there was none.",
+  "aspects": [
+   {
+    "term": "bluetooth",
+    "polarity": "negative",
+    "start": 20,
+    "end": 29
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2985",
+  "text": "My daughter uses it for games, email, facebook, pictures and music.",
+  "aspects": [
+   {
+    "term": "games",
+    "polarity": "neutral",
+    "start": 24,
+    "end": 29
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "30",
+  "text": "Keyboard is great, very quiet for all the typing that I do.",
+  "aspects": [
+   {
+    "term": "Keyboard",
+    "polarity": "positive",
+    "start": 0,
+    "end": 8
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "172",
+  "text": "Yet, HP won't do anything about the problem.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2095",
+  "text": "I can render AVCHD movies with little effort, which was a problem for most pc's unless you had a quad core I7.",
+  "aspects": [
+   {
+    "term": "quad core I7",
+    "polarity": "positive",
+    "start": 97,
+    "end": 109
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "46",
+  "text": "It's a bummer and one out of five is being kind.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "524",
+  "text": "Which I still use and have hooked up to my TV.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2433",
+  "text": "You may need to special order a bag.",
+  "aspects": [
+   {
+    "term": "bag",
+    "polarity": "neutral",
+    "start": 32,
+    "end": 35
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1585",
+  "text": "He gave me this PC about 3 years ago and up to this point im still sitting here using it.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2444",
+  "text": "I'm pleased.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1661",
+  "text": "Shiny This Laptop is the Best of the best!",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1460",
+  "text": "I am however pleased that it is still hanging in there.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1301",
+  "text": "and then, a guy came out to serve me instead.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1686",
+  "text": "Another thing I might add is the battery life is excellent.",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "positive",
+    "start": 33,
+    "end": 45
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2874",
+  "text": "The delivery was fast, and I would not hesitate to purchase this laptop again.",
+  "aspects": [
+   {
+    "term": "delivery",
+    "polarity": "positive",
+    "start": 4,
+    "end": 12
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "198",
+  "text": "do a quick search on the internet see if im the only one.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "104",
+  "text": "Is this partially due to the fact that it is running Windows Vista?",
+  "aspects": [
+   {
+    "term": "Windows Vista",
+    "polarity": "neutral",
+    "start": 53,
+    "end": 66
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2616",
+  "text": "I BOUGHT THEM FOR MY COLLEGE AGE GRANDCHILDREN AND THESE MACS ARE TOTALLY RELIABLE AND SUPPORT THEIR CLASS WORK 100% OF THE TIME.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1045",
+  "text": "Do not purchase this laptop.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "386",
+  "text": "The screen is very large and crystal clear with amazing colors and resolution.",
+  "aspects": [
+   {
+    "term": "screen",
+    "polarity": "positive",
+    "start": 4,
+    "end": 10
+   },
+   {
+    "term": "colors",
+    "polarity": "positive",
+    "start": 56,
+    "end": 62
+   },
+   {
+    "term": "resolution",
+    "polarity": "positive",
+    "start": 67,
+    "end": 77
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2388",
+  "text": "Really like the textured surface which shows no fingerprints.",
+  "aspects": [
+   {
+    "term": "surface",
+    "polarity": "positive",
+    "start": 25,
+    "end": 32
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2534",
+  "text": "But the machine is awesome and iLife is great and I love Snow Leopard X.",
+  "aspects": [
+   {
+    "term": "iLife",
+    "polarity": "positive",
+    "start": 31,
+    "end": 36
+   },
+   {
+    "term": "Snow Leopard X",
+    "polarity": "positive",
+    "start": 57,
+    "end": 71
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2632",
+  "text": "I thought learning the Mac OS would be hard, but it is easily picked up if you are familiar with a PC.",
+  "aspects": [
+   {
+    "term": "Mac OS",
+    "polarity": "positive",
+    "start": 23,
+    "end": 29
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1772",
+  "text": "My kids have to take their PCs in once a year to have them \"de-bugged\".",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2064",
+  "text": "One of the primary reasons why I purchased an IPad was to store photographs so that I could show to my customers.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2730",
+  "text": "This was the second computer and brand bought that day.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1376",
+  "text": "It seems they could have updated XP and done without creating Vista.",
+  "aspects": [
+   {
+    "term": "XP",
+    "polarity": "positive",
+    "start": 33,
+    "end": 35
+   },
+   {
+    "term": "Vista",
+    "polarity": "negative",
+    "start": 62,
+    "end": 67
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "449",
+  "text": "I love the 15\" MacBook Pro.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "9",
+  "text": "The Apple team also assists you very nicely when choosing which computer is right for you :)",
+  "aspects": [
+   {
+    "term": "Apple team",
+    "polarity": "positive",
+    "start": 4,
+    "end": 14
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2811",
+  "text": "Fan vents to the side, so no cooling pad needed, great feature!",
+  "aspects": [
+   {
+    "term": "Fan",
+    "polarity": "positive",
+    "start": 0,
+    "end": 3
+   },
+   {
+    "term": "cooling pad",
+    "polarity": "neutral",
+    "start": 29,
+    "end": 40
+   },
+   {
+    "term": "feature",
+    "polarity": "positive",
+    "start": 55,
+    "end": 62
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "455",
+  "text": "iTunes is a handy music-management program, and it is essential for anyone with an iPod.",
+  "aspects": [
+   {
+    "term": "iTunes",
+    "polarity": "positive",
+    "start": 0,
+    "end": 6
+   },
+   {
+    "term": "program",
+    "polarity": "positive",
+    "start": 35,
+    "end": 42
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "949",
+  "text": "it was shooting sparks!",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2496",
+  "text": "Mac is not made for gaming.",
+  "aspects": [
+   {
+    "term": "gaming",
+    "polarity": "negative",
+    "start": 20,
+    "end": 26
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "957",
+  "text": "By this time I was regretting ever SEEING this machine on the shelf!",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1191",
+  "text": "Tech support tells me the latter problem is a power supply problem and have offered to fix it if it happens again.",
+  "aspects": [
+   {
+    "term": "Tech support",
+    "polarity": "positive",
+    "start": 0,
+    "end": 12
+   },
+   {
+    "term": "power supply",
+    "polarity": "negative",
+    "start": 46,
+    "end": 58
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2007",
+  "text": "Buyers beware.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "777",
+  "text": "HOW DOES THE POWER SUPPLY NOT WORK!!!",
+  "aspects": [
+   {
+    "term": "POWER SUPPLY",
+    "polarity": "negative",
+    "start": 13,
+    "end": 25
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1588",
+  "text": "This is something i would deffinately reccomend to someone.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "728",
+  "text": "HP refused to give me a new one and Wal Mart refused to take it back.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1934",
+  "text": "Within 3 weeks the same issues started happening AGAIN.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "178",
+  "text": "Well, they don't care a bunch.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1757",
+  "text": "Great Laptop for the price, works well with action pack games.",
+  "aspects": [
+   {
+    "term": "price",
+    "polarity": "positive",
+    "start": 21,
+    "end": 26
+   },
+   {
+    "term": "action pack games",
+    "polarity": "neutral",
+    "start": 44,
+    "end": 61
+   },
+   {
+    "term": "works",
+    "polarity": "positive",
+    "start": 28,
+    "end": 33
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2919",
+  "text": "I would not recommend this to anyone wanting a notebook expecting the performance of a Desktop it does not meet the expectations.",
+  "aspects": [
+   {
+    "term": "performance",
+    "polarity": "negative",
+    "start": 70,
+    "end": 81
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2876",
+  "text": "The games included are very good games.",
+  "aspects": [
+   {
+    "term": "games",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 9
+   },
+   {
+    "term": "games",
+    "polarity": "positive",
+    "start": 33,
+    "end": 38
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2181",
+  "text": "Three, the mac book has advantages over pcs' with linux based os there is very 'few problems with system performance when it comes to a mac.",
+  "aspects": [
+   {
+    "term": "system performance",
+    "polarity": "negative",
+    "start": 98,
+    "end": 116
+   },
+   {
+    "term": "linux based os",
+    "polarity": "negative",
+    "start": 50,
+    "end": 64
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "695",
+  "text": "It is so much easier to use",
+  "aspects": [
+   {
+    "term": "use",
+    "polarity": "positive",
+    "start": 24,
+    "end": 27
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2291",
+  "text": "There is no need to open a program first and the cliick open or import.",
+  "aspects": [
+   {
+    "term": "program",
+    "polarity": "positive",
+    "start": 27,
+    "end": 34
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "658",
+  "text": "It was a bad experience but i played down its importance.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "3072",
+  "text": "I wanted something that had a new Intel Core processors and HDMI port so that we could hook it up directly to our TV.",
+  "aspects": [
+   {
+    "term": "Intel Core processors",
+    "polarity": "neutral",
+    "start": 34,
+    "end": 55
+   },
+   {
+    "term": "HDMI port",
+    "polarity": "neutral",
+    "start": 60,
+    "end": 69
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "827",
+  "text": "I'm a professional consultant, and a client needed work on her machine.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "157",
+  "text": "I realize that not every unit has this issue, but the ones that do cannot be repaired.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1513",
+  "text": "No Viruses!",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2706",
+  "text": "Features like the font are very block-like and old school.",
+  "aspects": [
+   {
+    "term": "font",
+    "polarity": "negative",
+    "start": 18,
+    "end": 22
+   },
+   {
+    "term": "Features",
+    "polarity": "negative",
+    "start": 0,
+    "end": 8
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "884",
+  "text": "Now,,,,,my monitor has been acting up for about 2 months.",
+  "aspects": [
+   {
+    "term": "monitor",
+    "polarity": "negative",
+    "start": 11,
+    "end": 18
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "764",
+  "text": "Call tech support, standard email the form and fax it back in to us.",
+  "aspects": [
+   {
+    "term": "tech support",
+    "polarity": "neutral",
+    "start": 5,
+    "end": 17
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "3012",
+  "text": "This is my second MacBook.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "11",
+  "text": "DEFINITELY recommended!!!",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2130",
+  "text": "I also liked the glass screen.",
+  "aspects": [
+   {
+    "term": "glass screen",
+    "polarity": "positive",
+    "start": 17,
+    "end": 29
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "638",
+  "text": "They refuse.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "993",
+  "text": "First of all, I've been Dell fan for more than fifteen years.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "3047",
+  "text": "(Beware, their staff could send you back making you feel that only they know what a computer is.",
+  "aspects": [
+   {
+    "term": "staff",
+    "polarity": "negative",
+    "start": 15,
+    "end": 20
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1733",
+  "text": "Games being the main issue.",
+  "aspects": [
+   {
+    "term": "Games",
+    "polarity": "negative",
+    "start": 0,
+    "end": 5
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "119",
+  "text": "I have a lapdesk which I can use, but I can still feel the heat through the foam and plastic.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "68",
+  "text": "and its really cheap and you wont regret buying it.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "415",
+  "text": "They are wonderful, but very dangerous when it comes to emitting heat.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2953",
+  "text": "The Nortons virus scan is only for a very short time unlike others that usually are good for a year.",
+  "aspects": [
+   {
+    "term": "Nortons virus scan",
+    "polarity": "negative",
+    "start": 4,
+    "end": 22
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1362",
+  "text": "Sent unit back and it's been two months.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2710",
+  "text": "Came fully loaded - good.",
+  "aspects": [
+   {
+    "term": "loaded",
+    "polarity": "positive",
+    "start": 11,
+    "end": 17
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "523",
+  "text": "I guess the only good thing that came out of these were the speakers and the subwoofer.",
+  "aspects": [
+   {
+    "term": "speakers",
+    "polarity": "positive",
+    "start": 60,
+    "end": 68
+   },
+   {
+    "term": "subwoofer",
+    "polarity": "positive",
+    "start": 77,
+    "end": 86
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "990",
+  "text": "The technical service for dell is so 3rd world it might as well not even bother.",
+  "aspects": [
+   {
+    "term": "technical service for dell",
+    "polarity": "negative",
+    "start": 4,
+    "end": 30
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "664",
+  "text": "and if u did.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "975",
+  "text": "Sure hope Best Buy will replace it asap.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2275",
+  "text": "The built in camera is very useful when chatting with other techs in remote buildings on our campus.",
+  "aspects": [
+   {
+    "term": "built in camera",
+    "polarity": "positive",
+    "start": 4,
+    "end": 19
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "948",
+  "text": "The casing of the power cord fried and shocked my husband when he pulled it out of the socket.",
+  "aspects": [
+   {
+    "term": "casing of the power cord",
+    "polarity": "negative",
+    "start": 4,
+    "end": 28
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "558",
+  "text": "apple is one of the best computer companies in the country.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "88",
+  "text": "Before i bought my new i5, I did my research for about 2 weeks and determined to move for HP to Apple for reliability, dependable, and long lasting operations.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1834",
+  "text": "THIS HAS BEEN NOTHING BUT A HEADACHE SINCE WE PURCHASED IT.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "361",
+  "text": "I have been a mac user since the mid 90s.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "288",
+  "text": "There are so many things wrong with this product, it just makes me want to set my self on fire!",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2261",
+  "text": "The Apple applications (ex.iPhoto) are fun, easy, and really cool to use (unlike the competition)!",
+  "aspects": [
+   {
+    "term": "Apple applications",
+    "polarity": "positive",
+    "start": 4,
+    "end": 22
+   },
+   {
+    "term": "iPhoto",
+    "polarity": "positive",
+    "start": 27,
+    "end": 33
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1276",
+  "text": "All the customers that come in hate Dell.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "678",
+  "text": "and plenty of storage with 250 gb(though I will upgrade this and the ram..)",
+  "aspects": [
+   {
+    "term": "storage",
+    "polarity": "positive",
+    "start": 14,
+    "end": 21
+   },
+   {
+    "term": "ram",
+    "polarity": "neutral",
+    "start": 69,
+    "end": 72
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "417",
+  "text": "I had to call Apple 19 times (each time 40 to 75 minutes on the phone), and take it to their store for evaluations, and diagnostics, 5 times.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2035",
+  "text": "I took it to friend who temporarily fixed it and I finally paid about 1500 for the extended warranty.",
+  "aspects": [
+   {
+    "term": "extended warranty",
+    "polarity": "neutral",
+    "start": 83,
+    "end": 100
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1872",
+  "text": "I BOUGHT THIS LAP TOP AND THE CHARGE TIME DOSEN'T LAST AS LONG AS THEY SAY IT WILL MORE LIKE 2 HOURS",
+  "aspects": [
+   {
+    "term": "CHARGE TIME",
+    "polarity": "negative",
+    "start": 30,
+    "end": 41
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1006",
+  "text": "I'm now trying to decide on another Dell model.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "452",
+  "text": "(I had been a Windows/Linux user before this) I love the size because the screen is big enough for what I use it for (Internet, artwork), and yet it is small enough to be reasonably portable.",
+  "aspects": [
+   {
+    "term": "size",
+    "polarity": "positive",
+    "start": 57,
+    "end": 61
+   },
+   {
+    "term": "screen",
+    "polarity": "positive",
+    "start": 74,
+    "end": 80
+   },
+   {
+    "term": "Windows",
+    "polarity": "neutral",
+    "start": 14,
+    "end": 21
+   },
+   {
+    "term": "Linux",
+    "polarity": "neutral",
+    "start": 22,
+    "end": 27
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2498",
+  "text": "But if you're willing to pay another 200 dollar for a windows disc.",
+  "aspects": [
+   {
+    "term": "windows disc",
+    "polarity": "neutral",
+    "start": 54,
+    "end": 66
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2391",
+  "text": "Consumer Report recommended Toshiba.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2930",
+  "text": "ANd I babyed the heck out of it just one day when i opened it turned it on went to click and it was broke.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2902",
+  "text": "I have found also, it is very easy to be able to access wireless internet access;",
+  "aspects": [
+   {
+    "term": "wireless internet access",
+    "polarity": "positive",
+    "start": 56,
+    "end": 80
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1371",
+  "text": "That was a big mistake.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2246",
+  "text": "It has many great programs, such as ILife, iPhotos and others.",
+  "aspects": [
+   {
+    "term": "programs",
+    "polarity": "positive",
+    "start": 18,
+    "end": 26
+   },
+   {
+    "term": "ILife",
+    "polarity": "positive",
+    "start": 36,
+    "end": 41
+   },
+   {
+    "term": "iPhotos",
+    "polarity": "positive",
+    "start": 43,
+    "end": 50
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2031",
+  "text": "They would repair one thing, send it back and it would still have the same problem.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "520",
+  "text": "My battery went bad about a year and a half after having it and it cost around eighty to a hundred dollars!",
+  "aspects": [
+   {
+    "term": "battery",
+    "polarity": "negative",
+    "start": 3,
+    "end": 10
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2028",
+  "text": "During that time, I had to send it back 3 times.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1884",
+  "text": "ASUS said my net-book was working properly.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1991",
+  "text": "Very annoying.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1706",
+  "text": "My main reason to convert was the imovie program.",
+  "aspects": [
+   {
+    "term": "imovie program",
+    "polarity": "positive",
+    "start": 34,
+    "end": 48
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "533",
+  "text": "I still have that stupid bluetooth mouse to!",
+  "aspects": [
+   {
+    "term": "bluetooth mouse",
+    "polarity": "negative",
+    "start": 25,
+    "end": 40
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1792",
+  "text": "Screen is a bit glossy, but that's not too bad.",
+  "aspects": [
+   {
+    "term": "Screen",
+    "polarity": "conflict",
+    "start": 0,
+    "end": 6
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2240",
+  "text": "Received the product promptly and without any issues.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1693",
+  "text": "I remind myself from time to time to take off my watch when ever I look at the small scratch that it has caused.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2490",
+  "text": "2nd Best computer in the world only one way this computer might become the best is that it needs to upgreade patches to make less easier for people to hack into",
+  "aspects": [
+   {
+    "term": "patches",
+    "polarity": "negative",
+    "start": 109,
+    "end": 116
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "567",
+  "text": "just chill and enjoy.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2813",
+  "text": "Memory is upgradable.",
+  "aspects": [
+   {
+    "term": "Memory",
+    "polarity": "positive",
+    "start": 0,
+    "end": 6
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "352",
+  "text": "My MacBook Pro has been a huge disappointment.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2048",
+  "text": "The computer first started malfunctioning 3 months after purchasing it.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "648",
+  "text": "Moral of the story:-Do not buy anything from companies that do not respect their customers.",
+  "aspects": [
+   {
+    "term": "companies",
+    "polarity": "negative",
+    "start": 45,
+    "end": 54
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1022",
+  "text": "As well as having the plug in the computer come loose.",
+  "aspects": [
+   {
+    "term": "plug",
+    "polarity": "negative",
+    "start": 22,
+    "end": 26
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "227",
+  "text": "If you want more information on macs I suggest going to apple.com and heading towards the macbook page for more information on the applications.",
+  "aspects": [
+   {
+    "term": "applications",
+    "polarity": "neutral",
+    "start": 131,
+    "end": 143
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2640",
+  "text": "So a couple of years later, I was a dumb college girl and had to have the wireless internet.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2382",
+  "text": "Probably as good as you can get in a netbook, does everything I ask for and has some very good unexpected pluses.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "3084",
+  "text": "Overall I am very satisfied with the purchase.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "182",
+  "text": "And, if you are going to deal with HP be careful.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1903",
+  "text": "I took the computer into Best Buy where I purchased it and they kept it over night to study it.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "3068",
+  "text": "No laptop is perfect, but sometimes you just find a computer that works for you.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "41",
+  "text": "Also, the space bar makes a noisy click every time you use it.",
+  "aspects": [
+   {
+    "term": "space bar",
+    "polarity": "negative",
+    "start": 10,
+    "end": 19
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2250",
+  "text": "iPhotos is an excellent program for storing and organizing photos.",
+  "aspects": [
+   {
+    "term": "iPhotos",
+    "polarity": "positive",
+    "start": 0,
+    "end": 7
+   },
+   {
+    "term": "program",
+    "polarity": "positive",
+    "start": 24,
+    "end": 31
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2024",
+  "text": "I would never tell anyone to buy one either.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2994",
+  "text": "The only downfall is the volume control.",
+  "aspects": [
+   {
+    "term": "volume control",
+    "polarity": "negative",
+    "start": 25,
+    "end": 39
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2978",
+  "text": "I've haven't had any major problems with the laptop except that the plastic piece that covers the usb port wires have all come off.",
+  "aspects": [
+   {
+    "term": "plastic piece",
+    "polarity": "negative",
+    "start": 68,
+    "end": 81
+   },
+   {
+    "term": "usb port wires",
+    "polarity": "neutral",
+    "start": 98,
+    "end": 112
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1586",
+  "text": "Its still going.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1436",
+  "text": "I have Vista, so I am unable to install and uninstall some programs.",
+  "aspects": [
+   {
+    "term": "Vista",
+    "polarity": "negative",
+    "start": 7,
+    "end": 12
+   },
+   {
+    "term": "programs",
+    "polarity": "negative",
+    "start": 59,
+    "end": 67
+   },
+   {
+    "term": "install",
+    "polarity": "negative",
+    "start": 32,
+    "end": 39
+   },
+   {
+    "term": "uninstall",
+    "polarity": "negative",
+    "start": 44,
+    "end": 53
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1637",
+  "text": "I can do everything I could before, only faster and more efficiently.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2981",
+  "text": "I called Toshiba and they want me to be without my laptop for about two weeks while they look at the problem.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2497",
+  "text": "BUT there's this application called Boot Camp which allows you to add another OS X like Windows.",
+  "aspects": [
+   {
+    "term": "application",
+    "polarity": "neutral",
+    "start": 17,
+    "end": 28
+   },
+   {
+    "term": "OS X",
+    "polarity": "neutral",
+    "start": 78,
+    "end": 82
+   },
+   {
+    "term": "Boot Camp",
+    "polarity": "neutral",
+    "start": 36,
+    "end": 45
+   },
+   {
+    "term": "Windows",
+    "polarity": "neutral",
+    "start": 88,
+    "end": 95
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1174",
+  "text": ") I also purchased Applecare for $300, which is a three year extended warranty, since I ve never seen any laptop that lasted more than two.",
+  "aspects": [
+   {
+    "term": "Applecare",
+    "polarity": "neutral",
+    "start": 19,
+    "end": 28
+   },
+   {
+    "term": "extended warranty",
+    "polarity": "neutral",
+    "start": 61,
+    "end": 78
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1498",
+  "text": "I love this laptop, and use it everyday to do something, and never lets me down.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1782",
+  "text": "Now they are believers in the product.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1127",
+  "text": "The 4 USB ports are nice, but the two on the side only work now and then.",
+  "aspects": [
+   {
+    "term": "USB ports",
+    "polarity": "conflict",
+    "start": 6,
+    "end": 15
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "792",
+  "text": "The letter A stopped working after the first week.",
+  "aspects": [
+   {
+    "term": "letter A",
+    "polarity": "negative",
+    "start": 4,
+    "end": 12
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1083",
+  "text": "HAVING HAD EXPERIENCE WITH A TOSHIBA LAPTOP, I WAS DISAPPOINTED TO FIND THAT THE TOSHIBA NB305 LAPTOP HAS MAJOR PROBLEMS.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1236",
+  "text": "When it come time for warranty service to Toshiba you don't matter.",
+  "aspects": [
+   {
+    "term": "warranty service to Toshiba",
+    "polarity": "neutral",
+    "start": 22,
+    "end": 49
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1452",
+  "text": "i had the bulk of problems with my lap top within the first six months.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2611",
+  "text": "Apple is always great about the aesthetics of things, they always come up with good looking products.",
+  "aspects": [
+   {
+    "term": "aesthetics",
+    "polarity": "positive",
+    "start": 32,
+    "end": 42
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1840",
+  "text": "Not a bad laptop, it's a bit slow, but gets the job done.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2933",
+  "text": "The graphics are great.",
+  "aspects": [
+   {
+    "term": "graphics",
+    "polarity": "positive",
+    "start": 4,
+    "end": 12
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "986",
+  "text": "the manufacturer's warranty only covers replacement/repair of parts.",
+  "aspects": [
+   {
+    "term": "warranty",
+    "polarity": "negative",
+    "start": 19,
+    "end": 27
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2512",
+  "text": "There is nothing to complain about the system.",
+  "aspects": [
+   {
+    "term": "system",
+    "polarity": "positive",
+    "start": 39,
+    "end": 45
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "893",
+  "text": "My wife also has problems with her Asus - different model.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "126",
+  "text": "They didn't even try to assist me or even offer a replacement.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2338",
+  "text": "I take it everywhere with me because it's so easy to carry.",
+  "aspects": [
+   {
+    "term": "carry",
+    "polarity": "positive",
+    "start": 53,
+    "end": 58
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2948",
+  "text": "The only thing is that the battery won't last more than 1/2 an hour.",
+  "aspects": [
+   {
+    "term": "battery",
+    "polarity": "negative",
+    "start": 27,
+    "end": 34
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2936",
+  "text": "Oh and it has word and stuff but its a trial verion so after about a month or so when you go to open it it asks for a product key which didnt come with the computer and even after clicking cancel it wont let you use it at all I use the old word processer which works good.",
+  "aspects": [
+   {
+    "term": "word",
+    "polarity": "conflict",
+    "start": 14,
+    "end": 18
+   },
+   {
+    "term": "word processer",
+    "polarity": "positive",
+    "start": 240,
+    "end": 254
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "628",
+  "text": "*4 weeks after giving the computer for repair*-Annoyed at MacHouse Amsterdam, decided to send complaint email to Apple.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "596",
+  "text": "While there are occasions that my computer will freeze or will need to be manually shut down, this occurs far less frequently than on PC computers and laptops that I've used.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2334",
+  "text": "\" I've had it now about 2 months and absolutely LOVE IT.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2214",
+  "text": "The program came with the computer and works beautifully.",
+  "aspects": [
+   {
+    "term": "program",
+    "polarity": "positive",
+    "start": 4,
+    "end": 11
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1237",
+  "text": "The So called laptop Runs to Slow and I hate it!",
+  "aspects": [
+   {
+    "term": "Runs",
+    "polarity": "negative",
+    "start": 21,
+    "end": 25
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2690",
+  "text": "I dislike the quality and the placement of the speakers.",
+  "aspects": [
+   {
+    "term": "speakers",
+    "polarity": "negative",
+    "start": 47,
+    "end": 55
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1441",
+  "text": "STOPPED BOOTING UP less than a week after my one-year warranty was up.",
+  "aspects": [
+   {
+    "term": "BOOTING UP",
+    "polarity": "negative",
+    "start": 8,
+    "end": 18
+   },
+   {
+    "term": "one-year warranty",
+    "polarity": "neutral",
+    "start": 45,
+    "end": 62
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "91",
+  "text": "Later it held zero charge and its replacement worked for less than three months.",
+  "aspects": [
+   {
+    "term": "charge",
+    "polarity": "negative",
+    "start": 19,
+    "end": 25
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1108",
+  "text": "Very disappointed!",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2543",
+  "text": "i give this laptop a five star review i love it and it has done chams for me.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "18",
+  "text": "While most people say that PCs hold functionality and value and Macs are just pretty to look at, I think there's something to be said about the simplicity of Macs.",
+  "aspects": [
+   {
+    "term": "functionality",
+    "polarity": "positive",
+    "start": 36,
+    "end": 49
+   },
+   {
+    "term": "value",
+    "polarity": "positive",
+    "start": 54,
+    "end": 59
+   },
+   {
+    "term": "simplicity",
+    "polarity": "positive",
+    "start": 144,
+    "end": 154
+   },
+   {
+    "term": "look",
+    "polarity": "positive",
+    "start": 88,
+    "end": 92
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1621",
+  "text": "This is my second MACBOOK PRO and it's better than ever.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1164",
+  "text": "but it came back in even worse shape.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2996",
+  "text": "I have to keep turning it until it decides to lower and there is no mute.",
+  "aspects": [
+   {
+    "term": "mute",
+    "polarity": "negative",
+    "start": 68,
+    "end": 72
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1622",
+  "text": "I also own an HP notebook and it doesn't even come close.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2548",
+  "text": "The track pad to me is what really stands out though, you can do several different things with it just depending on how many fingers you use on the track pad, awesome thinking Apple!",
+  "aspects": [
+   {
+    "term": "track pad",
+    "polarity": "positive",
+    "start": 4,
+    "end": 13
+   },
+   {
+    "term": "track pad",
+    "polarity": "positive",
+    "start": 148,
+    "end": 157
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1179",
+  "text": "First, you ll discover that the word processing program known as Appleworks rarely translates perfectly on anyone else s computer, if it translates at all.",
+  "aspects": [
+   {
+    "term": "Appleworks",
+    "polarity": "negative",
+    "start": 65,
+    "end": 75
+   },
+   {
+    "term": "word processing program",
+    "polarity": "negative",
+    "start": 32,
+    "end": 55
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "154",
+  "text": "The video card is great for media, and above average for gaming, but not a gamers first choice.",
+  "aspects": [
+   {
+    "term": "video card",
+    "polarity": "conflict",
+    "start": 4,
+    "end": 14
+   },
+   {
+    "term": "gaming",
+    "polarity": "positive",
+    "start": 57,
+    "end": 63
+   },
+   {
+    "term": "media",
+    "polarity": "positive",
+    "start": 28,
+    "end": 33
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "100",
+  "text": "I had of course bought a 3 year warranty, so I sent it in to be replaced and (almost 2 months later) the dv4 is what the sent me as a replacement.",
+  "aspects": [
+   {
+    "term": "3 year warranty",
+    "polarity": "neutral",
+    "start": 25,
+    "end": 40
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2701",
+  "text": "Can listen to my music and watch my videos with ease and with a great display.",
+  "aspects": [
+   {
+    "term": "display",
+    "polarity": "positive",
+    "start": 70,
+    "end": 77
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1931",
+  "text": "So in late March, early April 2009 I was without it again for a couple weeks while I had online courses I had to complete and my fiance was in Afghanistan and web conferencing was the best communication method we had.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1704",
+  "text": "I pondered very long over this decision.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1957",
+  "text": "So I got another netbook which I love!",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1918",
+  "text": "I started hainv problems with it within the first month.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1469",
+  "text": "Next, most Acer laptop fans are on the bottom which is right on your laptop.",
+  "aspects": [
+   {
+    "term": "fans",
+    "polarity": "neutral",
+    "start": 23,
+    "end": 27
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1217",
+  "text": "So buyer beware when buying Toshiba",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1810",
+  "text": "The minute you fire it up it's all good, very easy user interface.",
+  "aspects": [
+   {
+    "term": "user interface",
+    "polarity": "positive",
+    "start": 51,
+    "end": 65
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1763",
+  "text": "I am a college student and it has been very useful.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "105",
+  "text": "That's very possible, but since they don't make Windows XP drivers for the sound card in this machine, I was stuck until Windows 7 came out.",
+  "aspects": [
+   {
+    "term": "Windows XP drivers",
+    "polarity": "negative",
+    "start": 48,
+    "end": 66
+   },
+   {
+    "term": "sound card",
+    "polarity": "negative",
+    "start": 75,
+    "end": 85
+   },
+   {
+    "term": "Windows 7",
+    "polarity": "positive",
+    "start": 121,
+    "end": 130
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2520",
+  "text": "It is, however, very heavy.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "508",
+  "text": "Just a black screen!",
+  "aspects": [
+   {
+    "term": "screen",
+    "polarity": "negative",
+    "start": 13,
+    "end": 19
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2921",
+  "text": "Save your money and go for a better device.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "398",
+  "text": "Accordingly, I have decided to NEVER purchase another HP product (my five year old Compaq) lasted 5-years before the hard drive crashed.",
+  "aspects": [
+   {
+    "term": "hard drive",
+    "polarity": "negative",
+    "start": 117,
+    "end": 127
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1750",
+  "text": "I ordered four D620 laptops.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2395",
+  "text": "It is easy to use, good quality and good price.",
+  "aspects": [
+   {
+    "term": "quality",
+    "polarity": "positive",
+    "start": 24,
+    "end": 31
+   },
+   {
+    "term": "price",
+    "polarity": "positive",
+    "start": 41,
+    "end": 46
+   },
+   {
+    "term": "use",
+    "polarity": "positive",
+    "start": 14,
+    "end": 17
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "623",
+  "text": "*3 weeks after giving the computer for repair*-Visited MacHouse Amsterdam.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2685",
+  "text": "Basic computer.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1971",
+  "text": "I fell in love with the hp pavillion and that was my replacement and now I could not imagine going back to an acer at all.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "289",
+  "text": "I would totally recommend any other laptop over this pile of grabage.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2499",
+  "text": "Second, it gets scratches easily and when it gets old some thing may operated",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2763",
+  "text": "I don't use my laptop in a way though that needs a long battery life so it's perfect for me.",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "conflict",
+    "start": 56,
+    "end": 68
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "750",
+  "text": "There is a blank lighted screen when I start and that is all.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1977",
+  "text": "I saw walmart had the same computer for about $650 but still knowing what I know now,I would not buy it at that price.",
+  "aspects": [
+   {
+    "term": "price",
+    "polarity": "negative",
+    "start": 112,
+    "end": 117
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1387",
+  "text": "This computer is good for 10 days then it sucks for the rest of your life.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1879",
+  "text": "2.The wireless card is low quality.",
+  "aspects": [
+   {
+    "term": "wireless card",
+    "polarity": "negative",
+    "start": 6,
+    "end": 19
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "887",
+  "text": "I'm definitely not hard on laptops and guarantee 100% that no liquid has touched this machine in my presence.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "254",
+  "text": "Maybe three or four months ago it started blinking all of the sudden.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2167",
+  "text": "There are no viruses or spyware to worry about like on a Windows computer.",
+  "aspects": [
+   {
+    "term": "Windows",
+    "polarity": "negative",
+    "start": 57,
+    "end": 64
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1031",
+  "text": "NO more Lenovo for me.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1286",
+  "text": "However, a NETBOOK will be a different story.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1812",
+  "text": "The difference is it's a whole lot of fun using the laptop now, still learning the Apple navigation, but is fun and comes with a lot of cool apps.",
+  "aspects": [
+   {
+    "term": "Apple navigation",
+    "polarity": "neutral",
+    "start": 83,
+    "end": 99
+   },
+   {
+    "term": "apps",
+    "polarity": "positive",
+    "start": 141,
+    "end": 145
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "725",
+  "text": "After much battling with HP i was able to return it 4 times for repairs.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "98",
+  "text": "It took several weeks just to get them to acknowledge that I owned the warranty.",
+  "aspects": [
+   {
+    "term": "warranty",
+    "polarity": "negative",
+    "start": 71,
+    "end": 79
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "663",
+  "text": "So don't get it.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1662",
+  "text": "The Awesomest of the awesomest.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "574",
+  "text": "I would like to tell you about the best laptop I just got from Mac.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1169",
+  "text": "(For those old enough to remember, it is similar to Beta versus VHS.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1775",
+  "text": "The 13\" Macbook Pro just fits in my budget and with free shipping and no tax to CA this is the best price we can get for a great product.",
+  "aspects": [
+   {
+    "term": "shipping",
+    "polarity": "positive",
+    "start": 57,
+    "end": 65
+   },
+   {
+    "term": "price",
+    "polarity": "positive",
+    "start": 100,
+    "end": 105
+   },
+   {
+    "term": "budget",
+    "polarity": "positive",
+    "start": 36,
+    "end": 42
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2010",
+  "text": "Later it held zero charge and its replacement worked for less than three months.",
+  "aspects": [
+   {
+    "term": "charge",
+    "polarity": "negative",
+    "start": 19,
+    "end": 25
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1333",
+  "text": "1st hand experience is very important, especially for a new customer.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2398",
+  "text": "I bought it for my mom and she reports that the battery life lasts all day for her, it's very lightweight, and the response for the computing she's doing (Internet focused activity: mail, research, etc.) is excellent;",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "positive",
+    "start": 48,
+    "end": 60
+   },
+   {
+    "term": "response",
+    "polarity": "positive",
+    "start": 115,
+    "end": 123
+   },
+   {
+    "term": "Internet focused activity",
+    "polarity": "neutral",
+    "start": 155,
+    "end": 180
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2361",
+  "text": "Overall, this is a wonderful computer and definitly worth the purchase!",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2766",
+  "text": "I did think it had a camera because that was one of my requirements, but forgot to check in the specifications on this one before I purchased.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "neutral",
+    "start": 21,
+    "end": 27
+   },
+   {
+    "term": "specifications",
+    "polarity": "neutral",
+    "start": 96,
+    "end": 110
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1077",
+  "text": "(3DMARK6 score is only 8500).",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "3013",
+  "text": "The first one I had was a 2006 model, not the Pro.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "281",
+  "text": "I think this computer is super lame.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "597",
+  "text": "The iLife software that comes with the computer is so simple to use and produces a great finished product.",
+  "aspects": [
+   {
+    "term": "iLife software",
+    "polarity": "positive",
+    "start": 4,
+    "end": 18
+   },
+   {
+    "term": "use",
+    "polarity": "positive",
+    "start": 64,
+    "end": 67
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1805",
+  "text": "Good for every day computing and web browsing.",
+  "aspects": [
+   {
+    "term": "web browsing",
+    "polarity": "positive",
+    "start": 33,
+    "end": 45
+   },
+   {
+    "term": "every day computing",
+    "polarity": "positive",
+    "start": 9,
+    "end": 28
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1913",
+  "text": "This process continued to repeat itself until the mother board had been replaced 4 times and the hard drive replaced 3 times.",
+  "aspects": [
+   {
+    "term": "mother board",
+    "polarity": "negative",
+    "start": 50,
+    "end": 62
+   },
+   {
+    "term": "hard drive",
+    "polarity": "negative",
+    "start": 97,
+    "end": 107
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "3031",
+  "text": "I know what 7 hrs of battery looks like.",
+  "aspects": [
+   {
+    "term": "battery",
+    "polarity": "positive",
+    "start": 21,
+    "end": 28
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1111",
+  "text": "Don't buy this model.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2175",
+  "text": "I can leave my MacBook uncharged for upwards of eight hours and it won't even be dead.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "402",
+  "text": "Needs constant repair.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2418",
+  "text": "This is another reason to like the Mac.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "871",
+  "text": "I use a cooling pad but it doesn't help.",
+  "aspects": [
+   {
+    "term": "cooling pad",
+    "polarity": "negative",
+    "start": 8,
+    "end": 19
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1744",
+  "text": "Supplied software: The software that comes with this machine is greatly welcomed compared to what Windows comes with.",
+  "aspects": [
+   {
+    "term": "Supplied software",
+    "polarity": "neutral",
+    "start": 0,
+    "end": 17
+   },
+   {
+    "term": "software",
+    "polarity": "positive",
+    "start": 23,
+    "end": 31
+   },
+   {
+    "term": "Windows",
+    "polarity": "negative",
+    "start": 98,
+    "end": 105
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "108",
+  "text": "It started out by randomly ceasing to charge when it was plugged in (mousing over the battery icon would read, for example, \"74%, plugged in, not charging\"), requiring me to unplug it and plug it back in several times to get it to charge.",
+  "aspects": [
+   {
+    "term": "charging",
+    "polarity": "negative",
+    "start": 146,
+    "end": 154
+   },
+   {
+    "term": "charge",
+    "polarity": "negative",
+    "start": 38,
+    "end": 44
+   },
+   {
+    "term": "charge",
+    "polarity": "neutral",
+    "start": 231,
+    "end": 237
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "458",
+  "text": "In the first moth of owning this computer its hardrive failed which had to be replaced.",
+  "aspects": [
+   {
+    "term": "hardrive",
+    "polarity": "negative",
+    "start": 46,
+    "end": 54
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1612",
+  "text": "The graphics and screen are stunning and although I was a PC person, I was able to understand how to use a mac fairly quickly.",
+  "aspects": [
+   {
+    "term": "graphics",
+    "polarity": "positive",
+    "start": 4,
+    "end": 12
+   },
+   {
+    "term": "screen",
+    "polarity": "positive",
+    "start": 17,
+    "end": 23
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2519",
+  "text": "It still serves me well both in business and home needs.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1246",
+  "text": "They're not safe, they're not durable, they just a worthless.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1199",
+  "text": "I ve had several calls lasting more than an hour with promises to call back, but the return calls never came.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1129",
+  "text": "Did I mention everything about it, from size to weight to keyboard screams BULK?",
+  "aspects": [
+   {
+    "term": "size",
+    "polarity": "negative",
+    "start": 40,
+    "end": 44
+   },
+   {
+    "term": "weight",
+    "polarity": "negative",
+    "start": 48,
+    "end": 54
+   },
+   {
+    "term": "keyboard",
+    "polarity": "negative",
+    "start": 58,
+    "end": 66
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1201",
+  "text": "Once again, I was told it was the suspicious power supply problem.",
+  "aspects": [
+   {
+    "term": "power supply",
+    "polarity": "negative",
+    "start": 45,
+    "end": 57
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2158",
+  "text": "It easily fits into most computer bags but doesn't weigh down a backpack or satchel when being carried with spirals and/or textbooks.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2143",
+  "text": "Quality Display I was surprised with the performance and quality of this HP Laptop.",
+  "aspects": [
+   {
+    "term": "Quality Display",
+    "polarity": "positive",
+    "start": 0,
+    "end": 15
+   },
+   {
+    "term": "performance",
+    "polarity": "positive",
+    "start": 41,
+    "end": 52
+   },
+   {
+    "term": "quality",
+    "polarity": "positive",
+    "start": 57,
+    "end": 64
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "477",
+  "text": "They transfer you around to other people who do not understand what you are saying and you can't understand what they are saying.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1866",
+  "text": "I was WRONG!",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1536",
+  "text": "I am very happy I bought this Mac, well worth the extra money.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2067",
+  "text": "I now realize that my $900 would have been better spent on a Windows laptop.",
+  "aspects": [
+   {
+    "term": "Windows",
+    "polarity": "positive",
+    "start": 61,
+    "end": 68
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1571",
+  "text": "Very satisfied.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2846",
+  "text": "It works great for general internet use, Microsoft Office apps, home bookkeeping, etc.",
+  "aspects": [
+   {
+    "term": "Microsoft Office apps",
+    "polarity": "positive",
+    "start": 41,
+    "end": 62
+   },
+   {
+    "term": "internet use",
+    "polarity": "positive",
+    "start": 27,
+    "end": 39
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "679",
+  "text": "This computer is really fast and I'm shocked as to how easy it is to get used to...",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2827",
+  "text": "This computer I used daily nice compact design.",
+  "aspects": [
+   {
+    "term": "design",
+    "polarity": "positive",
+    "start": 40,
+    "end": 46
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2960",
+  "text": "The ATI graphics card is a huge plus, definitely a good value if you need to be able to run some slightly older games that a Intel built-in card would have trouble with, such as Half-Life 2 or even World of Warcraft.",
+  "aspects": [
+   {
+    "term": "ATI graphics card",
+    "polarity": "positive",
+    "start": 4,
+    "end": 21
+   },
+   {
+    "term": "Intel built-in card",
+    "polarity": "positive",
+    "start": 125,
+    "end": 144
+   },
+   {
+    "term": "games",
+    "polarity": "neutral",
+    "start": 112,
+    "end": 117
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1345",
+  "text": "You may just lose 1 customer for now.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "592",
+  "text": "My power supply cord developed exposed wires within the first year of ownership, so it was covered by the Applecare warranty plan.",
+  "aspects": [
+   {
+    "term": "power supply cord",
+    "polarity": "negative",
+    "start": 3,
+    "end": 20
+   },
+   {
+    "term": "Applecare warranty plan",
+    "polarity": "positive",
+    "start": 106,
+    "end": 129
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2313",
+  "text": "Startup in about 30 seconds, shutdown in 2-4 seconds, resume from sleep in 0-2 seconds.",
+  "aspects": [
+   {
+    "term": "Startup",
+    "polarity": "neutral",
+    "start": 0,
+    "end": 7
+   },
+   {
+    "term": "shutdown",
+    "polarity": "neutral",
+    "start": 29,
+    "end": 37
+   },
+   {
+    "term": "resume from sleep",
+    "polarity": "neutral",
+    "start": 54,
+    "end": 71
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1443",
+  "text": "Summary: After doing some investigation on the web, I have found that Toshiba NB205s are not chronically not booting.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2971",
+  "text": "Everything was so easy.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "581",
+  "text": "I do transcription work on the side, and the flatline keyboard makes typing quick and easy as well.",
+  "aspects": [
+   {
+    "term": "flatline keyboard",
+    "polarity": "positive",
+    "start": 45,
+    "end": 62
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "248",
+  "text": "The Internet Explorer was very slow from the very beginning.",
+  "aspects": [
+   {
+    "term": "Internet Explorer",
+    "polarity": "negative",
+    "start": 4,
+    "end": 21
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1350",
+  "text": "Best Buy laughed when I told them they should replace it instead of expecting me to be without a computer again for another couple of weeks.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2952",
+  "text": "There are no gold key numbers too intall programs, you must use the serial numbers that it does not accept and then things are limited as far a working because they are only good for a short time.",
+  "aspects": [
+   {
+    "term": "programs",
+    "polarity": "negative",
+    "start": 41,
+    "end": 49
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "502",
+  "text": "The first time it crashed was maybe going on a year and a half of having it.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2880",
+  "text": "So we exchanged it for the same on and after 2 hours it didn't work.",
+  "aspects": [
+   {
+    "term": "work",
+    "polarity": "negative",
+    "start": 63,
+    "end": 67
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "571",
+  "text": "very convenient when you travel and the battery life is excellent...",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "positive",
+    "start": 40,
+    "end": 52
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2446",
+  "text": "I didn't want to buy a generic brand computer but it is really nice.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2583",
+  "text": "the screen brightness automatically adjusts.",
+  "aspects": [
+   {
+    "term": "screen brightness",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 21
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1521",
+  "text": "I can't imagine EVER buying a PC again!",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2555",
+  "text": "We decided we would try to trade-in our old ones.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "772",
+  "text": "Was searching online for a power supply when I found this site.",
+  "aspects": [
+   {
+    "term": "power supply",
+    "polarity": "neutral",
+    "start": 27,
+    "end": 39
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1502",
+  "text": "But to be honest, I don't use my computer for anything like graphics editing and complex data analysis and gaming.",
+  "aspects": [
+   {
+    "term": "gaming",
+    "polarity": "neutral",
+    "start": 107,
+    "end": 113
+   },
+   {
+    "term": "graphics editing",
+    "polarity": "neutral",
+    "start": 60,
+    "end": 76
+   },
+   {
+    "term": "complex data analysis",
+    "polarity": "neutral",
+    "start": 81,
+    "end": 102
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "3038",
+  "text": "If you could stretch by a few 100 dollars I highly recommend you should replace your Windows laptop with this one.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "468",
+  "text": "I purchased it this year when my old HP laptop finally died and I was looking for something smaller and lighter than a laptop to carry around for classes and traveling.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1535",
+  "text": "However, I love this particular Mac because its very fast, great size, and has fantastic features like the lighted keyboard and easy mouse pad.",
+  "aspects": [
+   {
+    "term": "size",
+    "polarity": "positive",
+    "start": 65,
+    "end": 69
+   },
+   {
+    "term": "features",
+    "polarity": "positive",
+    "start": 89,
+    "end": 97
+   },
+   {
+    "term": "lighted keyboard",
+    "polarity": "positive",
+    "start": 107,
+    "end": 123
+   },
+   {
+    "term": "mouse pad",
+    "polarity": "positive",
+    "start": 133,
+    "end": 142
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "247",
+  "text": "I bought this eMachines Notebook PC in January of this year and I am highly dissatisfied with it.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "3018",
+  "text": "The feel of this machine compared to the old MacBook is far superior.",
+  "aspects": [
+   {
+    "term": "feel",
+    "polarity": "positive",
+    "start": 4,
+    "end": 8
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "259",
+  "text": "They break down just as often as PCs do, and the only reason they don't get viruses, is because no one makes viruses for them, they're not better in any way, they are worse, try finding virus protection programs for a Mac, they don't exist.",
+  "aspects": [
+   {
+    "term": "virus protection programs for a Mac",
+    "polarity": "negative",
+    "start": 186,
+    "end": 221
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "1550",
+  "text": "Much faster than my old windows laptop that died on me.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2722",
+  "text": "I'm really impressed with the quality and performance for the price of the computer.",
+  "aspects": [
+   {
+    "term": "quality",
+    "polarity": "positive",
+    "start": 30,
+    "end": 37
+   },
+   {
+    "term": "performance",
+    "polarity": "positive",
+    "start": 42,
+    "end": 53
+   },
+   {
+    "term": "price",
+    "polarity": "positive",
+    "start": 62,
+    "end": 67
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2293",
+  "text": "What's really great about this product is you may have a family member who is computer illiterate and you can pretty much just let them loose on this computer without any real supervision.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1087",
+  "text": "EITHER WAY, THE KEYBOARD IS UNSATISFACTORY.",
+  "aspects": [
+   {
+    "term": "KEYBOARD",
+    "polarity": "negative",
+    "start": 16,
+    "end": 24
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "443",
+  "text": "Great laptop for school, easy to use for beginners in the household.",
+  "aspects": [
+   {
+    "term": "use",
+    "polarity": "positive",
+    "start": 33,
+    "end": 36
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "114",
+  "text": "It's very annoying.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "697",
+  "text": "The 13\" Macbook Pro just fits in my budget and with free shipping and no tax to CA this is the best price we can get for a great product.",
+  "aspects": [
+   {
+    "term": "shipping",
+    "polarity": "positive",
+    "start": 57,
+    "end": 65
+   },
+   {
+    "term": "price",
+    "polarity": "positive",
+    "start": 100,
+    "end": 105
+   },
+   {
+    "term": "budget",
+    "polarity": "positive",
+    "start": 36,
+    "end": 42
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "232",
+  "text": "For me, five stars is not enough.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2122",
+  "text": "I love how easy every thing is to do on my Apple products.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "202",
+  "text": "I am glad I did my research.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1142",
+  "text": "And at one point, they blame me for installing a bad memory stick when I upgrade my memory for the first time during my purchase of the laptop (I bought the memory stick they recomended).",
+  "aspects": [
+   {
+    "term": "memory",
+    "polarity": "neutral",
+    "start": 84,
+    "end": 90
+   },
+   {
+    "term": "memory stick",
+    "polarity": "negative",
+    "start": 53,
+    "end": 65
+   },
+   {
+    "term": "memory stick",
+    "polarity": "neutral",
+    "start": 157,
+    "end": 169
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2235",
+  "text": "also it comes with very useful applications like iphoto that it is the best photo application i have ever had",
+  "aspects": [
+   {
+    "term": "applications",
+    "polarity": "positive",
+    "start": 31,
+    "end": 43
+   },
+   {
+    "term": "iphoto",
+    "polarity": "positive",
+    "start": 49,
+    "end": 55
+   },
+   {
+    "term": "photo application",
+    "polarity": "positive",
+    "start": 76,
+    "end": 93
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "733",
+  "text": "Microsoft seems to be unable to keep up with repairs for the multitude of windows problems.",
+  "aspects": [
+   {
+    "term": "windows",
+    "polarity": "negative",
+    "start": 74,
+    "end": 81
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "925",
+  "text": "You can call HP and they want you to buy more software to fix it.",
+  "aspects": [
+   {
+    "term": "software",
+    "polarity": "neutral",
+    "start": 46,
+    "end": 54
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2043",
+  "text": "HP didn't fix it.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1894",
+  "text": "I baby my electronics so I know for a fact it was defective and not anything that I did to it.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1038",
+  "text": "Looks nice, but has a horribly cheap feel.",
+  "aspects": [
+   {
+    "term": "feel",
+    "polarity": "negative",
+    "start": 37,
+    "end": 41
+   },
+   {
+    "term": "Looks",
+    "polarity": "positive",
+    "start": 0,
+    "end": 5
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2430",
+  "text": "Had some trouble finding a case that it would fit in.",
+  "aspects": [
+   {
+    "term": "case",
+    "polarity": "negative",
+    "start": 27,
+    "end": 31
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2693",
+  "text": "This laptop is very large and barely fits in any carrying cases.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "112",
+  "text": "The screen gets smeary and dusty very quickly and it's very noticeable.",
+  "aspects": [
+   {
+    "term": "screen",
+    "polarity": "negative",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2459",
+  "text": "I love it so much.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1665",
+  "text": "I got it for Christmas, and I was so excited to set it up!",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "2687",
+  "text": "It has worked fine.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "833",
+  "text": "Worse, for the price I could get a *netbook* that outperforms this machine.",
+  "aspects": [
+   {
+    "term": "price",
+    "polarity": "negative",
+    "start": 15,
+    "end": 20
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "617",
+  "text": "No luck, although I waited for hours on the phone-Visited MacHouse, they stated the their call center is down due to too many phonecalls (difficult to believe).",
+  "aspects": [
+   {
+    "term": "call center",
+    "polarity": "negative",
+    "start": 90,
+    "end": 101
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "3048",
+  "text": "I had the staff telling me older version did not make the fan noise cause it is a \"different\" computer.",
+  "aspects": [
+   {
+    "term": "staff",
+    "polarity": "negative",
+    "start": 10,
+    "end": 15
+   },
+   {
+    "term": "fan noise",
+    "polarity": "negative",
+    "start": 58,
+    "end": 67
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "2598",
+  "text": "So far, so good.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1786",
+  "text": "I was waiting for this model to be released since January, and have been holding off on buying a Macbook Pro until the new model came out.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1560",
+  "text": "It allows me to do everything I need from a computer and more.",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1109",
+  "text": "Didn't expect to repair it at once!",
+  "aspects": [],
+  "domain": "laptop"
+ },
+ {
+  "id": "1284",
+  "text": "Thus, when you carry it at a slanted angle, the screen will \"topple\" or \"slide\" down, if you understand what I mean.",
+  "aspects": [
+   {
+    "term": "screen",
+    "polarity": "negative",
+    "start": 48,
+    "end": 54
+   }
+  ],
+  "domain": "laptop"
+ },
+ {
+  "id": "phone-val-3-1",
+  "text": "Tons of storage, fast and easy to use, looks great and I'm really impressed with how easy the fingerprint reader is...",
+  "aspects": [
+   {
+    "term": "storage",
+    "polarity": "positive",
+    "start": 8,
+    "end": 15
+   },
+   {
+    "term": "fast and easy to use",
+    "polarity": "positive",
+    "start": 17,
+    "end": 37
+   },
+   {
+    "term": "fingerprint reader",
+    "polarity": "positive",
+    "start": 94,
+    "end": 112
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-4-1",
+  "text": "Works like a new phone and great service.",
+  "aspects": [
+   {
+    "term": "service",
+    "polarity": "positive",
+    "start": 33,
+    "end": 40
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-9-0",
+  "text": "received item in good condition but came in the wrong color......",
+  "aspects": [
+   {
+    "term": "color",
+    "polarity": "negative",
+    "start": 54,
+    "end": 59
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-10-1",
+  "text": "For the price its great.",
+  "aspects": [
+   {
+    "term": "For the price",
+    "polarity": "positive",
+    "start": 0,
+    "end": 13
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-12-1",
+  "text": "Staff are patient and friendly and trustworthy.",
+  "aspects": [
+   {
+    "term": "Staff",
+    "polarity": "positive",
+    "start": 0,
+    "end": 5
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-12-3",
+  "text": "I've used the Mi 11 for about a week now and this is the local SG version so NFC / Google Pay / Google Maps & Services all work fine.",
+  "aspects": [
+   {
+    "term": "NFC",
+    "polarity": "positive",
+    "start": 77,
+    "end": 80
+   },
+   {
+    "term": "Google Pay",
+    "polarity": "positive",
+    "start": 83,
+    "end": 93
+   },
+   {
+    "term": "Google Maps",
+    "polarity": "positive",
+    "start": 96,
+    "end": 107
+   },
+   {
+    "term": "Services",
+    "polarity": "positive",
+    "start": 110,
+    "end": 118
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-13-2",
+  "text": "I’ve had mine almost a year now and it’s been an excellent buy.",
+  "aspects": [
+   {
+    "term": "buy",
+    "polarity": "positive",
+    "start": 59,
+    "end": 62
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-14-0",
+  "text": "Have been lurking in Shopee to buy the Samsung S21 and have also reviewed many retailers.",
+  "aspects": [
+   {
+    "term": "retailer",
+    "polarity": "positive",
+    "start": 79,
+    "end": 87
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-14-1",
+  "text": "Found this retailer, which has been quite low profile, the most reliable.",
+  "aspects": [
+   {
+    "term": "retailer",
+    "polarity": "positive",
+    "start": 11,
+    "end": 19
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-15-0",
+  "text": "My mum hated it, i dont think its great either and it only comes with a usb cable charger, a charger for honor 8X and honor 9X fits and works on this phone to power it up.",
+  "aspects": [
+   {
+    "term": "mum",
+    "polarity": "negative",
+    "start": 3,
+    "end": 6
+   },
+   {
+    "term": "usb cable charger",
+    "polarity": "negative",
+    "start": 72,
+    "end": 89
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-15-1",
+  "text": "Not impressed with quality, my mum wont use it.",
+  "aspects": [
+   {
+    "term": "quality",
+    "polarity": "negative",
+    "start": 19,
+    "end": 26
+   },
+   {
+    "term": "mum",
+    "polarity": "negative",
+    "start": 31,
+    "end": 34
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-16-0",
+  "text": "Just received n fast delivery driver is good n friendly good seller as well",
+  "aspects": [
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 61,
+    "end": 67
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-18-0",
+  "text": "Ot is an excellent product fir value for money, features in this mobile phone and generally suited my requirements of a Sim free, 5G phone with excellent durability.",
+  "aspects": [
+   {
+    "term": "value for money",
+    "polarity": "positive",
+    "start": 31,
+    "end": 46
+   },
+   {
+    "term": "durability",
+    "polarity": "positive",
+    "start": 154,
+    "end": 164
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-20-0",
+  "text": "Great little phone, if you have had a pixel before you will be impressed with this little phone, it's not a gaming phone but plenty of power for every day use and battery seems reasonable.",
+  "aspects": [
+   {
+    "term": "power",
+    "polarity": "positive",
+    "start": 135,
+    "end": 140
+   },
+   {
+    "term": "battery",
+    "polarity": "positive",
+    "start": 163,
+    "end": 170
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-23-0",
+  "text": "Purchased for elderly relative, she is pleased with it.",
+  "aspects": [
+   {
+    "term": "elderly relative",
+    "polarity": "positive",
+    "start": 14,
+    "end": 30
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-25-0",
+  "text": "Shipment took a while 2 weeks plus but seller has mostly been very responsive and has given extra half year warranty plus another free gift for the delay.",
+  "aspects": [
+   {
+    "term": "Shipment",
+    "polarity": "negative",
+    "start": 0,
+    "end": 8
+   },
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 39,
+    "end": 45
+   },
+   {
+    "term": "extra half year warranty",
+    "polarity": "positive",
+    "start": 92,
+    "end": 116
+   },
+   {
+    "term": "free gift",
+    "polarity": "positive",
+    "start": 130,
+    "end": 139
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-26-0",
+  "text": "According to my use 7-8hrs constant use, +point is it gets charged fully within 1hr very fast charging??",
+  "aspects": [
+   {
+    "term": "gets charged fully",
+    "polarity": "positive",
+    "start": 54,
+    "end": 72
+   },
+   {
+    "term": "charging",
+    "polarity": "positive",
+    "start": 94,
+    "end": 102
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-28-0",
+  "text": "Good buy worth the price !",
+  "aspects": [
+   {
+    "term": "buy worth the price",
+    "polarity": "positive",
+    "start": 5,
+    "end": 24
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-28-1",
+  "text": "but packaging comes with bubblewrap and polymail plastic only not box.",
+  "aspects": [
+   {
+    "term": "bubblewrap and polymail plastic",
+    "polarity": "negative",
+    "start": 25,
+    "end": 56
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-29-0",
+  "text": "Hi my S21 did not come with a charger, just a charging cable.",
+  "aspects": [
+   {
+    "term": "charger",
+    "polarity": "negative",
+    "start": 30,
+    "end": 37
+   },
+   {
+    "term": "charging cable",
+    "polarity": "positive",
+    "start": 46,
+    "end": 60
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-31-0",
+  "text": "This item was a fake, had to return!",
+  "aspects": [
+   {
+    "term": "fake",
+    "polarity": "negative",
+    "start": 16,
+    "end": 20
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-33-0",
+  "text": "Worst camera quality , my old phone Mi A2 captures better pics than this stupic gadgets does, shame on Redmi to declare a false specification regarding front camera and rear camera 108MP for this product",
+  "aspects": [
+   {
+    "term": "camera quality",
+    "polarity": "negative",
+    "start": 6,
+    "end": 20
+   },
+   {
+    "term": "Mi A2 captures",
+    "polarity": "positive",
+    "start": 36,
+    "end": 50
+   },
+   {
+    "term": "front camera",
+    "polarity": "negative",
+    "start": 152,
+    "end": 164
+   },
+   {
+    "term": "rear camera",
+    "polarity": "negative",
+    "start": 169,
+    "end": 180
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-35-0",
+  "text": "Authentic sealed set from Malaysia in original packaging.",
+  "aspects": [
+   {
+    "term": "packaging",
+    "polarity": "positive",
+    "start": 47,
+    "end": 56
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-35-3",
+  "text": "Very responsive seller.",
+  "aspects": [
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 16,
+    "end": 22
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-36-0",
+  "text": "Friendly and helpful seller Promptly reply and make arrangements for my chance request.",
+  "aspects": [
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 21,
+    "end": 27
+   },
+   {
+    "term": "reply",
+    "polarity": "positive",
+    "start": 37,
+    "end": 42
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-36-1",
+  "text": "Excellent customer service ?",
+  "aspects": [
+   {
+    "term": "customer service",
+    "polarity": "positive",
+    "start": 10,
+    "end": 26
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-37-3",
+  "text": "On iPhone its very simple and you can transfer all of the data off your old device onto this one very easily!",
+  "aspects": [
+   {
+    "term": "simple",
+    "polarity": "positive",
+    "start": 19,
+    "end": 25
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-39-0",
+  "text": "Photos are great standard, no issues, everything works fine.",
+  "aspects": [
+   {
+    "term": "Photos",
+    "polarity": "positive",
+    "start": 0,
+    "end": 6
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-39-1",
+  "text": "Glad to find out it has a Snapdragon 888 processor.",
+  "aspects": [
+   {
+    "term": "Snapdragon 888 processor",
+    "polarity": "positive",
+    "start": 26,
+    "end": 50
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-40-0",
+  "text": "Second purchase, fast delivery, good communication from seller.",
+  "aspects": [
+   {
+    "term": "Second purchase",
+    "polarity": "positive",
+    "start": 0,
+    "end": 15
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-40-1",
+  "text": "Will definitely purchase again",
+  "aspects": [
+   {
+    "term": "Will definitely purchase again",
+    "polarity": "positive",
+    "start": 0,
+    "end": 30
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-41-0",
+  "text": "All our good product is and front camera is not clear which should be good in this rate and front flash is also not good and this rate should have more than 50 voltage chager, main problem of this product charging is very slow .",
+  "aspects": [
+   {
+    "term": "front camera",
+    "polarity": "negative",
+    "start": 28,
+    "end": 40
+   },
+   {
+    "term": "front flash",
+    "polarity": "negative",
+    "start": 92,
+    "end": 103
+   },
+   {
+    "term": "charging",
+    "polarity": "negative",
+    "start": 205,
+    "end": 213
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-42-0",
+  "text": "good purchasing experience and very patient seller.",
+  "aspects": [
+   {
+    "term": "purchasing experience",
+    "polarity": "positive",
+    "start": 5,
+    "end": 26
+   },
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 44,
+    "end": 50
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-42-1",
+  "text": "will order again if change cell phone next time!",
+  "aspects": [
+   {
+    "term": "will order again",
+    "polarity": "positive",
+    "start": 0,
+    "end": 16
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-43-0",
+  "text": "Great phone, but the best thing is the battery, well over 2 days before re-charge is required.",
+  "aspects": [
+   {
+    "term": "battery",
+    "polarity": "positive",
+    "start": 39,
+    "end": 46
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-44-0",
+  "text": "It seems easy to use; have not yet used many function but hope to get around to this in the near future.",
+  "aspects": [
+   {
+    "term": "easy to use",
+    "polarity": "positive",
+    "start": 9,
+    "end": 20
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-44-1",
+  "text": "The manual needs to be printed in bigger font: one can hardly read the VERY small letters in the manual.",
+  "aspects": [
+   {
+    "term": "manual",
+    "polarity": "negative",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-45-0",
+  "text": "delivery is very fast and seller also gave a very cute freebie",
+  "aspects": [
+   {
+    "term": "freebie",
+    "polarity": "positive",
+    "start": 55,
+    "end": 62
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-47-0",
+  "text": "Samsung note 9, 512gb, black colour, black s-pen, condition 9/10, came with tempered glass protector, excellent seller",
+  "aspects": [
+   {
+    "term": "512gb",
+    "polarity": "neutral",
+    "start": 16,
+    "end": 21
+   },
+   {
+    "term": "tempered glass protector",
+    "polarity": "positive",
+    "start": 76,
+    "end": 100
+   },
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 112,
+    "end": 118
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-48-0",
+  "text": "Fantastic for my 94 year old grandma she can use it with no trouble",
+  "aspects": [
+   {
+    "term": "94 year old grandma",
+    "polarity": "positive",
+    "start": 17,
+    "end": 36
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-50-0",
+  "text": "I bought it at an affordable price.",
+  "aspects": [
+   {
+    "term": "price",
+    "polarity": "positive",
+    "start": 29,
+    "end": 34
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-50-3",
+  "text": "Its an export set and seller gave 1 month local warranty.",
+  "aspects": [
+   {
+    "term": "1 month local warranty",
+    "polarity": "neutral",
+    "start": 34,
+    "end": 56
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-51-0",
+  "text": "The Note 9/10X 4G measures 162.3 mm × 72.2 mm × 8.9 mm (6.39 in × 2.84 in × 0.35 in) and weighs 199 grams (7.0 oz) which is heavier than usual for a 6.53 inch phone.",
+  "aspects": [
+   {
+    "term": "Note 9/10X 4G measures",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 26
+   },
+   {
+    "term": "weighs 199 grams",
+    "polarity": "positive",
+    "start": 89,
+    "end": 105
+   },
+   {
+    "term": "6.53 inch phone",
+    "polarity": "neutral",
+    "start": 149,
+    "end": 164
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-51-1",
+  "text": "It's quite a big phone but fits nicely in the hand.",
+  "aspects": [
+   {
+    "term": "big phone",
+    "polarity": "positive",
+    "start": 13,
+    "end": 22
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-51-2",
+  "text": "The face recognition and raise to switch on work well.",
+  "aspects": [
+   {
+    "term": "face recognition",
+    "polarity": "positive",
+    "start": 4,
+    "end": 20
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-52-0",
+  "text": "Very friendly seller that reply to all my question.",
+  "aspects": [
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 14,
+    "end": 20
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-52-1",
+  "text": "The phone was well pack and fast to receive.",
+  "aspects": [
+   {
+    "term": "pack",
+    "polarity": "positive",
+    "start": 19,
+    "end": 23
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-53-0",
+  "text": "speaker lasted a month headphones dnt work",
+  "aspects": [
+   {
+    "term": "headphones",
+    "polarity": "negative",
+    "start": 23,
+    "end": 33
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-55-0",
+  "text": "Great phone, even better price!",
+  "aspects": [
+   {
+    "term": "price",
+    "polarity": "positive",
+    "start": 25,
+    "end": 30
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-55-1",
+  "text": "Upgraded from S7, couldn't be happier.",
+  "aspects": [
+   {
+    "term": "Upgraded from S7",
+    "polarity": "positive",
+    "start": 0,
+    "end": 16
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-56-1",
+  "text": "Depending on charge state.",
+  "aspects": [
+   {
+    "term": "charge",
+    "polarity": "positive",
+    "start": 13,
+    "end": 19
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-57-0",
+  "text": "Seller is responsive and friendly.",
+  "aspects": [
+   {
+    "term": "Seller",
+    "polarity": "positive",
+    "start": 0,
+    "end": 6
+   },
+   {
+    "term": "responsive",
+    "polarity": "positive",
+    "start": 10,
+    "end": 20
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-58-0",
+  "text": "Disappointed the package did not include the plug.",
+  "aspects": [
+   {
+    "term": "package did not include the plug",
+    "polarity": "negative",
+    "start": 17,
+    "end": 49
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-59-0",
+  "text": "Fast delivery and product well packed.",
+  "aspects": [
+   {
+    "term": "packed",
+    "polarity": "positive",
+    "start": 31,
+    "end": 37
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-60-1",
+  "text": "Seller answered my questions promptly.",
+  "aspects": [
+   {
+    "term": "Seller answered my questions",
+    "polarity": "positive",
+    "start": 0,
+    "end": 28
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-61-0",
+  "text": "Camera quality is just ok not perfect ...over saturated",
+  "aspects": [
+   {
+    "term": "Camera quality",
+    "polarity": "positive",
+    "start": 0,
+    "end": 14
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-63-0",
+  "text": "I will recommend you to buy this because it has much better processor and you are getting a super amoled display which is having 120 Hz refresh rate.",
+  "aspects": [
+   {
+    "term": "I will recommend you to buy this",
+    "polarity": "positive",
+    "start": 0,
+    "end": 32
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-63-2",
+  "text": "This is the reason that's why I will recommend you to buy this device and do not go for note 9 Pro Max.",
+  "aspects": [
+   {
+    "term": "I will recommend you to buy this",
+    "polarity": "positive",
+    "start": 30,
+    "end": 62
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-64-0",
+  "text": "I would recommend this phone it is so much like having a Samsung phone",
+  "aspects": [
+   {
+    "term": "recommend this phone",
+    "polarity": "positive",
+    "start": 8,
+    "end": 28
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-66-0",
+  "text": "Good product quality Excellent service by seller seller help make a good choice !",
+  "aspects": [
+   {
+    "term": "product quality",
+    "polarity": "positive",
+    "start": 5,
+    "end": 20
+   },
+   {
+    "term": "service by seller",
+    "polarity": "positive",
+    "start": 31,
+    "end": 48
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-68-1",
+  "text": "The colour is alittle different from picture But it's the colour I like and not expensive.",
+  "aspects": [
+   {
+    "term": "colour",
+    "polarity": "negative",
+    "start": 4,
+    "end": 10
+   },
+   {
+    "term": "colour",
+    "polarity": "positive",
+    "start": 58,
+    "end": 64
+   },
+   {
+    "term": "expensive",
+    "polarity": "positive",
+    "start": 80,
+    "end": 89
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-70-3",
+  "text": "DONT BUY THIS ONE.",
+  "aspects": [
+   {
+    "term": "DONT BUY",
+    "polarity": "negative",
+    "start": 0,
+    "end": 8
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-72-1",
+  "text": "Nice camera, nice build quality and good looking phone.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 5,
+    "end": 11
+   },
+   {
+    "term": "build quality",
+    "polarity": "positive",
+    "start": 18,
+    "end": 31
+   },
+   {
+    "term": "looking",
+    "polarity": "positive",
+    "start": 41,
+    "end": 48
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-73-0",
+  "text": "Quite nippy and has excellent battery life.",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "positive",
+    "start": 30,
+    "end": 42
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-74-0",
+  "text": "Repeat purchase from seller!",
+  "aspects": [
+   {
+    "term": "purchase",
+    "polarity": "positive",
+    "start": 7,
+    "end": 15
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-74-1",
+  "text": "Once again, perfect presales and after sales service!!!",
+  "aspects": [
+   {
+    "term": "presales and after sales service",
+    "polarity": "positive",
+    "start": 20,
+    "end": 52
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-74-2",
+  "text": "Highly, highly recommended!",
+  "aspects": [
+   {
+    "term": "recommended",
+    "polarity": "positive",
+    "start": 15,
+    "end": 26
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-75-0",
+  "text": "Its only splashproof wth ipv52",
+  "aspects": [
+   {
+    "term": "splashproof",
+    "polarity": "negative",
+    "start": 9,
+    "end": 20
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-76-0",
+  "text": "Awesome , service was good, friendly and will certainly patronise them .",
+  "aspects": [
+   {
+    "term": "service",
+    "polarity": "positive",
+    "start": 10,
+    "end": 17
+   },
+   {
+    "term": "patronise",
+    "polarity": "positive",
+    "start": 56,
+    "end": 65
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-77-0",
+  "text": "Came in bubble wrap..",
+  "aspects": [
+   {
+    "term": "wrap",
+    "polarity": "negative",
+    "start": 15,
+    "end": 19
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-77-4",
+  "text": "Seller not responsive to refund and not willing to send replacement set.",
+  "aspects": [
+   {
+    "term": "Seller",
+    "polarity": "negative",
+    "start": 0,
+    "end": 6
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-78-0",
+  "text": "Good product, purchased 2 rd time already, highly recommended",
+  "aspects": [
+   {
+    "term": "purchased 2 rd time already",
+    "polarity": "positive",
+    "start": 14,
+    "end": 41
+   },
+   {
+    "term": "recommended",
+    "polarity": "positive",
+    "start": 50,
+    "end": 61
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-81-0",
+  "text": "yes, I tested, It even fell in my sink, no damage.",
+  "aspects": [
+   {
+    "term": "fell in my sink",
+    "polarity": "positive",
+    "start": 23,
+    "end": 38
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-84-1",
+  "text": "So order soon...price will be same...",
+  "aspects": [
+   {
+    "term": "price",
+    "polarity": "positive",
+    "start": 16,
+    "end": 21
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-86-2",
+  "text": "Came in a funny package bubble wrapped but it is very well secured.",
+  "aspects": [
+   {
+    "term": "package",
+    "polarity": "positive",
+    "start": 16,
+    "end": 23
+   },
+   {
+    "term": "bubble wrapped",
+    "polarity": "neutral",
+    "start": 24,
+    "end": 38
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-86-3",
+  "text": "Many accessories came with it good deal.",
+  "aspects": [
+   {
+    "term": "accessories",
+    "polarity": "positive",
+    "start": 5,
+    "end": 16
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-87-0",
+  "text": "Fingerprint is not working fast if you are used cover without cover its work very fast Overall good Little bit slow but not an issue your are facing",
+  "aspects": [
+   {
+    "term": "Fingerprint",
+    "polarity": "negative",
+    "start": 0,
+    "end": 11
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-88-0",
+  "text": "Item well received… the transaction process is smooth and is not difficult even at shop pick up",
+  "aspects": [
+   {
+    "term": "transaction process",
+    "polarity": "positive",
+    "start": 24,
+    "end": 43
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-89-1",
+  "text": "Box was sealed.",
+  "aspects": [
+   {
+    "term": "Box",
+    "polarity": "positive",
+    "start": 0,
+    "end": 3
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-89-3",
+  "text": "Seller was communicative.",
+  "aspects": [
+   {
+    "term": "Seller",
+    "polarity": "positive",
+    "start": 0,
+    "end": 6
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-89-4",
+  "text": "Happy with purchase.",
+  "aspects": [
+   {
+    "term": "purchase",
+    "polarity": "positive",
+    "start": 11,
+    "end": 19
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-92-1",
+  "text": "Good camera and spec.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 5,
+    "end": 11
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-94-0",
+  "text": "After 1 months of usage it become too slow without using too much...think before buying",
+  "aspects": [
+   {
+    "term": "think before buying",
+    "polarity": "negative",
+    "start": 68,
+    "end": 87
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-95-2",
+  "text": "I recommend this product from this supplier.",
+  "aspects": [
+   {
+    "term": "I recommend this product",
+    "polarity": "positive",
+    "start": 0,
+    "end": 24
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-96-0",
+  "text": "Thank you for your question, this phone has a built-in battery, the battery cannot be replaced, I'm very sorry.But the large 10000mAh battery can be used for a long time, so don’t worry too much.",
+  "aspects": [
+   {
+    "term": "10000mAh battery",
+    "polarity": "positive",
+    "start": 125,
+    "end": 141
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-97-0",
+  "text": "Phone comes with NFC function as the seller claimed that the phone doesn't have NFC function....Seller should know the product well if want to sell the items....",
+  "aspects": [
+   {
+    "term": "NFC function",
+    "polarity": "positive",
+    "start": 17,
+    "end": 29
+   },
+   {
+    "term": "seller",
+    "polarity": "negative",
+    "start": 37,
+    "end": 43
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-99-0",
+  "text": "Good product quality Able to sense the fingerprint when unlock the phone very well.?",
+  "aspects": [
+   {
+    "term": "roduct quality A",
+    "polarity": "positive",
+    "start": 6,
+    "end": 22
+   },
+   {
+    "term": "ense the fingerprint",
+    "polarity": "positive",
+    "start": 30,
+    "end": 50
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-100-0",
+  "text": "Quality service and prompt response from trader whenever necessary.",
+  "aspects": [
+   {
+    "term": "service",
+    "polarity": "positive",
+    "start": 8,
+    "end": 15
+   },
+   {
+    "term": "response",
+    "polarity": "positive",
+    "start": 27,
+    "end": 35
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-100-1",
+  "text": "Phone and packaging in brand new and perfect condition.",
+  "aspects": [
+   {
+    "term": "packaging",
+    "polarity": "positive",
+    "start": 10,
+    "end": 19
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-101-0",
+  "text": "Avoid avoid avoid.",
+  "aspects": [
+   {
+    "term": "Avoid",
+    "polarity": "negative",
+    "start": 0,
+    "end": 5
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-101-1",
+  "text": "This phone is completely buggy and slow.",
+  "aspects": [
+   {
+    "term": "buggy",
+    "polarity": "negative",
+    "start": 25,
+    "end": 30
+   },
+   {
+    "term": "slow",
+    "polarity": "negative",
+    "start": 35,
+    "end": 39
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-101-2",
+  "text": "Can't load up the camera without everything freezing.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "negative",
+    "start": 18,
+    "end": 24
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-102-0",
+  "text": "Easy to use but too big to put in a pocket.",
+  "aspects": [
+   {
+    "term": "Easy to use",
+    "polarity": "positive",
+    "start": 0,
+    "end": 11
+   },
+   {
+    "term": "big to put in a pocket",
+    "polarity": "negative",
+    "start": 20,
+    "end": 42
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-103-1",
+  "text": "Got the global edition so doesn't have the issues where I need to separately download the google apps.",
+  "aspects": [
+   {
+    "term": "google apps",
+    "polarity": "negative",
+    "start": 90,
+    "end": 101
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-103-2",
+  "text": "So far quite happy with the purchase having gotten it for over 2 weeks now.",
+  "aspects": [
+   {
+    "term": "purchase",
+    "polarity": "positive",
+    "start": 28,
+    "end": 36
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-103-3",
+  "text": "Battery last damn long even after playing game (can still last about a day).",
+  "aspects": [
+   {
+    "term": "Battery last",
+    "polarity": "positive",
+    "start": 0,
+    "end": 12
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-104-0",
+  "text": "The seller is very trustworthy and I am very satisfied（The goods can also be seen with GPS）",
+  "aspects": [
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 4,
+    "end": 10
+   },
+   {
+    "term": "GPS",
+    "polarity": "neutral",
+    "start": 87,
+    "end": 90
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-106-2",
+  "text": "Packaging was good and phone works well.",
+  "aspects": [
+   {
+    "term": "Packaging",
+    "polarity": "positive",
+    "start": 0,
+    "end": 9
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-108-0",
+  "text": "Good customer service from seller and prompt shipment.",
+  "aspects": [
+   {
+    "term": "customer service from seller",
+    "polarity": "positive",
+    "start": 5,
+    "end": 33
+   },
+   {
+    "term": "shipment",
+    "polarity": "positive",
+    "start": 45,
+    "end": 53
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-110-0",
+  "text": "Well packed and received in good condition.",
+  "aspects": [
+   {
+    "term": "packed",
+    "polarity": "positive",
+    "start": 5,
+    "end": 11
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-112-1",
+  "text": "Nicely & securely bubbled wrapped.",
+  "aspects": [
+   {
+    "term": "bubbled wrapped",
+    "polarity": "positive",
+    "start": 18,
+    "end": 33
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-112-3",
+  "text": "Cheap & good.",
+  "aspects": [
+   {
+    "term": "Cheap",
+    "polarity": "positive",
+    "start": 0,
+    "end": 5
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-113-0",
+  "text": "Neatly packaged, mint condition surprised it was second hand!!",
+  "aspects": [
+   {
+    "term": "packaged",
+    "polarity": "positive",
+    "start": 7,
+    "end": 15
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-114-0",
+  "text": "Only one con, that is this garbage Miui , lags too much ads are frustrating.",
+  "aspects": [
+   {
+    "term": "Miui",
+    "polarity": "negative",
+    "start": 35,
+    "end": 39
+   },
+   {
+    "term": "lags",
+    "polarity": "negative",
+    "start": 42,
+    "end": 46
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-115-0",
+  "text": "Loads of freebies like charging cables, case and protector (not great but can use first).",
+  "aspects": [
+   {
+    "term": "freebies",
+    "polarity": "positive",
+    "start": 9,
+    "end": 17
+   },
+   {
+    "term": "charging cables",
+    "polarity": "negative",
+    "start": 23,
+    "end": 38
+   },
+   {
+    "term": "case",
+    "polarity": "negative",
+    "start": 40,
+    "end": 44
+   },
+   {
+    "term": "protector",
+    "polarity": "negative",
+    "start": 49,
+    "end": 58
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-115-1",
+  "text": "Slightly delayed but it arrived nice and sealed.",
+  "aspects": [
+   {
+    "term": "delayed",
+    "polarity": "negative",
+    "start": 9,
+    "end": 16
+   },
+   {
+    "term": "nice and sealed",
+    "polarity": "positive",
+    "start": 32,
+    "end": 47
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-115-3",
+  "text": "Edit: charger given is faulty only the cable works .",
+  "aspects": [
+   {
+    "term": "charger given",
+    "polarity": "negative",
+    "start": 6,
+    "end": 19
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-116-0",
+  "text": "Item received ,well pack ,working good..",
+  "aspects": [
+   {
+    "term": "pack",
+    "polarity": "positive",
+    "start": 20,
+    "end": 24
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-116-1",
+  "text": "good deal ,highly recommended ??",
+  "aspects": [
+   {
+    "term": "deal",
+    "polarity": "positive",
+    "start": 5,
+    "end": 9
+   },
+   {
+    "term": "recommended",
+    "polarity": "positive",
+    "start": 18,
+    "end": 29
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-117-0",
+  "text": "I chose the Nord N10 5G because it took an SD Card (up to 256gb) and also believed I would get regular OS updates.",
+  "aspects": [
+   {
+    "term": "256gb",
+    "polarity": "neutral",
+    "start": 58,
+    "end": 63
+   },
+   {
+    "term": "OS updates",
+    "polarity": "neutral",
+    "start": 103,
+    "end": 113
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-117-1",
+  "text": "Unfortunately this OnePlus is still stuck at Android 10, OxygenOS 10.5 which is a disappointment.",
+  "aspects": [
+   {
+    "term": "still stuck at Android 10",
+    "polarity": "negative",
+    "start": 30,
+    "end": 55
+   },
+   {
+    "term": "OxygenOS 10.5",
+    "polarity": "negative",
+    "start": 57,
+    "end": 70
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-117-2",
+  "text": "Apart from that, I enjoy descent pictures and I'm happy with general performance.",
+  "aspects": [
+   {
+    "term": "descent pictures",
+    "polarity": "positive",
+    "start": 25,
+    "end": 41
+   },
+   {
+    "term": "general performance",
+    "polarity": "positive",
+    "start": 61,
+    "end": 80
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-119-0",
+  "text": "It has fingerprint technology, it has face recognition, and off course password protection.",
+  "aspects": [
+   {
+    "term": "fingerprint technology",
+    "polarity": "positive",
+    "start": 7,
+    "end": 29
+   },
+   {
+    "term": "face recognition",
+    "polarity": "positive",
+    "start": 38,
+    "end": 54
+   },
+   {
+    "term": "password protection",
+    "polarity": "positive",
+    "start": 71,
+    "end": 90
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-119-1",
+  "text": "no, but its cheap and good 4 the price It also has face recognition.",
+  "aspects": [
+   {
+    "term": "cheap",
+    "polarity": "positive",
+    "start": 12,
+    "end": 17
+   },
+   {
+    "term": "face recognition",
+    "polarity": "positive",
+    "start": 51,
+    "end": 67
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-120-0",
+  "text": "Thank you for your question, this phone will give you a phone case, but there is no eye hole on the phone case.",
+  "aspects": [
+   {
+    "term": "phone case",
+    "polarity": "negative",
+    "start": 56,
+    "end": 66
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-121-0",
+  "text": "No unfortunately, you only get a lightning cable to usb-c.",
+  "aspects": [
+   {
+    "term": "lightning cable to usb-c",
+    "polarity": "negative",
+    "start": 33,
+    "end": 57
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-122-0",
+  "text": "Very responsive seller.",
+  "aspects": [
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 16,
+    "end": 22
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-124-0",
+  "text": "Seller very prompt.",
+  "aspects": [
+   {
+    "term": "Seller",
+    "polarity": "positive",
+    "start": 0,
+    "end": 6
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-124-2",
+  "text": "Highly recomend this seller...",
+  "aspects": [
+   {
+    "term": "recomend",
+    "polarity": "positive",
+    "start": 7,
+    "end": 15
+   },
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 21,
+    "end": 27
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-125-0",
+  "text": "Our Galaxy S20 FE 5G has a Snapdragon 865 processor.",
+  "aspects": [
+   {
+    "term": "Snapdragon 865 processor",
+    "polarity": "neutral",
+    "start": 27,
+    "end": 51
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-126-1",
+  "text": "Camera quality is so awesome.",
+  "aspects": [
+   {
+    "term": "Camera quality",
+    "polarity": "positive",
+    "start": 0,
+    "end": 14
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-126-2",
+  "text": "I like its macro camera too.",
+  "aspects": [
+   {
+    "term": "macro camera",
+    "polarity": "positive",
+    "start": 11,
+    "end": 23
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-126-3",
+  "text": "Battery performance is good.",
+  "aspects": [
+   {
+    "term": "Battery performance",
+    "polarity": "positive",
+    "start": 0,
+    "end": 19
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-126-4",
+  "text": "Fast charging helps me to charge it in an hour.",
+  "aspects": [
+   {
+    "term": "Fast charging",
+    "polarity": "positive",
+    "start": 0,
+    "end": 13
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-126-5",
+  "text": "Display is crystal clear and brightness is super.",
+  "aspects": [
+   {
+    "term": "Display",
+    "polarity": "positive",
+    "start": 0,
+    "end": 7
+   },
+   {
+    "term": "brightness",
+    "polarity": "positive",
+    "start": 29,
+    "end": 39
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-126-6",
+  "text": "Fingerprint is really fast.",
+  "aspects": [
+   {
+    "term": "Fingerprint",
+    "polarity": "positive",
+    "start": 0,
+    "end": 11
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-126-7",
+  "text": "Sound quality is amazing.",
+  "aspects": [
+   {
+    "term": "Sound quality",
+    "polarity": "positive",
+    "start": 0,
+    "end": 13
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-126-8",
+  "text": "I would definitely recommend this phone.",
+  "aspects": [
+   {
+    "term": "recommend",
+    "polarity": "positive",
+    "start": 19,
+    "end": 28
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-127-0",
+  "text": "It's handy and performs quite well.",
+  "aspects": [
+   {
+    "term": "handy",
+    "polarity": "positive",
+    "start": 5,
+    "end": 10
+   },
+   {
+    "term": "performs",
+    "polarity": "positive",
+    "start": 15,
+    "end": 23
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-128-0",
+  "text": "Fast delivery Items are Bubble wrapped nicely Thank you for the gift",
+  "aspects": [
+   {
+    "term": "Bubble wrapped",
+    "polarity": "positive",
+    "start": 24,
+    "end": 38
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-129-1",
+  "text": "Yes \"Dear Customer, Storage on M21 phones are expandable by additional 512GB, using micro-SD card.",
+  "aspects": [
+   {
+    "term": "Storage on M21 phones",
+    "polarity": "positive",
+    "start": 20,
+    "end": 41
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-130-2",
+  "text": "The one I bought was pristine it looked brand new.",
+  "aspects": [
+   {
+    "term": "pristine",
+    "polarity": "positive",
+    "start": 21,
+    "end": 29
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-132-1",
+  "text": "Actual product looks smaller than picture which is good.",
+  "aspects": [
+   {
+    "term": "looks smaller than picture",
+    "polarity": "positive",
+    "start": 15,
+    "end": 41
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-132-2",
+  "text": "Tested for awhile, it does charge up but phone gets really hot which bothers me.?",
+  "aspects": [
+   {
+    "term": "hot",
+    "polarity": "negative",
+    "start": 59,
+    "end": 62
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-135-1",
+  "text": "Ordered on 7.7, warranty is about 9 months, until next year March.",
+  "aspects": [
+   {
+    "term": "warranty",
+    "polarity": "positive",
+    "start": 16,
+    "end": 24
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-137-0",
+  "text": "\"Hi Kunal, Galaxy M02s has Face unlock security.",
+  "aspects": [
+   {
+    "term": "Face unlock security",
+    "polarity": "positive",
+    "start": 27,
+    "end": 47
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-137-2",
+  "text": "Regards, Samsung India\" face unlock available in phone but finger sensor not available.",
+  "aspects": [
+   {
+    "term": "face unlock",
+    "polarity": "positive",
+    "start": 24,
+    "end": 35
+   },
+   {
+    "term": "finger sensor",
+    "polarity": "negative",
+    "start": 59,
+    "end": 72
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-137-3",
+  "text": "\"Hi Kunal, Galaxy M02s has Face unlock security.",
+  "aspects": [
+   {
+    "term": "Face unlock security",
+    "polarity": "positive",
+    "start": 27,
+    "end": 47
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-138-0",
+  "text": "Poor battery life, camera ok..",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "negative",
+    "start": 5,
+    "end": 17
+   },
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 19,
+    "end": 25
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-140-0",
+  "text": "I'm so eagerly waiting for this smartphone.but I bought, there lots of issue in that example 1.Desktop app icon automatically decreased 2.Desktop widget size abnormal behaviour Even though I serviced from iqoo service center, still I'm facing this issue.",
+  "aspects": [
+   {
+    "term": "Desktop app icon",
+    "polarity": "negative",
+    "start": 95,
+    "end": 111
+   },
+   {
+    "term": "Desktop widget size",
+    "polarity": "negative",
+    "start": 138,
+    "end": 157
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-141-0",
+  "text": "My iPhone is damaged so bought this phone before I upgrade new one .Touch screen is very good.Battery life also great so far.Easy to setup before I use.It came with screen protector and case attached but it doesn't have earphones,the phone Screen size is very good.Its picture quality is ok but video quality is nice.Also Sound quality is wonderful.",
+  "aspects": [
+   {
+    "term": "Touch screen",
+    "polarity": "positive",
+    "start": 68,
+    "end": 80
+   },
+   {
+    "term": "Battery life",
+    "polarity": "positive",
+    "start": 94,
+    "end": 106
+   },
+   {
+    "term": "Easy to setup",
+    "polarity": "positive",
+    "start": 125,
+    "end": 138
+   },
+   {
+    "term": "screen protector",
+    "polarity": "positive",
+    "start": 165,
+    "end": 181
+   },
+   {
+    "term": "case",
+    "polarity": "positive",
+    "start": 186,
+    "end": 190
+   },
+   {
+    "term": "earphones",
+    "polarity": "negative",
+    "start": 220,
+    "end": 229
+   },
+   {
+    "term": "phone Screen size",
+    "polarity": "positive",
+    "start": 234,
+    "end": 251
+   },
+   {
+    "term": "picture quality",
+    "polarity": "positive",
+    "start": 269,
+    "end": 284
+   },
+   {
+    "term": "video quality",
+    "polarity": "positive",
+    "start": 295,
+    "end": 308
+   },
+   {
+    "term": "Sound quality",
+    "polarity": "positive",
+    "start": 322,
+    "end": 335
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-141-1",
+  "text": "In overall this phone is good value for money .It is working great according to my propose.",
+  "aspects": [
+   {
+    "term": "value for money",
+    "polarity": "positive",
+    "start": 30,
+    "end": 45
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-142-1",
+  "text": "It's easy to download files and apps.",
+  "aspects": [
+   {
+    "term": "easy to download",
+    "polarity": "positive",
+    "start": 5,
+    "end": 21
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-142-2",
+  "text": "And the screen is great when I play games.",
+  "aspects": [
+   {
+    "term": "screen",
+    "polarity": "positive",
+    "start": 8,
+    "end": 14
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-143-0",
+  "text": "It will rum on mobile data easily.",
+  "aspects": [
+   {
+    "term": "rum on mobile data",
+    "polarity": "positive",
+    "start": 8,
+    "end": 26
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-145-1",
+  "text": "Quality is ok ok for the price you paid.",
+  "aspects": [
+   {
+    "term": "Quality",
+    "polarity": "positive",
+    "start": 0,
+    "end": 7
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-147-0",
+  "text": "Really good phone and loud speaker to play music on, and superb battery life",
+  "aspects": [
+   {
+    "term": "speaker",
+    "polarity": "positive",
+    "start": 27,
+    "end": 34
+   },
+   {
+    "term": "battery life",
+    "polarity": "positive",
+    "start": 64,
+    "end": 76
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-150-0",
+  "text": "Whole watch looks cheapo.",
+  "aspects": [
+   {
+    "term": "Whole watch",
+    "polarity": "positive",
+    "start": 0,
+    "end": 11
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-150-3",
+  "text": "Regretted buying it.",
+  "aspects": [
+   {
+    "term": "buying it",
+    "polarity": "negative",
+    "start": 10,
+    "end": 19
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-153-0",
+  "text": "Amazing phone battery health was 100% and no scratches .",
+  "aspects": [
+   {
+    "term": "battery health",
+    "polarity": "positive",
+    "start": 14,
+    "end": 28
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-155-1",
+  "text": "This is a counterfeit part that ships with a low quality cable.",
+  "aspects": [
+   {
+    "term": "counterfeit",
+    "polarity": "negative",
+    "start": 10,
+    "end": 21
+   },
+   {
+    "term": "cable",
+    "polarity": "negative",
+    "start": 57,
+    "end": 62
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-156-0",
+  "text": "Phone had some problems and had to head down to shop for an exchange.",
+  "aspects": [
+   {
+    "term": "shop",
+    "polarity": "positive",
+    "start": 48,
+    "end": 52
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-156-1",
+  "text": "Good that the shop was friendly to assist with exchange.",
+  "aspects": [
+   {
+    "term": "shop",
+    "polarity": "positive",
+    "start": 14,
+    "end": 18
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-157-3",
+  "text": "All in all a great buy!",
+  "aspects": [
+   {
+    "term": "buy",
+    "polarity": "positive",
+    "start": 19,
+    "end": 22
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-158-0",
+  "text": "Abit pricey, but worth it, perfect case, delivered in 2 days, thank you",
+  "aspects": [
+   {
+    "term": "pricey",
+    "polarity": "negative",
+    "start": 5,
+    "end": 11
+   },
+   {
+    "term": "worth it",
+    "polarity": "positive",
+    "start": 17,
+    "end": 25
+   },
+   {
+    "term": "case",
+    "polarity": "positive",
+    "start": 35,
+    "end": 39
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-159-0",
+  "text": "The volume on this phone is far to low.",
+  "aspects": [
+   {
+    "term": "volume",
+    "polarity": "negative",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-163-0",
+  "text": "The product is very good , worth its money .",
+  "aspects": [
+   {
+    "term": "worth its money",
+    "polarity": "positive",
+    "start": 27,
+    "end": 42
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-167-2",
+  "text": "Very pleased with the purchase and seller.",
+  "aspects": [
+   {
+    "term": "purchase",
+    "polarity": "positive",
+    "start": 22,
+    "end": 30
+   },
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 35,
+    "end": 41
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-168-2",
+  "text": "Was to come w/ 3 free gifts (Logitech keyboard, wireless charger, trade-in voucher).",
+  "aspects": [
+   {
+    "term": "3 free gifts",
+    "polarity": "negative",
+    "start": 15,
+    "end": 27
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-168-4",
+  "text": "Engaged chat agent but they are unwilling to troubleshoot when the voucher code didn’t work.",
+  "aspects": [
+   {
+    "term": "troubleshoot",
+    "polarity": "negative",
+    "start": 45,
+    "end": 57
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-169-0",
+  "text": "Excellent condition, battery life is not great",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "negative",
+    "start": 21,
+    "end": 33
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-170-1",
+  "text": "always buy with 3 gb ram",
+  "aspects": [
+   {
+    "term": "3 gb ram",
+    "polarity": "neutral",
+    "start": 16,
+    "end": 24
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-171-0",
+  "text": "NO , NO CARRIERS AGGREGATION SUPPORT AVAILABLE Dear Customer, Galaxy M32 supports 2G GSM, 3G WCDMA, 4G LTE FDD, 4G LTE TDD network connectivity.",
+  "aspects": [
+   {
+    "term": "CARRIERS AGGREGATION SUPPORT",
+    "polarity": "negative",
+    "start": 8,
+    "end": 36
+   },
+   {
+    "term": "2G GSM",
+    "polarity": "positive",
+    "start": 82,
+    "end": 88
+   },
+   {
+    "term": "3G WCDMA",
+    "polarity": "positive",
+    "start": 90,
+    "end": 98
+   },
+   {
+    "term": "4G LTE FDD",
+    "polarity": "positive",
+    "start": 100,
+    "end": 110
+   },
+   {
+    "term": "4G LTE TDD network connectivity",
+    "polarity": "positive",
+    "start": 112,
+    "end": 143
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-172-0",
+  "text": "Phone came in sealed and carefully packed with the accessories inside.",
+  "aspects": [
+   {
+    "term": "packed with the accessories inside",
+    "polarity": "positive",
+    "start": 35,
+    "end": 69
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-173-0",
+  "text": "Actual display measurements are 6\" long x 2.75 \" wide, and diagonal is 6.5\".",
+  "aspects": [
+   {
+    "term": "display measurements",
+    "polarity": "neutral",
+    "start": 7,
+    "end": 27
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-173-1",
+  "text": "The screen itself is slightly larger.",
+  "aspects": [
+   {
+    "term": "screen itself",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 17
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-174-0",
+  "text": "I found this durable ,but be careful with glass back of mobile falling from height.",
+  "aspects": [
+   {
+    "term": "durable",
+    "polarity": "positive",
+    "start": 13,
+    "end": 20
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-177-0",
+  "text": "I have found the camera to be really decent.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 17,
+    "end": 23
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-177-2",
+  "text": "Hi, In my opinion the cameras are very good indeed .",
+  "aspects": [
+   {
+    "term": "cameras",
+    "polarity": "positive",
+    "start": 22,
+    "end": 29
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-177-3",
+  "text": "I am very happy with the performance of the still and video images.",
+  "aspects": [
+   {
+    "term": "performance of the still and video images",
+    "polarity": "positive",
+    "start": 25,
+    "end": 66
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-177-5",
+  "text": "High quality with the option of changing to 48mp, which is actually very high definition.",
+  "aspects": [
+   {
+    "term": "quality",
+    "polarity": "positive",
+    "start": 5,
+    "end": 12
+   },
+   {
+    "term": "definition",
+    "polarity": "positive",
+    "start": 78,
+    "end": 88
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-177-7",
+  "text": "Selfie camera is good quality too.",
+  "aspects": [
+   {
+    "term": "Selfie camera",
+    "polarity": "positive",
+    "start": 0,
+    "end": 13
+   },
+   {
+    "term": "quality",
+    "polarity": "positive",
+    "start": 22,
+    "end": 29
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-177-8",
+  "text": "Is a really good camera to be just a phone camera..",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 17,
+    "end": 23
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-177-9",
+  "text": "I'm really happy of my pictures with this camera In my experience the main camera is first class.",
+  "aspects": [
+   {
+    "term": "pictures",
+    "polarity": "positive",
+    "start": 23,
+    "end": 31
+   },
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 42,
+    "end": 48
+   },
+   {
+    "term": "main camera",
+    "polarity": "positive",
+    "start": 70,
+    "end": 81
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-177-11",
+  "text": "I'm not the keenest phone camera user as I prefer a stand-alone digital camera.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 26,
+    "end": 32
+   },
+   {
+    "term": "stand-alone digital camera",
+    "polarity": "positive",
+    "start": 52,
+    "end": 78
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-177-12",
+  "text": "I love the phone and for the price well its great Excellent I'm more than satisfied",
+  "aspects": [
+   {
+    "term": "price",
+    "polarity": "positive",
+    "start": 29,
+    "end": 34
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-178-3",
+  "text": "Seller says shop will give 1 year warrenty.",
+  "aspects": [
+   {
+    "term": "1 year warrenty",
+    "polarity": "neutral",
+    "start": 27,
+    "end": 42
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-179-0",
+  "text": "It has a fingerprint sensor on the back but I didn't try it yet Yes the Redmi 9 does have a fingerprint sensor Yes plus a lot more Really good phone great value....",
+  "aspects": [
+   {
+    "term": "fingerprint sensor",
+    "polarity": "neutral",
+    "start": 9,
+    "end": 27
+   },
+   {
+    "term": "fingerprint sensor",
+    "polarity": "positive",
+    "start": 92,
+    "end": 110
+   },
+   {
+    "term": "value",
+    "polarity": "positive",
+    "start": 155,
+    "end": 160
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-181-5",
+  "text": "Would not recommend.",
+  "aspects": [
+   {
+    "term": "recommend",
+    "polarity": "negative",
+    "start": 10,
+    "end": 19
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-182-0",
+  "text": "Good fast delivery it takes three working days to reach will buy again",
+  "aspects": [
+   {
+    "term": "will buy again",
+    "polarity": "positive",
+    "start": 56,
+    "end": 70
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-183-1",
+  "text": "Better than most of the expensive phones in the market.",
+  "aspects": [
+   {
+    "term": "expensive",
+    "polarity": "positive",
+    "start": 24,
+    "end": 33
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-184-1",
+  "text": "The fingerprint scanner is very fast.",
+  "aspects": [
+   {
+    "term": "fingerprint scanner",
+    "polarity": "positive",
+    "start": 4,
+    "end": 23
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-184-2",
+  "text": "It feels great in your hand.",
+  "aspects": [
+   {
+    "term": "in your hand",
+    "polarity": "positive",
+    "start": 15,
+    "end": 27
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-184-3",
+  "text": "The camera is very impressive too.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-184-4",
+  "text": "Scrolling through apps is fast and smooth and using the 5G everything downloads and uploads very quick.",
+  "aspects": [
+   {
+    "term": "Scrolling through apps",
+    "polarity": "positive",
+    "start": 0,
+    "end": 22
+   },
+   {
+    "term": "5G",
+    "polarity": "positive",
+    "start": 56,
+    "end": 58
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-185-0",
+  "text": "1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase.",
+  "aspects": [
+   {
+    "term": "1 year manufacturer warranty for device",
+    "polarity": "neutral",
+    "start": 0,
+    "end": 39
+   },
+   {
+    "term": "6 months manufacturer warranty for in-box accessories",
+    "polarity": "neutral",
+    "start": 44,
+    "end": 97
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-185-1",
+  "text": "OPPO A31 comes with a 1 Year Warranty.",
+  "aspects": [
+   {
+    "term": "1 Year Warranty",
+    "polarity": "neutral",
+    "start": 22,
+    "end": 37
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-186-2",
+  "text": "Ads and blotware will irritate you.",
+  "aspects": [
+   {
+    "term": "blotware",
+    "polarity": "negative",
+    "start": 8,
+    "end": 16
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-186-3",
+  "text": "Notification is irritating Heavy ui",
+  "aspects": [
+   {
+    "term": "ui",
+    "polarity": "negative",
+    "start": 33,
+    "end": 35
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-188-2",
+  "text": "The photo I’ve included is night mode on the iPhone, just stunning!",
+  "aspects": [
+   {
+    "term": "photo",
+    "polarity": "positive",
+    "start": 4,
+    "end": 9
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-188-4",
+  "text": "The sound from the onboard speakers are great.",
+  "aspects": [
+   {
+    "term": "sound",
+    "polarity": "positive",
+    "start": 4,
+    "end": 9
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-188-7",
+  "text": "It’s fast and easy to use.",
+  "aspects": [
+   {
+    "term": "fast",
+    "polarity": "positive",
+    "start": 5,
+    "end": 9
+   },
+   {
+    "term": "easy to use",
+    "polarity": "positive",
+    "start": 14,
+    "end": 25
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-188-11",
+  "text": "I bought a cheap wireless QI charger which protects the port.",
+  "aspects": [
+   {
+    "term": "wireless QI charger",
+    "polarity": "positive",
+    "start": 17,
+    "end": 36
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-188-12",
+  "text": "It’s the biggest phone I’ve had but I love it !",
+  "aspects": [
+   {
+    "term": "biggest",
+    "polarity": "positive",
+    "start": 9,
+    "end": 16
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-189-0",
+  "text": "The product came well packed and of good quality.",
+  "aspects": [
+   {
+    "term": "packed",
+    "polarity": "positive",
+    "start": 22,
+    "end": 28
+   },
+   {
+    "term": "quality",
+    "polarity": "positive",
+    "start": 41,
+    "end": 48
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-189-1",
+  "text": "The blue is a bit light though.",
+  "aspects": [
+   {
+    "term": "blue",
+    "polarity": "negative",
+    "start": 4,
+    "end": 8
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-190-2",
+  "text": "Shopee services is gettting worse .",
+  "aspects": [
+   {
+    "term": "Shopee services",
+    "polarity": "negative",
+    "start": 0,
+    "end": 15
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-190-3",
+  "text": "Don recommend it .",
+  "aspects": [
+   {
+    "term": "Don recommend it",
+    "polarity": "negative",
+    "start": 0,
+    "end": 16
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-191-1",
+  "text": "Repeated purchase(3rd),so my parents and I have the same phone!",
+  "aspects": [
+   {
+    "term": "Repeated purchase(3rd)",
+    "polarity": "positive",
+    "start": 0,
+    "end": 22
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-191-2",
+  "text": "No freebies unlike 11.11.",
+  "aspects": [
+   {
+    "term": "freebies",
+    "polarity": "negative",
+    "start": 3,
+    "end": 11
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-191-4",
+  "text": "Easy to navi, have use xiaomi note phones for years, last long especially for my parent who keep dropping their phones.",
+  "aspects": [
+   {
+    "term": "Easy to navi",
+    "polarity": "positive",
+    "start": 0,
+    "end": 12
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-192-0",
+  "text": "Fab phone, nice size for smaller hands!",
+  "aspects": [
+   {
+    "term": "size",
+    "polarity": "positive",
+    "start": 16,
+    "end": 20
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-193-0",
+  "text": "Fingerprint is so smooth....",
+  "aspects": [
+   {
+    "term": "Fingerprint",
+    "polarity": "positive",
+    "start": 0,
+    "end": 11
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-193-1",
+  "text": "battery life is long 100% charging is used for all day....camera quality is good....screen also smooth..",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "positive",
+    "start": 0,
+    "end": 12
+   },
+   {
+    "term": "100% charging",
+    "polarity": "positive",
+    "start": 21,
+    "end": 34
+   },
+   {
+    "term": "camera quality",
+    "polarity": "positive",
+    "start": 58,
+    "end": 72
+   },
+   {
+    "term": "screen",
+    "polarity": "positive",
+    "start": 84,
+    "end": 90
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-194-2",
+  "text": "Highly recommended to budget buyer.",
+  "aspects": [
+   {
+    "term": "recommended",
+    "polarity": "positive",
+    "start": 7,
+    "end": 18
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-198-1",
+  "text": "This is my second and I love it.",
+  "aspects": [
+   {
+    "term": "This is my second",
+    "polarity": "positive",
+    "start": 0,
+    "end": 17
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-198-3",
+  "text": "It's easy to use and I keep finding more features that are really practical and helpful.",
+  "aspects": [
+   {
+    "term": "easy to use",
+    "polarity": "positive",
+    "start": 5,
+    "end": 16
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-198-5",
+  "text": "I've only put 4 stars for battery life but really it would probably be 5 if I wasn't on it constantly.",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "neutral",
+    "start": 26,
+    "end": 38
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-198-6",
+  "text": "I really highly recommend this phone.",
+  "aspects": [
+   {
+    "term": "recommend this phone",
+    "polarity": "positive",
+    "start": 16,
+    "end": 36
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-201-1",
+  "text": "Good camera and spec.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 5,
+    "end": 11
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-201-3",
+  "text": "Highly recommended to all.",
+  "aspects": [
+   {
+    "term": "recommended",
+    "polarity": "positive",
+    "start": 7,
+    "end": 18
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-203-0",
+  "text": "Fits my overly large phone and supports its weight perfectly!",
+  "aspects": [
+   {
+    "term": "Fits",
+    "polarity": "positive",
+    "start": 0,
+    "end": 4
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-204-0",
+  "text": "Came with a free case and no cracks so VERY GOOD ???",
+  "aspects": [
+   {
+    "term": "free case",
+    "polarity": "positive",
+    "start": 12,
+    "end": 21
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-205-0",
+  "text": "Fingerprint is good enough but not the face recognition as compare to iPhone.",
+  "aspects": [
+   {
+    "term": "Fingerprint",
+    "polarity": "positive",
+    "start": 0,
+    "end": 11
+   },
+   {
+    "term": "face recognition",
+    "polarity": "negative",
+    "start": 39,
+    "end": 55
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-206-1",
+  "text": "Good and well protected bubble wrap.",
+  "aspects": [
+   {
+    "term": "bubble wrap",
+    "polarity": "positive",
+    "start": 24,
+    "end": 35
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-208-0",
+  "text": "Item delivered with freebies safely and securely packed.",
+  "aspects": [
+   {
+    "term": "freebies",
+    "polarity": "positive",
+    "start": 20,
+    "end": 28
+   },
+   {
+    "term": "packed",
+    "polarity": "positive",
+    "start": 49,
+    "end": 55
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-209-0",
+  "text": "Pros 1.Good screen display 2.Excellent Battery life,for casual user upto 3 working days 3.Good memory management 4.Camera was good but not excellent 5.Reverse charging Cons 1.Screen display could have been at 90hz or 120hz 2.Camera was not upto the expectations ,slow motion videos are horrible at 720p especially in indoor conditions 3.Snap dragon 800 chipset could have been better under this price range",
+  "aspects": [
+   {
+    "term": "screen display",
+    "polarity": "positive",
+    "start": 12,
+    "end": 26
+   },
+   {
+    "term": "Battery life",
+    "polarity": "positive",
+    "start": 39,
+    "end": 51
+   },
+   {
+    "term": "memory management",
+    "polarity": "positive",
+    "start": 95,
+    "end": 112
+   },
+   {
+    "term": "Camera",
+    "polarity": "negative",
+    "start": 115,
+    "end": 121
+   },
+   {
+    "term": "Camera",
+    "polarity": "positive",
+    "start": 225,
+    "end": 231
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-210-2",
+  "text": "Happy with purchase.",
+  "aspects": [
+   {
+    "term": "purchase",
+    "polarity": "positive",
+    "start": 11,
+    "end": 19
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-211-1",
+  "text": "Voice not audible/clear 2.",
+  "aspects": [
+   {
+    "term": "Voice",
+    "polarity": "negative",
+    "start": 0,
+    "end": 5
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-211-5",
+  "text": "During incoming calls, hotspot device geting disconnected from tethering wifi 5.not withstanding battery charge",
+  "aspects": [
+   {
+    "term": "battery charge",
+    "polarity": "negative",
+    "start": 97,
+    "end": 111
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-212-0",
+  "text": "This didn't arrive in genuine Samsung packaging, and the cable supplied feels very cheap.",
+  "aspects": [
+   {
+    "term": "genuine Samsung packaging",
+    "polarity": "negative",
+    "start": 22,
+    "end": 47
+   },
+   {
+    "term": "cheap",
+    "polarity": "negative",
+    "start": 83,
+    "end": 88
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-213-0",
+  "text": "No bubble wrap.",
+  "aspects": [
+   {
+    "term": "bubble wrap",
+    "polarity": "negative",
+    "start": 3,
+    "end": 14
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-214-0",
+  "text": "Phone received in good condition well packed fastest order I received order 8/8 and received 9/8 thanks to Shopee",
+  "aspects": [
+   {
+    "term": "packed",
+    "polarity": "positive",
+    "start": 38,
+    "end": 44
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-216-0",
+  "text": "all good nice budget phone every thing is fine in it no issue for simple use just an basic smartphone",
+  "aspects": [
+   {
+    "term": "budget",
+    "polarity": "positive",
+    "start": 14,
+    "end": 20
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-217-0",
+  "text": "64GB It tells you in the listing.",
+  "aspects": [
+   {
+    "term": "64GB",
+    "polarity": "neutral",
+    "start": 0,
+    "end": 4
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-217-2",
+  "text": "Our Galaxy A12 has 4GB of RAM.",
+  "aspects": [
+   {
+    "term": "4GB of RAM",
+    "polarity": "neutral",
+    "start": 19,
+    "end": 29
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-217-4",
+  "text": "^LP at Samsung Support 4gb RAM 4GB it's awesome ?",
+  "aspects": [
+   {
+    "term": "4gb RAM",
+    "polarity": "positive",
+    "start": 23,
+    "end": 30
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-218-1",
+  "text": "Wanted to use fir Zwift virtual rides and works smoothly.",
+  "aspects": [
+   {
+    "term": "fir Zwift virtual rides",
+    "polarity": "positive",
+    "start": 14,
+    "end": 37
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-219-2",
+  "text": ".The original casing is metal and don’t bend.",
+  "aspects": [
+   {
+    "term": "original",
+    "polarity": "negative",
+    "start": 5,
+    "end": 13
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-220-0",
+  "text": "I love vivo mobiles, as i thought of purchasing one from vivo i came across iqooZ3 which is from vivo all the features they have shown are jst for on paper the quality of the mobile is worst 1.",
+  "aspects": [
+   {
+    "term": "quality of the mobile",
+    "polarity": "negative",
+    "start": 160,
+    "end": 181
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-220-1",
+  "text": "Screen is dull as its panda glass not gorilla 2.the width is less and the length is high 3.camera quality is worst u jst get all saturated photos u cant captaure any thing with out saturation or filter 4.speaker is very bad low volume 5.if talking call in speaker_on forget it no one can hear ur voice 6.",
+  "aspects": [
+   {
+    "term": "Screen",
+    "polarity": "negative",
+    "start": 0,
+    "end": 6
+   },
+   {
+    "term": "width",
+    "polarity": "negative",
+    "start": 52,
+    "end": 57
+   },
+   {
+    "term": "length",
+    "polarity": "negative",
+    "start": 74,
+    "end": 80
+   },
+   {
+    "term": "camera quality",
+    "polarity": "negative",
+    "start": 91,
+    "end": 105
+   },
+   {
+    "term": "speaker",
+    "polarity": "negative",
+    "start": 204,
+    "end": 211
+   },
+   {
+    "term": "volume",
+    "polarity": "negative",
+    "start": 228,
+    "end": 234
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-221-0",
+  "text": "Worst mobile don't buy..selfi camer is to bad.",
+  "aspects": [
+   {
+    "term": "buy",
+    "polarity": "negative",
+    "start": 19,
+    "end": 22
+   },
+   {
+    "term": "selfi camer",
+    "polarity": "negative",
+    "start": 24,
+    "end": 35
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-224-0",
+  "text": "was a reluctant to buy a phone off the internet but turned out to be ok, was a well needed upgrade for my partner, its almost like the S7 very similar setup with the software and aps, i might get one for myself",
+  "aspects": [
+   {
+    "term": "get one",
+    "polarity": "positive",
+    "start": 192,
+    "end": 199
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-226-0",
+  "text": "Good product same purchase before and so far seller is decent and not lying as other sellers do.",
+  "aspects": [
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 45,
+    "end": 51
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-226-1",
+  "text": "Price is fair too maybe shipping can be faster and better",
+  "aspects": [
+   {
+    "term": "Price",
+    "polarity": "positive",
+    "start": 0,
+    "end": 5
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-227-1",
+  "text": "But seller is responsive.",
+  "aspects": [
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-227-2",
+  "text": "Usually ninjavan takes super long and service is really bad.",
+  "aspects": [
+   {
+    "term": "service",
+    "polarity": "negative",
+    "start": 38,
+    "end": 45
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-230-2",
+  "text": "Not recommended unless u're comfortable with Chinese.",
+  "aspects": [
+   {
+    "term": "recommended",
+    "polarity": "negative",
+    "start": 4,
+    "end": 15
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-231-1",
+  "text": "Easily lasts me over 2 whole days without charging.",
+  "aspects": [
+   {
+    "term": "Easily lasts me over 2 whole days without charging",
+    "polarity": "positive",
+    "start": 0,
+    "end": 50
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-231-4",
+  "text": "If losses the 0.2 points as the phone speaker could be better but if using headphones (shrugs)!!",
+  "aspects": [
+   {
+    "term": "phone speaker",
+    "polarity": "positive",
+    "start": 32,
+    "end": 45
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-232-0",
+  "text": "\"Hi Gunjan, Galaxy M51 weighs a mere 213 grams and comes in an 9.5mm sleek design.",
+  "aspects": [
+   {
+    "term": "weighs",
+    "polarity": "positive",
+    "start": 23,
+    "end": 29
+   },
+   {
+    "term": "9.5mm sleek design",
+    "polarity": "neutral",
+    "start": 63,
+    "end": 81
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-232-2",
+  "text": "Regards, Samsung India\" A bit heavy since it has 7000mAh battery.",
+  "aspects": [
+   {
+    "term": "heavy",
+    "polarity": "negative",
+    "start": 30,
+    "end": 35
+   },
+   {
+    "term": "7000mAh battery",
+    "polarity": "neutral",
+    "start": 49,
+    "end": 64
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-232-3",
+  "text": "Not so heavy \"Hi Gunjan, Galaxy M51 weighs a mere 213 grams and comes in an 9.5mm sleek design.",
+  "aspects": [
+   {
+    "term": "heavy",
+    "polarity": "negative",
+    "start": 7,
+    "end": 12
+   },
+   {
+    "term": "weighs",
+    "polarity": "positive",
+    "start": 36,
+    "end": 42
+   },
+   {
+    "term": "9.5mm sleek design",
+    "polarity": "neutral",
+    "start": 76,
+    "end": 94
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-233-0",
+  "text": "Really positive experience for first time purchasing thru shopee and with mj mobile.",
+  "aspects": [
+   {
+    "term": "experience",
+    "polarity": "positive",
+    "start": 16,
+    "end": 26
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-233-1",
+  "text": "As advertised & good service.",
+  "aspects": [
+   {
+    "term": "service",
+    "polarity": "positive",
+    "start": 21,
+    "end": 28
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-236-1",
+  "text": "Good size screen, can't fault picture quality.",
+  "aspects": [
+   {
+    "term": "size screen",
+    "polarity": "positive",
+    "start": 5,
+    "end": 16
+   },
+   {
+    "term": "picture quality",
+    "polarity": "positive",
+    "start": 30,
+    "end": 45
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-237-0",
+  "text": "Thank you, seller for the swift delivery.",
+  "aspects": [
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 11,
+    "end": 17
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-238-2",
+  "text": "The sound is good and it has big buttons, so easy to use.",
+  "aspects": [
+   {
+    "term": "sound",
+    "polarity": "positive",
+    "start": 4,
+    "end": 9
+   },
+   {
+    "term": "buttons",
+    "polarity": "positive",
+    "start": 33,
+    "end": 40
+   },
+   {
+    "term": "easy to use",
+    "polarity": "positive",
+    "start": 45,
+    "end": 56
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-238-3",
+  "text": "I liked it so much I bought another one for me.",
+  "aspects": [
+   {
+    "term": "I bought another one for me",
+    "polarity": "positive",
+    "start": 19,
+    "end": 46
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-239-0",
+  "text": "Good phone....good value for money",
+  "aspects": [
+   {
+    "term": "value for money",
+    "polarity": "positive",
+    "start": 19,
+    "end": 34
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-240-1",
+  "text": "Highly not recommended to buy this phone.",
+  "aspects": [
+   {
+    "term": "not recommended to buy this phone",
+    "polarity": "negative",
+    "start": 7,
+    "end": 40
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-241-0",
+  "text": "Overall it helps to cool my phone although I wish the suction will be stronger, it keeps dropping halfway while I’m playing.",
+  "aspects": [
+   {
+    "term": "dropping halfway",
+    "polarity": "negative",
+    "start": 89,
+    "end": 105
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-242-1",
+  "text": "Back cover & screen guard are not included in the box and need to be purchased separately.",
+  "aspects": [
+   {
+    "term": "Back cover",
+    "polarity": "negative",
+    "start": 0,
+    "end": 10
+   },
+   {
+    "term": "screen guard",
+    "polarity": "negative",
+    "start": 13,
+    "end": 25
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-242-2",
+  "text": "M series back covers are available on Amazon.in starting from Rs 149.",
+  "aspects": [
+   {
+    "term": "back cover",
+    "polarity": "negative",
+    "start": 9,
+    "end": 19
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-246-0",
+  "text": "Received a wrong item ..And the customer service is really bad ..",
+  "aspects": [
+   {
+    "term": "customer service",
+    "polarity": "negative",
+    "start": 32,
+    "end": 48
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-248-2",
+  "text": "Inside have a free rubber case.",
+  "aspects": [
+   {
+    "term": "free rubber case",
+    "polarity": "positive",
+    "start": 14,
+    "end": 30
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-249-0",
+  "text": "Well packed & rec'd it within 3 days,many free gift too.Phone is working will.Thanks seller & the delivery guy.",
+  "aspects": [
+   {
+    "term": "packed",
+    "polarity": "positive",
+    "start": 5,
+    "end": 11
+   },
+   {
+    "term": "free gift",
+    "polarity": "positive",
+    "start": 42,
+    "end": 51
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-252-0",
+  "text": "As stated and I was able to register warranty with Samsung.",
+  "aspects": [
+   {
+    "term": "register warranty with Samsung",
+    "polarity": "positive",
+    "start": 28,
+    "end": 58
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-252-1",
+  "text": "Seller is responsive.",
+  "aspects": [
+   {
+    "term": "Seller",
+    "polarity": "positive",
+    "start": 0,
+    "end": 6
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-253-1",
+  "text": "Authentic case from Ringke, recommended!",
+  "aspects": [
+   {
+    "term": "Authentic case",
+    "polarity": "positive",
+    "start": 0,
+    "end": 14
+   },
+   {
+    "term": "recommended",
+    "polarity": "positive",
+    "start": 28,
+    "end": 39
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-254-0",
+  "text": "Well it has a pretty good GPU - Adreno 618.",
+  "aspects": [
+   {
+    "term": "GPU",
+    "polarity": "positive",
+    "start": 26,
+    "end": 29
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-255-0",
+  "text": "I think most of these electronic devices should have some return policy when purchasing via online ...since for liking something, we need to see those in person.",
+  "aspects": [
+   {
+    "term": "return policy",
+    "polarity": "negative",
+    "start": 58,
+    "end": 71
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-255-1",
+  "text": "I spent money for this item and now they say i have to keep it just because of their return policy not available.",
+  "aspects": [
+   {
+    "term": "return policy",
+    "polarity": "negative",
+    "start": 85,
+    "end": 98
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-257-0",
+  "text": "None of the S21 Range have external memory slots for SD cards its just internal memory.",
+  "aspects": [
+   {
+    "term": "external memory",
+    "polarity": "positive",
+    "start": 27,
+    "end": 42
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-257-1",
+  "text": "The great news is that while the S21 does not feature an SD Card slot for extra external memory, it does come stock with 128GB of storage, and plenty of secure, and extensive cloud options if you do need any additional space.",
+  "aspects": [
+   {
+    "term": "external memory",
+    "polarity": "positive",
+    "start": 80,
+    "end": 95
+   },
+   {
+    "term": "space",
+    "polarity": "positive",
+    "start": 219,
+    "end": 224
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-262-0",
+  "text": "10s is the best phone i ever used it's features camera clarity n everything with advance technology just amazed don't even think once before buying it.....",
+  "aspects": [
+   {
+    "term": "camera clarity",
+    "polarity": "positive",
+    "start": 48,
+    "end": 62
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-263-0",
+  "text": "Excellent phone great price we have 3 of them now in the family",
+  "aspects": [
+   {
+    "term": "price",
+    "polarity": "positive",
+    "start": 22,
+    "end": 27
+   },
+   {
+    "term": "in the family",
+    "polarity": "positive",
+    "start": 50,
+    "end": 63
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-264-2",
+  "text": "6 gb ram and 128 gb memory.",
+  "aspects": [
+   {
+    "term": "6 gb ram",
+    "polarity": "neutral",
+    "start": 0,
+    "end": 8
+   },
+   {
+    "term": "28 gb memory",
+    "polarity": "positive",
+    "start": 14,
+    "end": 26
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-265-4",
+  "text": "This is sonce first day happening It is defective product as its speaker is also not up to mark.",
+  "aspects": [
+   {
+    "term": "speaker",
+    "polarity": "negative",
+    "start": 65,
+    "end": 72
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-266-1",
+  "text": "This cover is so cute.",
+  "aspects": [
+   {
+    "term": "cute",
+    "polarity": "positive",
+    "start": 17,
+    "end": 21
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-268-0",
+  "text": "Battary life is not ok , only 3-4 hours only which is never accepted .",
+  "aspects": [
+   {
+    "term": "Battary life",
+    "polarity": "negative",
+    "start": 0,
+    "end": 12
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-269-1",
+  "text": "6gig to run the phone and 128 internal storage, with external micro memory slot to add even more capacity.",
+  "aspects": [
+   {
+    "term": "6gig",
+    "polarity": "neutral",
+    "start": 0,
+    "end": 4
+   },
+   {
+    "term": "capacity",
+    "polarity": "positive",
+    "start": 97,
+    "end": 105
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-270-0",
+  "text": "Overall experience was not the best.",
+  "aspects": [
+   {
+    "term": "Overall experience",
+    "polarity": "negative",
+    "start": 0,
+    "end": 18
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-270-3",
+  "text": "Some damage to the box and dusty front facing camera.",
+  "aspects": [
+   {
+    "term": "dusty front facing camera",
+    "polarity": "negative",
+    "start": 27,
+    "end": 52
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-272-0",
+  "text": "128gb of storage.",
+  "aspects": [
+   {
+    "term": "128gb of storage",
+    "polarity": "neutral",
+    "start": 0,
+    "end": 16
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-272-1",
+  "text": "6gb is the ram.",
+  "aspects": [
+   {
+    "term": "ram",
+    "polarity": "neutral",
+    "start": 11,
+    "end": 14
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-272-3",
+  "text": "Photos and astrophotography are great.",
+  "aspects": [
+   {
+    "term": "Photos and astrophotography",
+    "polarity": "positive",
+    "start": 0,
+    "end": 27
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-272-5",
+  "text": "It has 6GB of ram and 128GB of storage.",
+  "aspects": [
+   {
+    "term": "ram",
+    "polarity": "neutral",
+    "start": 14,
+    "end": 17
+   },
+   {
+    "term": "128GB of storage",
+    "polarity": "neutral",
+    "start": 22,
+    "end": 38
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-272-8",
+  "text": "The has 6 GB of RAM, storage is 128 GB.",
+  "aspects": [
+   {
+    "term": "RAM",
+    "polarity": "neutral",
+    "start": 16,
+    "end": 19
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-273-0",
+  "text": "The touch is just the kind for old people....lovely one...gifted it to my nani.",
+  "aspects": [
+   {
+    "term": "touch",
+    "polarity": "positive",
+    "start": 4,
+    "end": 9
+   },
+   {
+    "term": "lovely",
+    "polarity": "positive",
+    "start": 45,
+    "end": 51
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-274-1",
+  "text": "Wrapped real nicely.",
+  "aspects": [
+   {
+    "term": "Wrapped",
+    "polarity": "positive",
+    "start": 0,
+    "end": 7
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-274-2",
+  "text": "Just disappointed that the cover and free buds need to wait another few weeks to get it...",
+  "aspects": [
+   {
+    "term": "cover",
+    "polarity": "negative",
+    "start": 27,
+    "end": 32
+   },
+   {
+    "term": "free buds",
+    "polarity": "negative",
+    "start": 37,
+    "end": 46
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-274-3",
+  "text": "couldnt bring this tab out since it has no cover for now.",
+  "aspects": [
+   {
+    "term": "cover",
+    "polarity": "negative",
+    "start": 43,
+    "end": 48
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-274-4",
+  "text": "But great service :)",
+  "aspects": [
+   {
+    "term": "service",
+    "polarity": "positive",
+    "start": 10,
+    "end": 17
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-275-1",
+  "text": "Galaxy M21 does not support 5G network.",
+  "aspects": [
+   {
+    "term": "5G network",
+    "polarity": "negative",
+    "start": 28,
+    "end": 38
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-275-2",
+  "text": "Galaxy M21 supports 4G LTE FDD and 4G LTE TDD.",
+  "aspects": [
+   {
+    "term": "4G LTE FDD",
+    "polarity": "positive",
+    "start": 20,
+    "end": 30
+   },
+   {
+    "term": "4G LTE TDD",
+    "polarity": "positive",
+    "start": 35,
+    "end": 45
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-277-0",
+  "text": "Battery backup is ok display is ok look so nice comfirtable in poket",
+  "aspects": [
+   {
+    "term": "Battery backup",
+    "polarity": "positive",
+    "start": 0,
+    "end": 14
+   },
+   {
+    "term": "display",
+    "polarity": "positive",
+    "start": 21,
+    "end": 28
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-280-0",
+  "text": "These are not original.",
+  "aspects": [
+   {
+    "term": "original",
+    "polarity": "negative",
+    "start": 14,
+    "end": 22
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-280-3",
+  "text": "Horrible sound quality , nimble thin wires prone to easy breakage",
+  "aspects": [
+   {
+    "term": "sound quality",
+    "polarity": "negative",
+    "start": 9,
+    "end": 22
+   },
+   {
+    "term": "thin wires",
+    "polarity": "negative",
+    "start": 32,
+    "end": 42
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-283-1",
+  "text": "Galaxy M21 has LPDDR4x RAM, which gives a blazing fast experience and is built for multitasking.",
+  "aspects": [
+   {
+    "term": "LPDDR4x RAM",
+    "polarity": "neutral",
+    "start": 15,
+    "end": 26
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-283-3",
+  "text": "Regards, Samsung India\" No auto restarting problem in M21 2021 edition, works absolutely fine even better ?",
+  "aspects": [
+   {
+    "term": "auto restarting problem",
+    "polarity": "positive",
+    "start": 27,
+    "end": 50
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-284-0",
+  "text": "Speedy response of fingerprint reader is appreciated...fare fast changing..best all-rounder in this price segment",
+  "aspects": [
+   {
+    "term": "fingerprint reader",
+    "polarity": "positive",
+    "start": 19,
+    "end": 37
+   },
+   {
+    "term": "all-rounder in this price segment",
+    "polarity": "positive",
+    "start": 80,
+    "end": 113
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-285-0",
+  "text": "Recommended if want band 4 pro.",
+  "aspects": [
+   {
+    "term": "Recommended",
+    "polarity": "positive",
+    "start": 0,
+    "end": 11
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-285-1",
+  "text": "Seller is very supportive.",
+  "aspects": [
+   {
+    "term": "Seller",
+    "polarity": "positive",
+    "start": 0,
+    "end": 6
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-285-2",
+  "text": "He shipped same day.",
+  "aspects": [
+   {
+    "term": "shipped",
+    "polarity": "positive",
+    "start": 3,
+    "end": 10
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-286-0",
+  "text": "Arrived super quickly and well packed too ???",
+  "aspects": [
+   {
+    "term": "packed",
+    "polarity": "positive",
+    "start": 31,
+    "end": 37
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-289-0",
+  "text": "You can’t easily replace the battery it would have to be sent to One Plus or a repair centre.",
+  "aspects": [
+   {
+    "term": "battery",
+    "polarity": "negative",
+    "start": 29,
+    "end": 36
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-291-0",
+  "text": "Good display, good battery, okay camera.",
+  "aspects": [
+   {
+    "term": "display",
+    "polarity": "positive",
+    "start": 5,
+    "end": 12
+   },
+   {
+    "term": "battery",
+    "polarity": "positive",
+    "start": 19,
+    "end": 26
+   },
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 33,
+    "end": 39
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-291-1",
+  "text": "But overall, best phone under 20k.",
+  "aspects": [
+   {
+    "term": "phone under 20k",
+    "polarity": "positive",
+    "start": 18,
+    "end": 33
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-293-4",
+  "text": "But sad thing is 2 pin charger head.",
+  "aspects": [
+   {
+    "term": "2 pin charger head",
+    "polarity": "negative",
+    "start": 17,
+    "end": 35
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-293-5",
+  "text": "Need to use adapter to charge.The phone come with screen protector stick on it & free transparent phone casing.The weight is heavier than samsung s8.",
+  "aspects": [
+   {
+    "term": "screen protector",
+    "polarity": "positive",
+    "start": 50,
+    "end": 66
+   },
+   {
+    "term": "free transparent phone casing",
+    "polarity": "positive",
+    "start": 81,
+    "end": 110
+   },
+   {
+    "term": "weight",
+    "polarity": "negative",
+    "start": 115,
+    "end": 121
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-294-0",
+  "text": "Was expecting it came with Apple packaging but it came as a standalone earpiece.",
+  "aspects": [
+   {
+    "term": "earpiece",
+    "polarity": "neutral",
+    "start": 71,
+    "end": 79
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-294-1",
+  "text": "Noise cancellation is not fantastic, ie a normal earpiece.",
+  "aspects": [
+   {
+    "term": "Noise cancellation",
+    "polarity": "negative",
+    "start": 0,
+    "end": 18
+   },
+   {
+    "term": "earpiece",
+    "polarity": "neutral",
+    "start": 49,
+    "end": 57
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-295-1",
+  "text": "packing looks legit but quality is seems not the case.",
+  "aspects": [
+   {
+    "term": "packing",
+    "polarity": "positive",
+    "start": 0,
+    "end": 7
+   },
+   {
+    "term": "quality",
+    "polarity": "negative",
+    "start": 24,
+    "end": 31
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-296-1",
+  "text": "It fast charges my phone and I have had no problems with it so far.",
+  "aspects": [
+   {
+    "term": "charges",
+    "polarity": "positive",
+    "start": 8,
+    "end": 15
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-296-3",
+  "text": "I did have an issue with the postage however once I got in touch with the seller they were very apologetic and sorted ot out immediately.",
+  "aspects": [
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 74,
+    "end": 80
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-297-0",
+  "text": "Item came very well wrapped, but didn’t know it’s display set, and left with less than 6 months expiry.",
+  "aspects": [
+   {
+    "term": "wrapped",
+    "polarity": "positive",
+    "start": 20,
+    "end": 27
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-297-2",
+  "text": "The accessories don’t look new, btw.",
+  "aspects": [
+   {
+    "term": "accessories",
+    "polarity": "negative",
+    "start": 4,
+    "end": 15
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-300-0",
+  "text": "Item received promptly and protected in styrofoam box.",
+  "aspects": [
+   {
+    "term": "protected in styrofoam box",
+    "polarity": "neutral",
+    "start": 27,
+    "end": 53
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-301-0",
+  "text": "Don't buy this phone.",
+  "aspects": [
+   {
+    "term": "Don't buy this phone",
+    "polarity": "negative",
+    "start": 0,
+    "end": 20
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-301-1",
+  "text": "After Using 13 months I found booting issue & later service center told me motherboard problem so..",
+  "aspects": [
+   {
+    "term": "booting issue",
+    "polarity": "negative",
+    "start": 30,
+    "end": 43
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-302-0",
+  "text": "With and weight is just right to hold.",
+  "aspects": [
+   {
+    "term": "weight",
+    "polarity": "positive",
+    "start": 9,
+    "end": 15
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-305-0",
+  "text": "Phone received in good condition well packed come with purchase receipt thanks seller",
+  "aspects": [
+   {
+    "term": "packed",
+    "polarity": "positive",
+    "start": 38,
+    "end": 44
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-val-306-0",
+  "text": "Some time could not make any call, untill reatart or switch off/on the mobile.",
+  "aspects": [
+   {
+    "term": "make any call",
+    "polarity": "negative",
+    "start": 20,
+    "end": 33
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "camera-Canon G3-500",
+  "text": "it makes up for this by being extremely easy to use with well laid out controls that can be learned quickly.",
+  "aspects": [
+   {
+    "term": "use",
+    "polarity": "positive",
+    "start": 48,
+    "end": 51
+   },
+   {
+    "term": "control",
+    "polarity": "positive",
+    "start": 71,
+    "end": 78
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-501",
+  "text": "the g3 has most if not all of the features that you would want from a semi-pro / pro slr with a good range of manual options for those who know something about photography.",
+  "aspects": [
+   {
+    "term": "feature",
+    "polarity": "positive",
+    "start": 34,
+    "end": 41
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-502",
+  "text": "in the hands of someone who doesn't, it will yield good results on idiot program / auto mode.",
+  "aspects": [
+   {
+    "term": "auto mode",
+    "polarity": "positive",
+    "start": 83,
+    "end": 92
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-507",
+  "text": "the included memory card is too small.",
+  "aspects": [
+   {
+    "term": "memory card",
+    "polarity": "negative",
+    "start": 13,
+    "end": 24
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-509",
+  "text": "it is made of plastic.",
+  "aspects": [
+   {
+    "term": "made",
+    "polarity": "negative",
+    "start": 6,
+    "end": 10
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-512",
+  "text": "the zoom lens unit feels fragile and it is worth buying a good camera bag if you are going put to carry it round a lot.",
+  "aspects": [
+   {
+    "term": "lens",
+    "polarity": "negative",
+    "start": 9,
+    "end": 13
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-515",
+  "text": "the function lever - the one which switches between capture and view mode feels fragile.",
+  "aspects": [
+   {
+    "term": "lever",
+    "polarity": "negative",
+    "start": 13,
+    "end": 18
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-516",
+  "text": "flash - as with all built-in flashes in small cameras, you get overilluminated main subjects with depth being lost.",
+  "aspects": [
+   {
+    "term": "flash",
+    "polarity": "negative",
+    "start": 0,
+    "end": 5
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-518",
+  "text": "the strap is horrible and gets in the way of parts of the camera you need access to.",
+  "aspects": [
+   {
+    "term": "strap",
+    "polarity": "negative",
+    "start": 4,
+    "end": 9
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-521",
+  "text": "the functionality on this camera is mind-blowing.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 26,
+    "end": 32
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-522",
+  "text": "canon have packed a lot in here and the options and controls are easy to use and logically laid out.",
+  "aspects": [
+   {
+    "term": "control",
+    "polarity": "positive",
+    "start": 52,
+    "end": 59
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-523",
+  "text": "learning how to use it will not take very long.",
+  "aspects": [
+   {
+    "term": "learning",
+    "polarity": "positive",
+    "start": 0,
+    "end": 8
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-524",
+  "text": "the image quality is excellent.",
+  "aspects": [
+   {
+    "term": "image quality",
+    "polarity": "positive",
+    "start": 4,
+    "end": 17
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-527",
+  "text": "range of functions - as indicated above - it has something for everyone: point and shoot power plus advanced functions for those who are serious about photography.",
+  "aspects": [
+   {
+    "term": "function",
+    "polarity": "positive",
+    "start": 9,
+    "end": 17
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-78",
+  "text": "the camera has a wonderful set of features.",
+  "aspects": [
+   {
+    "term": "feature",
+    "polarity": "positive",
+    "start": 34,
+    "end": 41
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-79",
+  "text": "the lcd screen pulls out and rotates in any direction for easy pictures.",
+  "aspects": [
+   {
+    "term": "lcd",
+    "polarity": "positive",
+    "start": 4,
+    "end": 7
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-81",
+  "text": "the optical zoom works great and the 14x digital zoom is a very nice addition although pictures at the highest digital zoom are a little blurry.",
+  "aspects": [
+   {
+    "term": "optical zoom",
+    "polarity": "positive",
+    "start": 4,
+    "end": 16
+   },
+   {
+    "term": "digital zoom",
+    "polarity": "positive",
+    "start": 41,
+    "end": 53
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-82",
+  "text": "the highest optical zoom pictures are perfect.",
+  "aspects": [
+   {
+    "term": "picture",
+    "polarity": "positive",
+    "start": 25,
+    "end": 32
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-83",
+  "text": "i have not yet seen any of the usual problems with digital pictures (purple fringing, etc) so i am very pleased.",
+  "aspects": [
+   {
+    "term": "picture",
+    "polarity": "positive",
+    "start": 59,
+    "end": 66
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-84",
+  "text": "the canon computer software used to download, sort, upload and manage your digital pictures on the computer is very nice and very easy to use.",
+  "aspects": [
+   {
+    "term": "software",
+    "polarity": "positive",
+    "start": 19,
+    "end": 27
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-85",
+  "text": "the only two minor issues i have with the camera are the lens cap (it is not very snug and can come off too easily) and the lens itself (it partially obstructs the view through the viewfinder but not views through the lcd).",
+  "aspects": [
+   {
+    "term": "lens cap",
+    "polarity": "negative",
+    "start": 57,
+    "end": 65
+   },
+   {
+    "term": "viewfinder",
+    "polarity": "negative",
+    "start": 181,
+    "end": 191
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-86",
+  "text": "the menus are easy to navigate and the buttons are easy to use.",
+  "aspects": [
+   {
+    "term": "menu",
+    "polarity": "positive",
+    "start": 4,
+    "end": 8
+   },
+   {
+    "term": "button",
+    "polarity": "positive",
+    "start": 39,
+    "end": 45
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-87",
+  "text": "it is a fantastic camera and well worth the price.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 18,
+    "end": 24
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-100",
+  "text": "i recommend unreservedly the powershot g3 to any potential buyer looking for a first-class digital camera at a reasonable price - there is no better camera out there - period!",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 99,
+    "end": 105
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-101",
+  "text": "it gives great pictures, the controls are easy to use, the battery lasts forever on one single charge, the software is very user-friendly and it is beautiful in it chrome casing.",
+  "aspects": [
+   {
+    "term": "picture",
+    "polarity": "positive",
+    "start": 15,
+    "end": 22
+   },
+   {
+    "term": "control",
+    "polarity": "positive",
+    "start": 29,
+    "end": 36
+   },
+   {
+    "term": "battery",
+    "polarity": "positive",
+    "start": 59,
+    "end": 66
+   },
+   {
+    "term": "software",
+    "polarity": "positive",
+    "start": 107,
+    "end": 115
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-102",
+  "text": "i began taking pics as soon as i got this camera and am amazed at the quality of photos i have took simply by using the auto mode.",
+  "aspects": [
+   {
+    "term": "auto mode",
+    "polarity": "positive",
+    "start": 120,
+    "end": 129
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-169",
+  "text": "i love this camera.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 12,
+    "end": 18
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-171",
+  "text": "took hundreds of pictures and they were great.",
+  "aspects": [
+   {
+    "term": "picture",
+    "polarity": "positive",
+    "start": 17,
+    "end": 24
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-172",
+  "text": "great colors, pictures and white balance.",
+  "aspects": [
+   {
+    "term": "color",
+    "polarity": "positive",
+    "start": 6,
+    "end": 11
+   },
+   {
+    "term": "picture",
+    "polarity": "positive",
+    "start": 14,
+    "end": 21
+   },
+   {
+    "term": "white balance",
+    "polarity": "positive",
+    "start": 27,
+    "end": 40
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-173",
+  "text": "has 4x optical zoom which is higher than any other in the same price range.",
+  "aspects": [
+   {
+    "term": "optical zoom",
+    "polarity": "positive",
+    "start": 7,
+    "end": 19
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "phone-Nokia 6610-239",
+  "text": "one of the best cell phones i have ever used to-date.",
+  "aspects": [
+   {
+    "term": "phone",
+    "polarity": "positive",
+    "start": 21,
+    "end": 26
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-242",
+  "text": "i am very pleased with its quality and durability.",
+  "aspects": [
+   {
+    "term": "quality",
+    "polarity": "positive",
+    "start": 27,
+    "end": 34
+   },
+   {
+    "term": "durability",
+    "polarity": "positive",
+    "start": 39,
+    "end": 49
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-243",
+  "text": "i like the automatic key lock function.",
+  "aspects": [
+   {
+    "term": "key lock",
+    "polarity": "positive",
+    "start": 21,
+    "end": 29
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-244",
+  "text": "the phone is very light weight.",
+  "aspects": [
+   {
+    "term": "weight",
+    "polarity": "positive",
+    "start": 24,
+    "end": 30
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-245",
+  "text": "the screen is bright and ring tones are unlimited.",
+  "aspects": [
+   {
+    "term": "screen",
+    "polarity": "positive",
+    "start": 4,
+    "end": 10
+   },
+   {
+    "term": "ring tone",
+    "polarity": "positive",
+    "start": 25,
+    "end": 34
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-246",
+  "text": "the fm radio is cool.",
+  "aspects": [
+   {
+    "term": "fm radio",
+    "polarity": "positive",
+    "start": 4,
+    "end": 12
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-517",
+  "text": "i find the lack of entertaining games on this phone quite disturbing.",
+  "aspects": [
+   {
+    "term": "game",
+    "polarity": "negative",
+    "start": 32,
+    "end": 36
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-520",
+  "text": "battery life is good for a phone of this size.",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "positive",
+    "start": 0,
+    "end": 12
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-521",
+  "text": "but anyway, the only thing you should really look at here is the fact that the phone does have voice dialing.",
+  "aspects": [
+   {
+    "term": "voice dialing",
+    "polarity": "positive",
+    "start": 95,
+    "end": 108
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-522",
+  "text": "great screen and great sound.",
+  "aspects": [
+   {
+    "term": "screen",
+    "polarity": "positive",
+    "start": 6,
+    "end": 12
+   },
+   {
+    "term": "sound",
+    "polarity": "positive",
+    "start": 23,
+    "end": 28
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-524",
+  "text": "the 6610 excels as a cell phone, thank god.",
+  "aspects": [
+   {
+    "term": "phone",
+    "polarity": "positive",
+    "start": 26,
+    "end": 31
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-525",
+  "text": "the voice quality is very good, and it gets great reception (that is, in places where you get t-mobile coverage, which is not that good; see below).",
+  "aspects": [
+   {
+    "term": "voice quality",
+    "polarity": "positive",
+    "start": 4,
+    "end": 17
+   },
+   {
+    "term": "reception",
+    "polarity": "positive",
+    "start": 50,
+    "end": 59
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-526",
+  "text": "the color screen makes this free-after-rebates phone shine bright, and commands are very responsive.",
+  "aspects": [
+   {
+    "term": "screen",
+    "polarity": "positive",
+    "start": 10,
+    "end": 16
+   },
+   {
+    "term": "command",
+    "polarity": "positive",
+    "start": 71,
+    "end": 78
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-527",
+  "text": "my only gripe about the hardware is the buttons.",
+  "aspects": [
+   {
+    "term": "button",
+    "polarity": "negative",
+    "start": 40,
+    "end": 46
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-529",
+  "text": "this model does have the traditional key arrangement, it's just that they are really close to one another, and have unconventional shapes, so it takes a big getting used to for someone like me with big hands.",
+  "aspects": [
+   {
+    "term": "key",
+    "polarity": "negative",
+    "start": 37,
+    "end": 40
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-531",
+  "text": "other than that, this is a perfect phone for those of us with no patience for flips.",
+  "aspects": [
+   {
+    "term": "phone",
+    "polarity": "positive",
+    "start": 35,
+    "end": 40
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-532",
+  "text": "finally, i reiterate my thumbs-down rating for t-mobile as a carrier.",
+  "aspects": [
+   {
+    "term": "t-mobile",
+    "polarity": "negative",
+    "start": 47,
+    "end": 55
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-136",
+  "text": "the two biggest things is the excellent working speakerphone \" unlike the nokia 3650 \" and the superb reception nokia is known for in the gsm phones they make...",
+  "aspects": [
+   {
+    "term": "speakerphone",
+    "polarity": "positive",
+    "start": 48,
+    "end": 60
+   },
+   {
+    "term": "reception",
+    "polarity": "positive",
+    "start": 102,
+    "end": 111
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-137",
+  "text": "only con i can think of is no camera....",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "negative",
+    "start": 30,
+    "end": 36
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-139",
+  "text": "this phone is a winner...",
+  "aspects": [
+   {
+    "term": "phone",
+    "polarity": "positive",
+    "start": 5,
+    "end": 10
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-460",
+  "text": "i purchased this phone for just 50 $ and there is no end to what i can do with it.",
+  "aspects": [
+   {
+    "term": "phone",
+    "polarity": "positive",
+    "start": 17,
+    "end": 22
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-465",
+  "text": "service is great as far as i can tell, features work like a charm, ringtones are high quality if you buy them from t-mobile and aim is great.",
+  "aspects": [
+   {
+    "term": "service",
+    "polarity": "positive",
+    "start": 0,
+    "end": 7
+   },
+   {
+    "term": "ringtone",
+    "polarity": "positive",
+    "start": 67,
+    "end": 75
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-467",
+  "text": "this is probably your best bet if you are looking for a phone in this price range, or like me, do not have the patience to deal with annoying flip phones.",
+  "aspects": [
+   {
+    "term": "phone",
+    "polarity": "positive",
+    "start": 56,
+    "end": 61
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-470",
+  "text": "1 month, no problems, great phone i'm very pleased with my 6610 phone.",
+  "aspects": [
+   {
+    "term": "phone",
+    "polarity": "positive",
+    "start": 28,
+    "end": 33
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-471",
+  "text": "yes, the features are numerous.",
+  "aspects": [
+   {
+    "term": "feature",
+    "polarity": "positive",
+    "start": 9,
+    "end": 16
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-472",
+  "text": "the speakerphone works better than any speakerphone i've ever had.",
+  "aspects": [
+   {
+    "term": "speakerphone",
+    "polarity": "positive",
+    "start": 4,
+    "end": 16
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-474",
+  "text": "the sound quality is excellent, except, maybe a * tad * too quiet at times when there are quieter talkers on the other end of the line.",
+  "aspects": [
+   {
+    "term": "sound quality",
+    "polarity": "positive",
+    "start": 4,
+    "end": 17
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-475",
+  "text": "the included earpiece is very comfortable and easy to use.",
+  "aspects": [
+   {
+    "term": "earpiece",
+    "polarity": "positive",
+    "start": 13,
+    "end": 21
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-476",
+  "text": "i have not had any distortion problems with this phone and am more pleased with this phone than any i've used before.",
+  "aspects": [
+   {
+    "term": "phone",
+    "polarity": "positive",
+    "start": 49,
+    "end": 54
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-257",
+  "text": "this unit was working fine for the 1st month and a half and then the color signal disappeared.",
+  "aspects": [
+   {
+    "term": "color signal",
+    "polarity": "negative",
+    "start": 69,
+    "end": 81
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-258",
+  "text": "apex has still not responded to my email describing the problem after almost a week and their customer service line is always busy.",
+  "aspects": [
+   {
+    "term": "customer service",
+    "polarity": "negative",
+    "start": 94,
+    "end": 110
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-104",
+  "text": "it looks great - and is loaded with features.",
+  "aspects": [
+   {
+    "term": "look",
+    "polarity": "positive",
+    "start": 3,
+    "end": 7
+   },
+   {
+    "term": "feature",
+    "polarity": "positive",
+    "start": 36,
+    "end": 43
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-107",
+  "text": "- not playing some dvds and then finally after less than 60 days, it just would not recognize anything i pop in it.",
+  "aspects": [
+   {
+    "term": "play",
+    "polarity": "negative",
+    "start": 6,
+    "end": 10
+   },
+   {
+    "term": "dvd",
+    "polarity": "negative",
+    "start": 19,
+    "end": 22
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-805",
+  "text": "it plays original dvds and cds and plays mp3s and jpegs.",
+  "aspects": [
+   {
+    "term": "play",
+    "polarity": "positive",
+    "start": 3,
+    "end": 7
+   },
+   {
+    "term": "cd",
+    "polarity": "positive",
+    "start": 27,
+    "end": 29
+   },
+   {
+    "term": "mp3",
+    "polarity": "positive",
+    "start": 41,
+    "end": 44
+   },
+   {
+    "term": "jpeg",
+    "polarity": "positive",
+    "start": 50,
+    "end": 54
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-806",
+  "text": "however, it does not play windows media and i can not get it to play any of my divx rips.",
+  "aspects": [
+   {
+    "term": "play",
+    "polarity": "negative",
+    "start": 21,
+    "end": 25
+   },
+   {
+    "term": "windows media",
+    "polarity": "negative",
+    "start": 26,
+    "end": 39
+   },
+   {
+    "term": "divx rip",
+    "polarity": "negative",
+    "start": 79,
+    "end": 87
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-808",
+  "text": "also, it was only $ 39.99 (after rebate) with free shipping and no tax so overall it is a decent player.",
+  "aspects": [
+   {
+    "term": "player",
+    "polarity": "positive",
+    "start": 97,
+    "end": 103
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-523",
+  "text": "received apex dvd and the picture was great when set up with s connector.",
+  "aspects": [
+   {
+    "term": "picture",
+    "polarity": "positive",
+    "start": 26,
+    "end": 33
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-524",
+  "text": "the remote is a little hard to understand.",
+  "aspects": [
+   {
+    "term": "remote",
+    "polarity": "negative",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-525",
+  "text": "my jpeg pictures are viewable (not so sharp and vivid) on my 27 \" screen but seem not as clear as when i view them on my 17 \" monitor.",
+  "aspects": [
+   {
+    "term": "jpeg picture",
+    "polarity": "negative",
+    "start": 3,
+    "end": 15
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-526",
+  "text": "so far the dvd works so i hope it doesn't break down like the reviews i've read.",
+  "aspects": [
+   {
+    "term": "dvd",
+    "polarity": "positive",
+    "start": 11,
+    "end": 14
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-393",
+  "text": "easy to use, small form factor, and looks good to boot.",
+  "aspects": [
+   {
+    "term": "use",
+    "polarity": "positive",
+    "start": 8,
+    "end": 11
+   },
+   {
+    "term": "look",
+    "polarity": "positive",
+    "start": 36,
+    "end": 40
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-70",
+  "text": "for the first few weeks, this player was everything i expected it to be, an affordable multi-format dvd player with a stylish slim case as advertised.",
+  "aspects": [
+   {
+    "term": "case",
+    "polarity": "positive",
+    "start": 131,
+    "end": 135
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-71",
+  "text": "then my dvds would stop playing in the middle, or not even be read at all.",
+  "aspects": [
+   {
+    "term": "dvd",
+    "polarity": "negative",
+    "start": 8,
+    "end": 11
+   },
+   {
+    "term": "play",
+    "polarity": "negative",
+    "start": 24,
+    "end": 28
+   },
+   {
+    "term": "read",
+    "polarity": "negative",
+    "start": 62,
+    "end": 66
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-72",
+  "text": "new cds almost always began skipping after a few plays.",
+  "aspects": [
+   {
+    "term": "cd",
+    "polarity": "negative",
+    "start": 4,
+    "end": 6
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-73",
+  "text": "i thought it was just the player, but then i started checking the discs to find that the apex 2600 is actually ruining my media.",
+  "aspects": [
+   {
+    "term": "player",
+    "polarity": "negative",
+    "start": 26,
+    "end": 32
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-75",
+  "text": "this player is not worth any price and i recommend that you don't purchase it.",
+  "aspects": [
+   {
+    "term": "player",
+    "polarity": "negative",
+    "start": 5,
+    "end": 11
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-279",
+  "text": "the progressive scan option can be turned off easily by a button on the remote control which is one of the simplest and easiest remote controls i have ever seen or used.",
+  "aspects": [
+   {
+    "term": "progressive scan",
+    "polarity": "positive",
+    "start": 4,
+    "end": 20
+   },
+   {
+    "term": "remote",
+    "polarity": "positive",
+    "start": 72,
+    "end": 78
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-100",
+  "text": "the door would not close.",
+  "aspects": [
+   {
+    "term": "door",
+    "polarity": "negative",
+    "start": 4,
+    "end": 8
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-101",
+  "text": "i tried to contact apex to return it (i missed the amazon return period) and it took 3 months to get through to their customer service dept.",
+  "aspects": [
+   {
+    "term": "customer service",
+    "polarity": "negative",
+    "start": 118,
+    "end": 134
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-403",
+  "text": "i have ice age and it keeps telling me no disc.",
+  "aspects": [
+   {
+    "term": "no disc",
+    "polarity": "negative",
+    "start": 39,
+    "end": 46
+   }
+  ],
+  "domain": "dvd"
+ }
+]

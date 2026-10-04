@@ -1,0 +1,43 @@
+name: CI
+
+# Runs on every push and pull request. Model-dependent test suites (tests/ml/test_inference.py,
+# tests/ml/test_golden.py) SKIP themselves automatically here: the ~0.9 GB of trained BERT weights
+# are intentionally not committed (see .gitignore), so there is nothing for them to load. Everything
+# else — backend API tests (against a fake model service), data/BIO/metrics/rule tests, and the
+# whole frontend suite — runs for real on every push.
+
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+
+jobs:
+  backend:
+    name: Backend + ML tests (Python)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: "pip"
+      - run: pip install -r requirements.txt
+      - run: python -m pytest tests -q
+
+  frontend:
+    name: Frontend tests, types, build
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: frontend
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+          cache-dependency-path: frontend/package-lock.json
+      - run: npm ci
+      - run: npx tsc --noEmit
+      - run: npx vitest run
+      - run: npx vite build

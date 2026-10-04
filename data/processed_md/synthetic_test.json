@@ -1,0 +1,2702 @@
+[
+ {
+  "id": "syn-122",
+  "text": "The display is bad, while the speed is not remarkable.",
+  "aspects": [
+   {
+    "term": "display",
+    "polarity": "negative",
+    "start": 4,
+    "end": 11
+   },
+   {
+    "term": "speed",
+    "polarity": "neutral",
+    "start": 30,
+    "end": 35
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-11",
+  "text": "The cable seems not remarkable.",
+  "aspects": [
+   {
+    "term": "cable",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 9
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-174",
+  "text": "The lens is not remarkable, but the camera is terrible.",
+  "aspects": [
+   {
+    "term": "lens",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 8
+   },
+   {
+    "term": "camera",
+    "polarity": "negative",
+    "start": 36,
+    "end": 42
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-72",
+  "text": "I think the headphones is fantastic.",
+  "aspects": [
+   {
+    "term": "headphones",
+    "polarity": "positive",
+    "start": 12,
+    "end": 22
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-19",
+  "text": "The keyboard was fair.",
+  "aspects": [
+   {
+    "term": "keyboard",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 12
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-40",
+  "text": "The remote was middling.",
+  "aspects": [
+   {
+    "term": "remote",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-39",
+  "text": "I think the cable is mediocre but usable.",
+  "aspects": [
+   {
+    "term": "cable",
+    "polarity": "neutral",
+    "start": 12,
+    "end": 17
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-15",
+  "text": "The remote is flimsy.",
+  "aspects": [
+   {
+    "term": "remote",
+    "polarity": "negative",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-33",
+  "text": "The screen seems passable.",
+  "aspects": [
+   {
+    "term": "screen",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-126",
+  "text": "The zoom is disappointing, while the speaker is middling.",
+  "aspects": [
+   {
+    "term": "zoom",
+    "polarity": "negative",
+    "start": 4,
+    "end": 8
+   },
+   {
+    "term": "speaker",
+    "polarity": "neutral",
+    "start": 37,
+    "end": 44
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-172",
+  "text": "The headphones is flimsy, while the speed is mediocre but usable.",
+  "aspects": [
+   {
+    "term": "headphones",
+    "polarity": "negative",
+    "start": 4,
+    "end": 14
+   },
+   {
+    "term": "speed",
+    "polarity": "neutral",
+    "start": 36,
+    "end": 41
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-133",
+  "text": "The packaging is fair but the brightness is fast.",
+  "aspects": [
+   {
+    "term": "packaging",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 13
+   },
+   {
+    "term": "brightness",
+    "polarity": "positive",
+    "start": 30,
+    "end": 40
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-176",
+  "text": "The zoom is impressive and the packaging is fair.",
+  "aspects": [
+   {
+    "term": "zoom",
+    "polarity": "positive",
+    "start": 4,
+    "end": 8
+   },
+   {
+    "term": "packaging",
+    "polarity": "neutral",
+    "start": 31,
+    "end": 40
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-163",
+  "text": "The display is mediocre but usable, but the cable is poor.",
+  "aspects": [
+   {
+    "term": "display",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 11
+   },
+   {
+    "term": "cable",
+    "polarity": "negative",
+    "start": 44,
+    "end": 49
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-142",
+  "text": "The headphones is bad, while the signal is middling.",
+  "aspects": [
+   {
+    "term": "headphones",
+    "polarity": "negative",
+    "start": 4,
+    "end": 14
+   },
+   {
+    "term": "signal",
+    "polarity": "neutral",
+    "start": 33,
+    "end": 39
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-25",
+  "text": "The keyboard seems bad.",
+  "aspects": [
+   {
+    "term": "keyboard",
+    "polarity": "negative",
+    "start": 4,
+    "end": 12
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-137",
+  "text": "The grip is useless, while the brightness is middling.",
+  "aspects": [
+   {
+    "term": "grip",
+    "polarity": "negative",
+    "start": 4,
+    "end": 8
+   },
+   {
+    "term": "brightness",
+    "polarity": "neutral",
+    "start": 31,
+    "end": 41
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-141",
+  "text": "The zoom is mediocre but usable, but the cable is useless.",
+  "aspects": [
+   {
+    "term": "zoom",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 8
+   },
+   {
+    "term": "cable",
+    "polarity": "negative",
+    "start": 41,
+    "end": 46
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-91",
+  "text": "The zoom is flimsy.",
+  "aspects": [
+   {
+    "term": "zoom",
+    "polarity": "negative",
+    "start": 4,
+    "end": 8
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-173",
+  "text": "The screen is terrible, while the display is mediocre but usable.",
+  "aspects": [
+   {
+    "term": "screen",
+    "polarity": "negative",
+    "start": 4,
+    "end": 10
+   },
+   {
+    "term": "display",
+    "polarity": "neutral",
+    "start": 34,
+    "end": 41
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-170",
+  "text": "The signal is passable but the remote is fantastic.",
+  "aspects": [
+   {
+    "term": "signal",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 10
+   },
+   {
+    "term": "remote",
+    "polarity": "positive",
+    "start": 31,
+    "end": 37
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-32",
+  "text": "Overall the lens is awful.",
+  "aspects": [
+   {
+    "term": "lens",
+    "polarity": "negative",
+    "start": 12,
+    "end": 16
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-138",
+  "text": "The trackpad is middling, but the volume is terrible.",
+  "aspects": [
+   {
+    "term": "trackpad",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 12
+   },
+   {
+    "term": "volume",
+    "polarity": "negative",
+    "start": 34,
+    "end": 40
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-96",
+  "text": "I think the brightness is useless.",
+  "aspects": [
+   {
+    "term": "brightness",
+    "polarity": "negative",
+    "start": 12,
+    "end": 22
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-158",
+  "text": "The display is slow, while the sound quality is fair.",
+  "aspects": [
+   {
+    "term": "display",
+    "polarity": "negative",
+    "start": 4,
+    "end": 11
+   },
+   {
+    "term": "sound quality",
+    "polarity": "neutral",
+    "start": 31,
+    "end": 44
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-76",
+  "text": "The headphones was not remarkable.",
+  "aspects": [
+   {
+    "term": "headphones",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 14
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-49",
+  "text": "The buttons seems mediocre but usable.",
+  "aspects": [
+   {
+    "term": "buttons",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 11
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-56",
+  "text": "The cable was horrible.",
+  "aspects": [
+   {
+    "term": "cable",
+    "polarity": "negative",
+    "start": 4,
+    "end": 9
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-2",
+  "text": "Overall the sound quality is fair.",
+  "aspects": [
+   {
+    "term": "sound quality",
+    "polarity": "neutral",
+    "start": 12,
+    "end": 25
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-166",
+  "text": "The packaging is fair, but the trackpad is slow.",
+  "aspects": [
+   {
+    "term": "packaging",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 13
+   },
+   {
+    "term": "trackpad",
+    "polarity": "negative",
+    "start": 31,
+    "end": 39
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-18",
+  "text": "Overall the speaker is awful.",
+  "aspects": [
+   {
+    "term": "speaker",
+    "polarity": "negative",
+    "start": 12,
+    "end": 19
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-157",
+  "text": "The camera is fantastic and the headphones is middling.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 4,
+    "end": 10
+   },
+   {
+    "term": "headphones",
+    "polarity": "neutral",
+    "start": 32,
+    "end": 42
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-65",
+  "text": "The zoom is fair.",
+  "aspects": [
+   {
+    "term": "zoom",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 8
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-82",
+  "text": "The lens seems poor.",
+  "aspects": [
+   {
+    "term": "lens",
+    "polarity": "negative",
+    "start": 4,
+    "end": 8
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-169",
+  "text": "The signal is not remarkable, but the lens is slow.",
+  "aspects": [
+   {
+    "term": "signal",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 10
+   },
+   {
+    "term": "lens",
+    "polarity": "negative",
+    "start": 38,
+    "end": 42
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-111",
+  "text": "The headphones was impressive.",
+  "aspects": [
+   {
+    "term": "headphones",
+    "polarity": "positive",
+    "start": 4,
+    "end": 14
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-64",
+  "text": "The cable seems mediocre but usable.",
+  "aspects": [
+   {
+    "term": "cable",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 9
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-139",
+  "text": "The trackpad is not remarkable, but the packaging is useless.",
+  "aspects": [
+   {
+    "term": "trackpad",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 12
+   },
+   {
+    "term": "packaging",
+    "polarity": "negative",
+    "start": 40,
+    "end": 49
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-10",
+  "text": "Overall the remote is excellent.",
+  "aspects": [
+   {
+    "term": "remote",
+    "polarity": "positive",
+    "start": 12,
+    "end": 18
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-95",
+  "text": "I think the buttons is not remarkable.",
+  "aspects": [
+   {
+    "term": "buttons",
+    "polarity": "neutral",
+    "start": 12,
+    "end": 19
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-168",
+  "text": "The battery life is great and the zoom is not remarkable.",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "positive",
+    "start": 4,
+    "end": 16
+   },
+   {
+    "term": "zoom",
+    "polarity": "neutral",
+    "start": 34,
+    "end": 38
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-55",
+  "text": "Overall the packaging is horrible.",
+  "aspects": [
+   {
+    "term": "packaging",
+    "polarity": "negative",
+    "start": 12,
+    "end": 21
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-120",
+  "text": "The camera is fair, but the speaker is poor.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 10
+   },
+   {
+    "term": "speaker",
+    "polarity": "negative",
+    "start": 28,
+    "end": 35
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-7",
+  "text": "The lens seems passable.",
+  "aspects": [
+   {
+    "term": "lens",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 8
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-123",
+  "text": "The speaker is amazing and the headphones is passable.",
+  "aspects": [
+   {
+    "term": "speaker",
+    "polarity": "positive",
+    "start": 4,
+    "end": 11
+   },
+   {
+    "term": "headphones",
+    "polarity": "neutral",
+    "start": 31,
+    "end": 41
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-92",
+  "text": "I think the screen is wonderful.",
+  "aspects": [
+   {
+    "term": "screen",
+    "polarity": "positive",
+    "start": 12,
+    "end": 18
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-118",
+  "text": "The lens is bad.",
+  "aspects": [
+   {
+    "term": "lens",
+    "polarity": "negative",
+    "start": 4,
+    "end": 8
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-79",
+  "text": "I think the speaker is mediocre but usable.",
+  "aspects": [
+   {
+    "term": "speaker",
+    "polarity": "neutral",
+    "start": 12,
+    "end": 19
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-0",
+  "text": "The cable seems passable.",
+  "aspects": [
+   {
+    "term": "cable",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 9
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-162",
+  "text": "The grip is passable, but the volume is awful.",
+  "aspects": [
+   {
+    "term": "grip",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 8
+   },
+   {
+    "term": "volume",
+    "polarity": "negative",
+    "start": 30,
+    "end": 36
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-125",
+  "text": "The signal is fantastic and the lens is passable.",
+  "aspects": [
+   {
+    "term": "signal",
+    "polarity": "positive",
+    "start": 4,
+    "end": 10
+   },
+   {
+    "term": "lens",
+    "polarity": "neutral",
+    "start": 32,
+    "end": 36
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-128",
+  "text": "The brightness is fair but the camera is brilliant.",
+  "aspects": [
+   {
+    "term": "brightness",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 14
+   },
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 31,
+    "end": 37
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-27",
+  "text": "The grip was great.",
+  "aspects": [
+   {
+    "term": "grip",
+    "polarity": "positive",
+    "start": 4,
+    "end": 8
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-53",
+  "text": "The trackpad was passable.",
+  "aspects": [
+   {
+    "term": "trackpad",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 12
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-67",
+  "text": "The brightness seems fantastic.",
+  "aspects": [
+   {
+    "term": "brightness",
+    "polarity": "positive",
+    "start": 4,
+    "end": 14
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-60",
+  "text": "Overall the buttons is awful.",
+  "aspects": [
+   {
+    "term": "buttons",
+    "polarity": "negative",
+    "start": 12,
+    "end": 19
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-8",
+  "text": "The remote was fair.",
+  "aspects": [
+   {
+    "term": "remote",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-62",
+  "text": "The lens is horrible.",
+  "aspects": [
+   {
+    "term": "lens",
+    "polarity": "negative",
+    "start": 4,
+    "end": 8
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-93",
+  "text": "The signal is impressive.",
+  "aspects": [
+   {
+    "term": "signal",
+    "polarity": "positive",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-104",
+  "text": "Overall the battery life is not remarkable.",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "neutral",
+    "start": 12,
+    "end": 24
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-156",
+  "text": "The lens is fair but the buttons is superb.",
+  "aspects": [
+   {
+    "term": "lens",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 8
+   },
+   {
+    "term": "buttons",
+    "polarity": "positive",
+    "start": 25,
+    "end": 32
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-63",
+  "text": "The speed seems impressive.",
+  "aspects": [
+   {
+    "term": "speed",
+    "polarity": "positive",
+    "start": 4,
+    "end": 9
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-90",
+  "text": "Overall the remote is fair.",
+  "aspects": [
+   {
+    "term": "remote",
+    "polarity": "neutral",
+    "start": 12,
+    "end": 18
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-153",
+  "text": "The headphones is not remarkable, but the signal is horrible.",
+  "aspects": [
+   {
+    "term": "headphones",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 14
+   },
+   {
+    "term": "signal",
+    "polarity": "negative",
+    "start": 42,
+    "end": 48
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-84",
+  "text": "The remote is mediocre but usable.",
+  "aspects": [
+   {
+    "term": "remote",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-144",
+  "text": "The sound quality is middling, but the display is bad.",
+  "aspects": [
+   {
+    "term": "sound quality",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 17
+   },
+   {
+    "term": "display",
+    "polarity": "negative",
+    "start": 39,
+    "end": 46
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-88",
+  "text": "Overall the remote is not remarkable.",
+  "aspects": [
+   {
+    "term": "remote",
+    "polarity": "neutral",
+    "start": 12,
+    "end": 18
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-36",
+  "text": "I think the volume is middling.",
+  "aspects": [
+   {
+    "term": "volume",
+    "polarity": "neutral",
+    "start": 12,
+    "end": 18
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-66",
+  "text": "I think the camera is fair.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "neutral",
+    "start": 12,
+    "end": 18
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-116",
+  "text": "The lens is poor.",
+  "aspects": [
+   {
+    "term": "lens",
+    "polarity": "negative",
+    "start": 4,
+    "end": 8
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-129",
+  "text": "The headphones is passable but the signal is superb.",
+  "aspects": [
+   {
+    "term": "headphones",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 14
+   },
+   {
+    "term": "signal",
+    "polarity": "positive",
+    "start": 35,
+    "end": 41
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-24",
+  "text": "Overall the speaker is not remarkable.",
+  "aspects": [
+   {
+    "term": "speaker",
+    "polarity": "neutral",
+    "start": 12,
+    "end": 19
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-43",
+  "text": "Overall the camera is horrible.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "negative",
+    "start": 12,
+    "end": 18
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-78",
+  "text": "The volume seems wonderful.",
+  "aspects": [
+   {
+    "term": "volume",
+    "polarity": "positive",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-42",
+  "text": "I think the speed is mediocre but usable.",
+  "aspects": [
+   {
+    "term": "speed",
+    "polarity": "neutral",
+    "start": 12,
+    "end": 17
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-99",
+  "text": "The trackpad seems fair.",
+  "aspects": [
+   {
+    "term": "trackpad",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 12
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-171",
+  "text": "The screen is slow, while the camera is fair.",
+  "aspects": [
+   {
+    "term": "screen",
+    "polarity": "negative",
+    "start": 4,
+    "end": 10
+   },
+   {
+    "term": "camera",
+    "polarity": "neutral",
+    "start": 30,
+    "end": 36
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-57",
+  "text": "Overall the speed is passable.",
+  "aspects": [
+   {
+    "term": "speed",
+    "polarity": "neutral",
+    "start": 12,
+    "end": 17
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-167",
+  "text": "The brightness is passable but the headphones is fantastic.",
+  "aspects": [
+   {
+    "term": "brightness",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 14
+   },
+   {
+    "term": "headphones",
+    "polarity": "positive",
+    "start": 35,
+    "end": 45
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-175",
+  "text": "The brightness is fast and the headphones is middling.",
+  "aspects": [
+   {
+    "term": "brightness",
+    "polarity": "positive",
+    "start": 4,
+    "end": 14
+   },
+   {
+    "term": "headphones",
+    "polarity": "neutral",
+    "start": 31,
+    "end": 41
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-130",
+  "text": "The display is not remarkable, but the speaker is terrible.",
+  "aspects": [
+   {
+    "term": "display",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 11
+   },
+   {
+    "term": "speaker",
+    "polarity": "negative",
+    "start": 39,
+    "end": 46
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-114",
+  "text": "The speed is great.",
+  "aspects": [
+   {
+    "term": "speed",
+    "polarity": "positive",
+    "start": 4,
+    "end": 9
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-86",
+  "text": "The lens is mediocre but usable.",
+  "aspects": [
+   {
+    "term": "lens",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 8
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-151",
+  "text": "The signal is terrible, while the buttons is middling.",
+  "aspects": [
+   {
+    "term": "signal",
+    "polarity": "negative",
+    "start": 4,
+    "end": 10
+   },
+   {
+    "term": "buttons",
+    "polarity": "neutral",
+    "start": 34,
+    "end": 41
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-119",
+  "text": "The screen is wonderful.",
+  "aspects": [
+   {
+    "term": "screen",
+    "polarity": "positive",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-94",
+  "text": "The trackpad is excellent.",
+  "aspects": [
+   {
+    "term": "trackpad",
+    "polarity": "positive",
+    "start": 4,
+    "end": 12
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-58",
+  "text": "I think the lens is fantastic.",
+  "aspects": [
+   {
+    "term": "lens",
+    "polarity": "positive",
+    "start": 12,
+    "end": 16
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-14",
+  "text": "Overall the speaker is passable.",
+  "aspects": [
+   {
+    "term": "speaker",
+    "polarity": "neutral",
+    "start": 12,
+    "end": 19
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-5",
+  "text": "Overall the display is passable.",
+  "aspects": [
+   {
+    "term": "display",
+    "polarity": "neutral",
+    "start": 12,
+    "end": 19
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-45",
+  "text": "The lens was awful.",
+  "aspects": [
+   {
+    "term": "lens",
+    "polarity": "negative",
+    "start": 4,
+    "end": 8
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-140",
+  "text": "The battery life is slow, while the volume is mediocre but usable.",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "negative",
+    "start": 4,
+    "end": 16
+   },
+   {
+    "term": "volume",
+    "polarity": "neutral",
+    "start": 36,
+    "end": 42
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-16",
+  "text": "The signal seems middling.",
+  "aspects": [
+   {
+    "term": "signal",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-178",
+  "text": "The screen is amazing and the display is not remarkable.",
+  "aspects": [
+   {
+    "term": "screen",
+    "polarity": "positive",
+    "start": 4,
+    "end": 10
+   },
+   {
+    "term": "display",
+    "polarity": "neutral",
+    "start": 30,
+    "end": 37
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-124",
+  "text": "The remote is bad, while the zoom is fair.",
+  "aspects": [
+   {
+    "term": "remote",
+    "polarity": "negative",
+    "start": 4,
+    "end": 10
+   },
+   {
+    "term": "zoom",
+    "polarity": "neutral",
+    "start": 29,
+    "end": 33
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-38",
+  "text": "The speed was fantastic.",
+  "aspects": [
+   {
+    "term": "speed",
+    "polarity": "positive",
+    "start": 4,
+    "end": 9
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-100",
+  "text": "The screen is amazing.",
+  "aspects": [
+   {
+    "term": "screen",
+    "polarity": "positive",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-98",
+  "text": "Overall the cable is disappointing.",
+  "aspects": [
+   {
+    "term": "cable",
+    "polarity": "negative",
+    "start": 12,
+    "end": 17
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-89",
+  "text": "The remote is brilliant.",
+  "aspects": [
+   {
+    "term": "remote",
+    "polarity": "positive",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-101",
+  "text": "The trackpad was mediocre but usable.",
+  "aspects": [
+   {
+    "term": "trackpad",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 12
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-115",
+  "text": "The buttons seems not remarkable.",
+  "aspects": [
+   {
+    "term": "buttons",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 11
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-105",
+  "text": "The lens seems impressive.",
+  "aspects": [
+   {
+    "term": "lens",
+    "polarity": "positive",
+    "start": 4,
+    "end": 8
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-51",
+  "text": "I think the buttons is fair.",
+  "aspects": [
+   {
+    "term": "buttons",
+    "polarity": "neutral",
+    "start": 12,
+    "end": 19
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-29",
+  "text": "The display was useless.",
+  "aspects": [
+   {
+    "term": "display",
+    "polarity": "negative",
+    "start": 4,
+    "end": 11
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-75",
+  "text": "I think the cable is awful.",
+  "aspects": [
+   {
+    "term": "cable",
+    "polarity": "negative",
+    "start": 12,
+    "end": 17
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-59",
+  "text": "The camera was not remarkable.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-35",
+  "text": "The grip is fair.",
+  "aspects": [
+   {
+    "term": "grip",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 8
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-44",
+  "text": "The camera seems useless.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "negative",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-107",
+  "text": "The cable was fair.",
+  "aspects": [
+   {
+    "term": "cable",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 9
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-143",
+  "text": "The packaging is flimsy, while the buttons is not remarkable.",
+  "aspects": [
+   {
+    "term": "packaging",
+    "polarity": "negative",
+    "start": 4,
+    "end": 13
+   },
+   {
+    "term": "buttons",
+    "polarity": "neutral",
+    "start": 35,
+    "end": 42
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-110",
+  "text": "Overall the packaging is superb.",
+  "aspects": [
+   {
+    "term": "packaging",
+    "polarity": "positive",
+    "start": 12,
+    "end": 21
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-48",
+  "text": "The grip is flimsy.",
+  "aspects": [
+   {
+    "term": "grip",
+    "polarity": "negative",
+    "start": 4,
+    "end": 8
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-149",
+  "text": "The speed is awful, while the sound quality is not remarkable.",
+  "aspects": [
+   {
+    "term": "speed",
+    "polarity": "negative",
+    "start": 4,
+    "end": 9
+   },
+   {
+    "term": "sound quality",
+    "polarity": "neutral",
+    "start": 30,
+    "end": 43
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-159",
+  "text": "The buttons is not remarkable, but the keyboard is terrible.",
+  "aspects": [
+   {
+    "term": "buttons",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 11
+   },
+   {
+    "term": "keyboard",
+    "polarity": "negative",
+    "start": 39,
+    "end": 47
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-85",
+  "text": "Overall the brightness is middling.",
+  "aspects": [
+   {
+    "term": "brightness",
+    "polarity": "neutral",
+    "start": 12,
+    "end": 22
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-103",
+  "text": "I think the camera is excellent.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 12,
+    "end": 18
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-80",
+  "text": "The trackpad seems passable.",
+  "aspects": [
+   {
+    "term": "trackpad",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 12
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-20",
+  "text": "The headphones was fair.",
+  "aspects": [
+   {
+    "term": "headphones",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 14
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-81",
+  "text": "The keyboard is fast.",
+  "aspects": [
+   {
+    "term": "keyboard",
+    "polarity": "positive",
+    "start": 4,
+    "end": 12
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-68",
+  "text": "The remote seems impressive.",
+  "aspects": [
+   {
+    "term": "remote",
+    "polarity": "positive",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-127",
+  "text": "The battery life is bad, while the packaging is fair.",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "negative",
+    "start": 4,
+    "end": 16
+   },
+   {
+    "term": "packaging",
+    "polarity": "neutral",
+    "start": 35,
+    "end": 44
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-113",
+  "text": "I think the trackpad is bad.",
+  "aspects": [
+   {
+    "term": "trackpad",
+    "polarity": "negative",
+    "start": 12,
+    "end": 20
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-34",
+  "text": "The packaging seems not remarkable.",
+  "aspects": [
+   {
+    "term": "packaging",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 13
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-70",
+  "text": "The headphones is middling.",
+  "aspects": [
+   {
+    "term": "headphones",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 14
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-165",
+  "text": "The signal is passable but the display is amazing.",
+  "aspects": [
+   {
+    "term": "signal",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 10
+   },
+   {
+    "term": "display",
+    "polarity": "positive",
+    "start": 31,
+    "end": 38
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-155",
+  "text": "The brightness is not remarkable but the grip is fast.",
+  "aspects": [
+   {
+    "term": "brightness",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 14
+   },
+   {
+    "term": "grip",
+    "polarity": "positive",
+    "start": 41,
+    "end": 45
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-146",
+  "text": "The speaker is not remarkable, but the volume is terrible.",
+  "aspects": [
+   {
+    "term": "speaker",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 11
+   },
+   {
+    "term": "volume",
+    "polarity": "negative",
+    "start": 39,
+    "end": 45
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-102",
+  "text": "I think the packaging is superb.",
+  "aspects": [
+   {
+    "term": "packaging",
+    "polarity": "positive",
+    "start": 12,
+    "end": 21
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-106",
+  "text": "The buttons seems useless.",
+  "aspects": [
+   {
+    "term": "buttons",
+    "polarity": "negative",
+    "start": 4,
+    "end": 11
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-164",
+  "text": "The packaging is mediocre but usable, but the signal is terrible.",
+  "aspects": [
+   {
+    "term": "packaging",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 13
+   },
+   {
+    "term": "signal",
+    "polarity": "negative",
+    "start": 46,
+    "end": 52
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-54",
+  "text": "The trackpad seems middling.",
+  "aspects": [
+   {
+    "term": "trackpad",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 12
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-83",
+  "text": "The cable is poor.",
+  "aspects": [
+   {
+    "term": "cable",
+    "polarity": "negative",
+    "start": 4,
+    "end": 9
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-77",
+  "text": "The buttons was not remarkable.",
+  "aspects": [
+   {
+    "term": "buttons",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 11
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-46",
+  "text": "Overall the sound quality is poor.",
+  "aspects": [
+   {
+    "term": "sound quality",
+    "polarity": "negative",
+    "start": 12,
+    "end": 25
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-73",
+  "text": "The brightness is fair.",
+  "aspects": [
+   {
+    "term": "brightness",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 14
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-161",
+  "text": "The keyboard is wonderful and the brightness is not remarkable.",
+  "aspects": [
+   {
+    "term": "keyboard",
+    "polarity": "positive",
+    "start": 4,
+    "end": 12
+   },
+   {
+    "term": "brightness",
+    "polarity": "neutral",
+    "start": 34,
+    "end": 44
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-150",
+  "text": "The volume is fair but the packaging is excellent.",
+  "aspects": [
+   {
+    "term": "volume",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 10
+   },
+   {
+    "term": "packaging",
+    "polarity": "positive",
+    "start": 27,
+    "end": 36
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-121",
+  "text": "The camera is middling but the keyboard is superb.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 10
+   },
+   {
+    "term": "keyboard",
+    "polarity": "positive",
+    "start": 31,
+    "end": 39
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-9",
+  "text": "I think the cable is horrible.",
+  "aspects": [
+   {
+    "term": "cable",
+    "polarity": "negative",
+    "start": 12,
+    "end": 17
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-6",
+  "text": "Overall the camera is mediocre but usable.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "neutral",
+    "start": 12,
+    "end": 18
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-28",
+  "text": "The signal was passable.",
+  "aspects": [
+   {
+    "term": "signal",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-61",
+  "text": "I think the screen is mediocre but usable.",
+  "aspects": [
+   {
+    "term": "screen",
+    "polarity": "neutral",
+    "start": 12,
+    "end": 18
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-23",
+  "text": "The grip was useless.",
+  "aspects": [
+   {
+    "term": "grip",
+    "polarity": "negative",
+    "start": 4,
+    "end": 8
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-117",
+  "text": "The display was not remarkable.",
+  "aspects": [
+   {
+    "term": "display",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 11
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-12",
+  "text": "The battery life was mediocre but usable.",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 16
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-135",
+  "text": "The screen is mediocre but usable, but the sound quality is disappointing.",
+  "aspects": [
+   {
+    "term": "screen",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 10
+   },
+   {
+    "term": "sound quality",
+    "polarity": "negative",
+    "start": 43,
+    "end": 56
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-177",
+  "text": "The battery life is fair, but the remote is slow.",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 16
+   },
+   {
+    "term": "remote",
+    "polarity": "negative",
+    "start": 34,
+    "end": 40
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-31",
+  "text": "Overall the headphones is not remarkable.",
+  "aspects": [
+   {
+    "term": "headphones",
+    "polarity": "neutral",
+    "start": 12,
+    "end": 22
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-41",
+  "text": "The battery life seems passable.",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 16
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-112",
+  "text": "The cable is passable.",
+  "aspects": [
+   {
+    "term": "cable",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 9
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-30",
+  "text": "The cable is fair.",
+  "aspects": [
+   {
+    "term": "cable",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 9
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-147",
+  "text": "The headphones is fair but the speaker is amazing.",
+  "aspects": [
+   {
+    "term": "headphones",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 14
+   },
+   {
+    "term": "speaker",
+    "polarity": "positive",
+    "start": 31,
+    "end": 38
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-4",
+  "text": "The display is fair.",
+  "aspects": [
+   {
+    "term": "display",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 11
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-1",
+  "text": "The screen seems excellent.",
+  "aspects": [
+   {
+    "term": "screen",
+    "polarity": "positive",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-37",
+  "text": "Overall the buttons is impressive.",
+  "aspects": [
+   {
+    "term": "buttons",
+    "polarity": "positive",
+    "start": 12,
+    "end": 19
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-97",
+  "text": "I think the buttons is awful.",
+  "aspects": [
+   {
+    "term": "buttons",
+    "polarity": "negative",
+    "start": 12,
+    "end": 19
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-108",
+  "text": "Overall the signal is middling.",
+  "aspects": [
+   {
+    "term": "signal",
+    "polarity": "neutral",
+    "start": 12,
+    "end": 18
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-152",
+  "text": "The trackpad is middling, but the screen is awful.",
+  "aspects": [
+   {
+    "term": "trackpad",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 12
+   },
+   {
+    "term": "screen",
+    "polarity": "negative",
+    "start": 34,
+    "end": 40
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-17",
+  "text": "Overall the cable is mediocre but usable.",
+  "aspects": [
+   {
+    "term": "cable",
+    "polarity": "neutral",
+    "start": 12,
+    "end": 17
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-131",
+  "text": "The cable is poor, while the camera is fair.",
+  "aspects": [
+   {
+    "term": "cable",
+    "polarity": "negative",
+    "start": 4,
+    "end": 9
+   },
+   {
+    "term": "camera",
+    "polarity": "neutral",
+    "start": 29,
+    "end": 35
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-69",
+  "text": "I think the camera is passable.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "neutral",
+    "start": 12,
+    "end": 18
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-87",
+  "text": "The packaging seems fair.",
+  "aspects": [
+   {
+    "term": "packaging",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 13
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-13",
+  "text": "The speed is bad.",
+  "aspects": [
+   {
+    "term": "speed",
+    "polarity": "negative",
+    "start": 4,
+    "end": 9
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-74",
+  "text": "The sound quality seems fair.",
+  "aspects": [
+   {
+    "term": "sound quality",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 17
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-50",
+  "text": "The signal seems mediocre but usable.",
+  "aspects": [
+   {
+    "term": "signal",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-179",
+  "text": "The headphones is fair, but the cable is bad.",
+  "aspects": [
+   {
+    "term": "headphones",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 14
+   },
+   {
+    "term": "cable",
+    "polarity": "negative",
+    "start": 32,
+    "end": 37
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-109",
+  "text": "I think the trackpad is terrible.",
+  "aspects": [
+   {
+    "term": "trackpad",
+    "polarity": "negative",
+    "start": 12,
+    "end": 20
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-136",
+  "text": "The screen is terrible, while the keyboard is not remarkable.",
+  "aspects": [
+   {
+    "term": "screen",
+    "polarity": "negative",
+    "start": 4,
+    "end": 10
+   },
+   {
+    "term": "keyboard",
+    "polarity": "neutral",
+    "start": 34,
+    "end": 42
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-148",
+  "text": "The cable is fast and the display is mediocre but usable.",
+  "aspects": [
+   {
+    "term": "cable",
+    "polarity": "positive",
+    "start": 4,
+    "end": 9
+   },
+   {
+    "term": "display",
+    "polarity": "neutral",
+    "start": 26,
+    "end": 33
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-3",
+  "text": "The keyboard seems impressive.",
+  "aspects": [
+   {
+    "term": "keyboard",
+    "polarity": "positive",
+    "start": 4,
+    "end": 12
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-26",
+  "text": "The screen was not remarkable.",
+  "aspects": [
+   {
+    "term": "screen",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-160",
+  "text": "The trackpad is passable but the keyboard is fantastic.",
+  "aspects": [
+   {
+    "term": "trackpad",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 12
+   },
+   {
+    "term": "keyboard",
+    "polarity": "positive",
+    "start": 33,
+    "end": 41
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-47",
+  "text": "The headphones was excellent.",
+  "aspects": [
+   {
+    "term": "headphones",
+    "polarity": "positive",
+    "start": 4,
+    "end": 14
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-132",
+  "text": "The cable is flimsy, while the speaker is middling.",
+  "aspects": [
+   {
+    "term": "cable",
+    "polarity": "negative",
+    "start": 4,
+    "end": 9
+   },
+   {
+    "term": "speaker",
+    "polarity": "neutral",
+    "start": 31,
+    "end": 38
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-52",
+  "text": "The screen seems fair.",
+  "aspects": [
+   {
+    "term": "screen",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-154",
+  "text": "The speaker is mediocre but usable but the headphones is fantastic.",
+  "aspects": [
+   {
+    "term": "speaker",
+    "polarity": "neutral",
+    "start": 4,
+    "end": 11
+   },
+   {
+    "term": "headphones",
+    "polarity": "positive",
+    "start": 43,
+    "end": 53
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-71",
+  "text": "The remote was bad.",
+  "aspects": [
+   {
+    "term": "remote",
+    "polarity": "negative",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-22",
+  "text": "I think the zoom is mediocre but usable.",
+  "aspects": [
+   {
+    "term": "zoom",
+    "polarity": "neutral",
+    "start": 12,
+    "end": 16
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-21",
+  "text": "The headphones is bad.",
+  "aspects": [
+   {
+    "term": "headphones",
+    "polarity": "negative",
+    "start": 4,
+    "end": 14
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-134",
+  "text": "The packaging is flimsy, while the battery life is not remarkable.",
+  "aspects": [
+   {
+    "term": "packaging",
+    "polarity": "negative",
+    "start": 4,
+    "end": 13
+   },
+   {
+    "term": "battery life",
+    "polarity": "neutral",
+    "start": 35,
+    "end": 47
+   }
+  ],
+  "domain": "synthetic"
+ },
+ {
+  "id": "syn-145",
+  "text": "The speed is terrible, while the screen is mediocre but usable.",
+  "aspects": [
+   {
+    "term": "speed",
+    "polarity": "negative",
+    "start": 4,
+    "end": 9
+   },
+   {
+    "term": "screen",
+    "polarity": "neutral",
+    "start": 33,
+    "end": 39
+   }
+  ],
+  "domain": "synthetic"
+ }
+]

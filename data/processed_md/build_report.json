@@ -1,0 +1,71 @@
+{
+  "phone_train_cap": {
+    "available": 1390,
+    "used": 1390
+  },
+  "train_sentences_removed_for_leakage": 13,
+  "train": {
+    "sentences": 4359,
+    "aspects": 4411,
+    "polarity": {
+      "neutral": 466,
+      "negative": 1446,
+      "positive": 2464,
+      "conflict": 35
+    }
+  },
+  "val": {
+    "sentences": 699,
+    "aspects": 788,
+    "polarity": {
+      "positive": 481,
+      "negative": 222,
+      "neutral": 80,
+      "conflict": 5
+    }
+  },
+  "test_laptop": {
+    "sentences": 305,
+    "aspects": 218,
+    "polarity": {
+      "negative": 88,
+      "neutral": 40,
+      "positive": 85,
+      "conflict": 5
+    }
+  },
+  "test_phone": {
+    "sentences": 554,
+    "aspects": 800,
+    "polarity": {
+      "positive": 559,
+      "negative": 201,
+      "neutral": 40
+    }
+  },
+  "test_hl_seen": {
+    "sentences": 44,
+    "aspects": 56,
+    "polarity": {
+      "negative": 22,
+      "positive": 34
+    }
+  },
+  "test_unseen_camera": {
+    "sentences": 133,
+    "aspects": 160,
+    "polarity": {
+      "positive": 133,
+      "negative": 27
+    }
+  },
+  "test_unseen_mp3": {
+    "sentences": 577,
+    "aspects": 669,
+    "polarity": {
+      "positive": 410,
+      "negative": 259
+    }
+  },
+  "leakage_check": "passed: no sentence text shared between train and any validation/test set"
+}

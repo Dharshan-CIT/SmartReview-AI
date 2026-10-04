@@ -1,0 +1,292 @@
+{
+  "name": "laptop_only_v1",
+  "ate_model": "models/ate",
+  "atsc_model": "models/atsc",
+  "splits": {
+    "test_laptop": {
+      "sentences": 305,
+      "ate_exact": {
+        "precision": 0.7679324894514767,
+        "recall": 0.8348623853211009,
+        "f1": 0.7999999999999999,
+        "tp": 182,
+        "predicted": 237,
+        "gold": 218
+      },
+      "ate_partial": {
+        "precision": 0.8143459915611815,
+        "recall": 0.8715596330275229,
+        "f1": 0.8419819985304924,
+        "tp": 193,
+        "predicted": 237,
+        "gold": 218
+      },
+      "atsc_examples": 213,
+      "atsc_accuracy": 0.7934272300469484,
+      "atsc_macro_f1": 0.7748584463725611,
+      "atsc_macro_f1_present_classes": 0.7748584463725611,
+      "atsc_per_class": {
+        "negative": {
+          "precision": 0.8607594936708861,
+          "recall": 0.7727272727272727,
+          "f1": 0.8143712574850299
+        },
+        "neutral": {
+          "precision": 0.5517241379310345,
+          "recall": 0.8,
+          "f1": 0.6530612244897959
+        },
+        "positive": {
+          "precision": 0.9078947368421053,
+          "recall": 0.8117647058823529,
+          "f1": 0.8571428571428571
+        }
+      },
+      "atsc_confusion_matrix": [
+        [
+          68,
+          15,
+          5
+        ],
+        [
+          6,
+          32,
+          2
+        ],
+        [
+          5,
+          11,
+          69
+        ]
+      ]
+    },
+    "test_phone": {
+      "sentences": 554,
+      "ate_exact": {
+        "precision": 0.4652173913043478,
+        "recall": 0.40125,
+        "f1": 0.4308724832214765,
+        "tp": 321,
+        "predicted": 690,
+        "gold": 800
+      },
+      "ate_partial": {
+        "precision": 0.6884057971014492,
+        "recall": 0.57625,
+        "f1": 0.6273546390866508,
+        "tp": 475,
+        "predicted": 690,
+        "gold": 800
+      },
+      "atsc_examples": 800,
+      "atsc_accuracy": 0.83125,
+      "atsc_macro_f1": 0.6829149917383907,
+      "atsc_macro_f1_present_classes": 0.6829149917383907,
+      "atsc_per_class": {
+        "negative": {
+          "precision": 0.7942583732057417,
+          "recall": 0.8258706467661692,
+          "f1": 0.8097560975609757
+        },
+        "neutral": {
+          "precision": 0.26666666666666666,
+          "recall": 0.5,
+          "f1": 0.34782608695652173
+        },
+        "positive": {
+          "precision": 0.9282945736434108,
+          "recall": 0.8568872987477638,
+          "f1": 0.8911627906976745
+        }
+      },
+      "atsc_confusion_matrix": [
+        [
+          166,
+          12,
+          23
+        ],
+        [
+          6,
+          20,
+          14
+        ],
+        [
+          37,
+          43,
+          479
+        ]
+      ]
+    },
+    "test_hl_seen": {
+      "sentences": 44,
+      "ate_exact": {
+        "precision": 0.3559322033898305,
+        "recall": 0.375,
+        "f1": 0.3652173913043479,
+        "tp": 21,
+        "predicted": 59,
+        "gold": 56
+      },
+      "ate_partial": {
+        "precision": 0.5254237288135594,
+        "recall": 0.5535714285714286,
+        "f1": 0.5391304347826087,
+        "tp": 31,
+        "predicted": 59,
+        "gold": 56
+      },
+      "atsc_examples": 56,
+      "atsc_accuracy": 0.875,
+      "atsc_macro_f1": 0.6099086099086098,
+      "atsc_macro_f1_present_classes": 0.9148629148629148,
+      "atsc_per_class": {
+        "negative": {
+          "precision": 0.9090909090909091,
+          "recall": 0.9090909090909091,
+          "f1": 0.9090909090909091
+        },
+        "neutral": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "positive": {
+          "precision": 1.0,
+          "recall": 0.8529411764705882,
+          "f1": 0.9206349206349206
+        }
+      },
+      "atsc_confusion_matrix": [
+        [
+          20,
+          2,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          3,
+          29
+        ]
+      ]
+    },
+    "test_unseen_camera": {
+      "sentences": 133,
+      "ate_exact": {
+        "precision": 0.358974358974359,
+        "recall": 0.4375,
+        "f1": 0.39436619718309857,
+        "tp": 70,
+        "predicted": 195,
+        "gold": 160
+      },
+      "ate_partial": {
+        "precision": 0.5487179487179488,
+        "recall": 0.66875,
+        "f1": 0.6028169014084507,
+        "tp": 107,
+        "predicted": 195,
+        "gold": 160
+      },
+      "atsc_examples": 160,
+      "atsc_accuracy": 0.88125,
+      "atsc_macro_f1": 0.5663649113859492,
+      "atsc_macro_f1_present_classes": 0.8495473670789239,
+      "atsc_per_class": {
+        "negative": {
+          "precision": 0.6857142857142857,
+          "recall": 0.8888888888888888,
+          "f1": 0.7741935483870968
+        },
+        "neutral": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "positive": {
+          "precision": 0.975,
+          "recall": 0.8796992481203008,
+          "f1": 0.924901185770751
+        }
+      },
+      "atsc_confusion_matrix": [
+        [
+          24,
+          0,
+          3
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          11,
+          5,
+          117
+        ]
+      ]
+    },
+    "test_unseen_mp3": {
+      "sentences": 577,
+      "ate_exact": {
+        "precision": 0.3622603430877901,
+        "recall": 0.5366218236173393,
+        "f1": 0.43253012048192774,
+        "tp": 359,
+        "predicted": 991,
+        "gold": 669
+      },
+      "ate_partial": {
+        "precision": 0.5600403632694249,
+        "recall": 0.8295964125560538,
+        "f1": 0.6686746987951807,
+        "tp": 555,
+        "predicted": 991,
+        "gold": 669
+      },
+      "atsc_examples": 669,
+      "atsc_accuracy": 0.8400597907324364,
+      "atsc_macro_f1": 0.5834614285448553,
+      "atsc_macro_f1_present_classes": 0.875192142817283,
+      "atsc_per_class": {
+        "negative": {
+          "precision": 0.8705882352941177,
+          "recall": 0.8571428571428571,
+          "f1": 0.8638132295719845
+        },
+        "neutral": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "positive": {
+          "precision": 0.9523809523809523,
+          "recall": 0.8292682926829268,
+          "f1": 0.8865710560625815
+        }
+      },
+      "atsc_confusion_matrix": [
+        [
+          222,
+          20,
+          17
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          33,
+          37,
+          340
+        ]
+      ]
+    }
+  }
+}

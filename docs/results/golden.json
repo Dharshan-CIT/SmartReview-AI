@@ -1,0 +1,1854 @@
+{
+  "rules_off": {
+    "buckets": {
+      "all": {
+        "correct": 72,
+        "of": 75,
+        "rate": 0.96
+      },
+      "in_scope": {
+        "correct": 45,
+        "of": 46,
+        "rate": 0.9783
+      },
+      "out_of_scope": {
+        "correct": 23,
+        "of": 24,
+        "rate": 0.9583
+      },
+      "no_aspect": {
+        "correct": 4,
+        "of": 5,
+        "rate": 0.8
+      },
+      "contested": {
+        "correct": 3,
+        "of": 8,
+        "rate": 0.375
+      }
+    },
+    "rows": [
+      {
+        "review": "The display is fantastic and the keyboard is comfortable, but the battery life is terrible.",
+        "expected": {
+          "display": "positive",
+          "keyboard": "positive",
+          "battery": "negative"
+        },
+        "got": [
+          [
+            "display",
+            "positive"
+          ],
+          [
+            "keyboard",
+            "positive"
+          ],
+          [
+            "battery life",
+            "negative"
+          ]
+        ],
+        "correct": 3,
+        "of": 3,
+        "detail": ""
+      },
+      {
+        "review": "The screen is beautiful but the battery drains quickly.",
+        "expected": {
+          "screen": "positive",
+          "battery": "negative"
+        },
+        "got": [
+          [
+            "screen",
+            "positive"
+          ],
+          [
+            "battery drains",
+            "negative"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The keyboard is okay.",
+        "expected": {
+          "keyboard": "neutral"
+        },
+        "got": [
+          [
+            "keyboard",
+            "positive"
+          ]
+        ],
+        "correct": 0,
+        "of": 1,
+        "detail": ""
+      },
+      {
+        "review": "The trackpad is average.",
+        "expected": {
+          "trackpad": "neutral"
+        },
+        "got": [
+          [
+            "trackpad",
+            "negative"
+          ]
+        ],
+        "correct": 0,
+        "of": 1,
+        "detail": ""
+      },
+      {
+        "review": "The speakers are so-so but the screen is gorgeous.",
+        "expected": {
+          "speakers": "neutral",
+          "screen": "positive"
+        },
+        "got": [
+          [
+            "speakers",
+            "negative"
+          ],
+          [
+            "screen",
+            "positive"
+          ]
+        ],
+        "correct": 1,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The laptop is lightweight, the keyboard is comfortable, and the display is excellent.",
+        "expected": {
+          "keyboard": "positive",
+          "display": "positive"
+        },
+        "got": [
+          [
+            "keyboard",
+            "positive"
+          ],
+          [
+            "display",
+            "positive"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The fan is loud and the laptop gets very hot.",
+        "expected": {
+          "fan": "negative"
+        },
+        "got": [
+          [
+            "fan",
+            "negative"
+          ]
+        ],
+        "correct": 1,
+        "of": 1,
+        "detail": ""
+      },
+      {
+        "review": "Great performance for the price and the build quality feels solid.",
+        "expected": {
+          "performance": "positive",
+          "build": "positive"
+        },
+        "got": [
+          [
+            "performance for the price",
+            "positive"
+          ],
+          [
+            "build quality",
+            "positive"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The trackpad is unresponsive and the keys feel cheap.",
+        "expected": {
+          "trackpad": "negative"
+        },
+        "got": [
+          [
+            "trackpad",
+            "negative"
+          ],
+          [
+            "keys",
+            "negative"
+          ]
+        ],
+        "correct": 1,
+        "of": 1,
+        "detail": ""
+      },
+      {
+        "review": "Boot time is fast and the storage is plentiful.",
+        "expected": {
+          "storage": "positive"
+        },
+        "got": [
+          [
+            "boot time",
+            "positive"
+          ],
+          [
+            "storage",
+            "positive"
+          ]
+        ],
+        "correct": 1,
+        "of": 1,
+        "detail": ""
+      },
+      {
+        "review": "The webcam is grainy and the microphone is poor.",
+        "expected": {
+          "webcam": "negative",
+          "microphone": "negative"
+        },
+        "got": [
+          [
+            "webcam",
+            "negative"
+          ],
+          [
+            "microphone",
+            "negative"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The charger is bulky but the battery lasts all day.",
+        "expected": {
+          "charger": "negative",
+          "battery": "positive"
+        },
+        "got": [
+          [
+            "charger",
+            "negative"
+          ],
+          [
+            "battery",
+            "positive"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The camera quality is excellent but the battery performance is disappointing.",
+        "expected": {
+          "camera": "positive",
+          "battery": "negative"
+        },
+        "got": [
+          [
+            "camera quality",
+            "positive"
+          ],
+          [
+            "battery performance",
+            "negative"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The screen is bright and the battery lasts two days, but the speaker is tinny.",
+        "expected": {
+          "screen": "positive",
+          "battery": "positive",
+          "speaker": "negative"
+        },
+        "got": [
+          [
+            "screen",
+            "positive"
+          ],
+          [
+            "battery",
+            "positive"
+          ],
+          [
+            "speaker",
+            "negative"
+          ]
+        ],
+        "correct": 3,
+        "of": 3,
+        "detail": ""
+      },
+      {
+        "review": "The phone is fast and the display is sharp.",
+        "expected": {
+          "display": "positive"
+        },
+        "got": [
+          [
+            "display",
+            "positive"
+          ]
+        ],
+        "correct": 1,
+        "of": 1,
+        "detail": ""
+      },
+      {
+        "review": "Terrible signal reception and the software is buggy.",
+        "expected": {
+          "signal": "negative",
+          "software": "negative"
+        },
+        "got": [
+          [
+            "signal reception",
+            "negative"
+          ],
+          [
+            "software",
+            "negative"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The fingerprint sensor is quick but the camera is mediocre in low light.",
+        "expected": {
+          "fingerprint": "positive",
+          "camera": "negative"
+        },
+        "got": [
+          [
+            "fingerprint sensor",
+            "positive"
+          ]
+        ],
+        "correct": 1,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The battery charges quickly and lasts long.",
+        "expected": {
+          "battery": "positive"
+        },
+        "got": [
+          [
+            "battery charges",
+            "positive"
+          ],
+          [
+            "lasts",
+            "positive"
+          ]
+        ],
+        "correct": 1,
+        "of": 1,
+        "detail": ""
+      },
+      {
+        "review": "The screen cracked after a week and the build quality is poor.",
+        "expected": {
+          "build": "negative"
+        },
+        "got": [
+          [
+            "screen",
+            "negative"
+          ],
+          [
+            "build quality",
+            "negative"
+          ]
+        ],
+        "correct": 1,
+        "of": 1,
+        "detail": ""
+      },
+      {
+        "review": "The lens is excellent and the zoom is fast, but the menu system is confusing.",
+        "expected": {
+          "lens": "positive",
+          "zoom": "positive",
+          "menu": "negative"
+        },
+        "got": [
+          [
+            "lens",
+            "positive"
+          ],
+          [
+            "zoom",
+            "positive"
+          ],
+          [
+            "menu",
+            "negative"
+          ]
+        ],
+        "correct": 3,
+        "of": 3,
+        "detail": ""
+      },
+      {
+        "review": "The autofocus is quick and the photos are sharp.",
+        "expected": {
+          "autofocus": "positive"
+        },
+        "got": [
+          [
+            "autofocus",
+            "positive"
+          ],
+          [
+            "photos",
+            "positive"
+          ]
+        ],
+        "correct": 1,
+        "of": 1,
+        "detail": ""
+      },
+      {
+        "review": "The battery dies too fast and the flash is weak.",
+        "expected": {
+          "battery": "negative",
+          "flash": "negative"
+        },
+        "got": [
+          [
+            "battery dies",
+            "negative"
+          ],
+          [
+            "flash",
+            "negative"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The images are noisy in low light and the viewfinder is small.",
+        "expected": {
+          "viewfinder": "negative"
+        },
+        "got": [
+          [
+            "viewfinder",
+            "negative"
+          ]
+        ],
+        "correct": 1,
+        "of": 1,
+        "detail": ""
+      },
+      {
+        "review": "The menu is okay and the grip is comfortable.",
+        "expected": {
+          "menu": "neutral",
+          "grip": "positive"
+        },
+        "got": [
+          [
+            "menu",
+            "positive"
+          ],
+          [
+            "grip",
+            "positive"
+          ]
+        ],
+        "correct": 1,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The storage is huge and the sound quality is great, but the software is buggy.",
+        "expected": {
+          "storage": "positive",
+          "sound": "positive",
+          "software": "negative"
+        },
+        "got": [
+          [
+            "storage",
+            "positive"
+          ],
+          [
+            "sound quality",
+            "positive"
+          ],
+          [
+            "software",
+            "negative"
+          ]
+        ],
+        "correct": 3,
+        "of": 3,
+        "detail": ""
+      },
+      {
+        "review": "The battery is poor and the screen is too small.",
+        "expected": {
+          "battery": "negative",
+          "screen": "negative"
+        },
+        "got": [
+          [
+            "battery",
+            "negative"
+          ],
+          [
+            "screen",
+            "negative"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The DVD player reads discs quickly but the remote is flimsy.",
+        "expected": {
+          "remote": "negative"
+        },
+        "got": [
+          [
+            "player",
+            "positive"
+          ],
+          [
+            "remote",
+            "negative"
+          ]
+        ],
+        "correct": 1,
+        "of": 1,
+        "detail": ""
+      },
+      {
+        "review": "The picture quality is excellent and the menu is easy to use.",
+        "expected": {
+          "picture": "positive",
+          "menu": "positive"
+        },
+        "got": [
+          [
+            "picture quality",
+            "positive"
+          ],
+          [
+            "menu",
+            "positive"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The sound quality is amazing, although the ear cushions are uncomfortable.",
+        "expected": {
+          "sound": "positive",
+          "cushions": "negative"
+        },
+        "got": [
+          [
+            "sound quality",
+            "positive"
+          ],
+          [
+            "ear cushions",
+            "negative"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The ear cushions are comfortable but the bass is weak and the price is too high.",
+        "expected": {
+          "cushions": "positive",
+          "bass": "negative",
+          "price": "negative"
+        },
+        "got": [
+          [
+            "ear cushions",
+            "positive"
+          ],
+          [
+            "bass",
+            "negative"
+          ],
+          [
+            "price",
+            "negative"
+          ]
+        ],
+        "correct": 3,
+        "of": 3,
+        "detail": ""
+      },
+      {
+        "review": "The noise cancellation is superb and the battery lasts 30 hours.",
+        "expected": {
+          "noise": "positive",
+          "battery": "positive"
+        },
+        "got": [
+          [
+            "noise cancellation",
+            "positive"
+          ],
+          [
+            "battery",
+            "positive"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The microphone is okay but the bluetooth connection keeps dropping.",
+        "expected": {
+          "microphone": "neutral",
+          "bluetooth": "negative"
+        },
+        "got": [
+          [
+            "microphone",
+            "negative"
+          ],
+          [
+            "bluetooth connection",
+            "negative"
+          ]
+        ],
+        "correct": 1,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The speaker is loud and clear and the bass is punchy.",
+        "expected": {
+          "speaker": "positive",
+          "bass": "positive"
+        },
+        "got": [
+          [
+            "speaker",
+            "positive"
+          ],
+          [
+            "bass",
+            "positive"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The volume is low and the sound is muffled.",
+        "expected": {
+          "volume": "negative",
+          "sound": "negative"
+        },
+        "got": [
+          [
+            "volume",
+            "negative"
+          ],
+          [
+            "sound",
+            "negative"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The tablet screen is sharp but the speakers are weak.",
+        "expected": {
+          "screen": "positive",
+          "speakers": "negative"
+        },
+        "got": [
+          [
+            "tablet screen",
+            "positive"
+          ],
+          [
+            "speakers",
+            "negative"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The smartwatch battery lasts a week and the display is bright.",
+        "expected": {
+          "battery": "positive",
+          "display": "positive"
+        },
+        "got": [
+          [
+            "battery",
+            "positive"
+          ],
+          [
+            "display",
+            "positive"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The strap is uncomfortable and the heart rate sensor is inaccurate.",
+        "expected": {
+          "strap": "negative",
+          "sensor": "negative"
+        },
+        "got": [
+          [
+            "strap",
+            "negative"
+          ],
+          [
+            "heart",
+            "negative"
+          ]
+        ],
+        "correct": 1,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The TV has a stunning picture but the remote is confusing.",
+        "expected": {
+          "picture": "positive",
+          "remote": "negative"
+        },
+        "got": [
+          [
+            "picture",
+            "positive"
+          ],
+          [
+            "remote",
+            "negative"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "Setup was easy and the app works well.",
+        "expected": {
+          "setup": "positive",
+          "app": "positive"
+        },
+        "got": [
+          [
+            "setup",
+            "positive"
+          ],
+          [
+            "app",
+            "positive"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The mouse is comfortable and the scroll wheel is smooth.",
+        "expected": {
+          "mouse": "positive",
+          "scroll": "positive"
+        },
+        "got": [
+          [
+            "mouse",
+            "positive"
+          ],
+          [
+            "scroll wheel",
+            "positive"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The cable is too short and feels cheap.",
+        "expected": {
+          "cable": "negative"
+        },
+        "got": [
+          [
+            "cable",
+            "negative"
+          ]
+        ],
+        "correct": 1,
+        "of": 1,
+        "detail": ""
+      },
+      {
+        "review": "I love it.",
+        "expected": "none",
+        "got": [],
+        "correct": 1,
+        "of": 1,
+        "detail": "no aspect expected"
+      },
+      {
+        "review": "Thank you so much!",
+        "expected": "none",
+        "got": [],
+        "correct": 1,
+        "of": 1,
+        "detail": "no aspect expected"
+      },
+      {
+        "review": "I bought it last week.",
+        "expected": "none",
+        "got": [],
+        "correct": 1,
+        "of": 1,
+        "detail": "no aspect expected"
+      },
+      {
+        "review": "Highly recommended!",
+        "expected": "none",
+        "got": [
+          [
+            "recommended",
+            "positive"
+          ]
+        ],
+        "correct": 0,
+        "of": 1,
+        "detail": "no aspect expected"
+      },
+      {
+        "review": "It arrived on time.",
+        "expected": "none",
+        "got": [],
+        "correct": 1,
+        "of": 1,
+        "detail": "no aspect expected"
+      },
+      {
+        "review": "The battery is not good.",
+        "expected": {
+          "battery": "negative"
+        },
+        "got": [
+          [
+            "battery",
+            "negative"
+          ]
+        ],
+        "correct": 1,
+        "of": 1,
+        "detail": ""
+      },
+      {
+        "review": "The screen is not bad at all, really bright.",
+        "expected": {
+          "screen": "positive"
+        },
+        "got": [
+          [
+            "screen",
+            "positive"
+          ]
+        ],
+        "correct": 1,
+        "of": 1,
+        "detail": ""
+      },
+      {
+        "review": "The keyboard is fine for the price.",
+        "expected": {
+          "keyboard": "positive"
+        },
+        "got": [
+          [
+            "keyboard",
+            "positive"
+          ]
+        ],
+        "correct": 1,
+        "of": 1,
+        "detail": ""
+      }
+    ]
+  },
+  "rules_on": {
+    "buckets": {
+      "all": {
+        "correct": 72,
+        "of": 75,
+        "rate": 0.96
+      },
+      "in_scope": {
+        "correct": 45,
+        "of": 46,
+        "rate": 0.9783
+      },
+      "out_of_scope": {
+        "correct": 23,
+        "of": 24,
+        "rate": 0.9583
+      },
+      "no_aspect": {
+        "correct": 4,
+        "of": 5,
+        "rate": 0.8
+      },
+      "contested": {
+        "correct": 3,
+        "of": 8,
+        "rate": 0.375
+      }
+    },
+    "rows": [
+      {
+        "review": "The display is fantastic and the keyboard is comfortable, but the battery life is terrible.",
+        "expected": {
+          "display": "positive",
+          "keyboard": "positive",
+          "battery": "negative"
+        },
+        "got": [
+          [
+            "display",
+            "positive"
+          ],
+          [
+            "keyboard",
+            "positive"
+          ],
+          [
+            "battery life",
+            "negative"
+          ]
+        ],
+        "correct": 3,
+        "of": 3,
+        "detail": ""
+      },
+      {
+        "review": "The screen is beautiful but the battery drains quickly.",
+        "expected": {
+          "screen": "positive",
+          "battery": "negative"
+        },
+        "got": [
+          [
+            "screen",
+            "positive"
+          ],
+          [
+            "battery",
+            "negative"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The keyboard is okay.",
+        "expected": {
+          "keyboard": "neutral"
+        },
+        "got": [
+          [
+            "keyboard",
+            "positive"
+          ]
+        ],
+        "correct": 0,
+        "of": 1,
+        "detail": ""
+      },
+      {
+        "review": "The trackpad is average.",
+        "expected": {
+          "trackpad": "neutral"
+        },
+        "got": [
+          [
+            "trackpad",
+            "negative"
+          ]
+        ],
+        "correct": 0,
+        "of": 1,
+        "detail": ""
+      },
+      {
+        "review": "The speakers are so-so but the screen is gorgeous.",
+        "expected": {
+          "speakers": "neutral",
+          "screen": "positive"
+        },
+        "got": [
+          [
+            "speakers",
+            "negative"
+          ],
+          [
+            "screen",
+            "positive"
+          ]
+        ],
+        "correct": 1,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The laptop is lightweight, the keyboard is comfortable, and the display is excellent.",
+        "expected": {
+          "keyboard": "positive",
+          "display": "positive"
+        },
+        "got": [
+          [
+            "keyboard",
+            "positive"
+          ],
+          [
+            "display",
+            "positive"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The fan is loud and the laptop gets very hot.",
+        "expected": {
+          "fan": "negative"
+        },
+        "got": [
+          [
+            "fan",
+            "negative"
+          ]
+        ],
+        "correct": 1,
+        "of": 1,
+        "detail": ""
+      },
+      {
+        "review": "Great performance for the price and the build quality feels solid.",
+        "expected": {
+          "performance": "positive",
+          "build": "positive"
+        },
+        "got": [
+          [
+            "performance for the price",
+            "positive"
+          ],
+          [
+            "build quality",
+            "positive"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The trackpad is unresponsive and the keys feel cheap.",
+        "expected": {
+          "trackpad": "negative"
+        },
+        "got": [
+          [
+            "trackpad",
+            "negative"
+          ],
+          [
+            "keys",
+            "negative"
+          ]
+        ],
+        "correct": 1,
+        "of": 1,
+        "detail": ""
+      },
+      {
+        "review": "Boot time is fast and the storage is plentiful.",
+        "expected": {
+          "storage": "positive"
+        },
+        "got": [
+          [
+            "boot time",
+            "positive"
+          ],
+          [
+            "storage",
+            "positive"
+          ]
+        ],
+        "correct": 1,
+        "of": 1,
+        "detail": ""
+      },
+      {
+        "review": "The webcam is grainy and the microphone is poor.",
+        "expected": {
+          "webcam": "negative",
+          "microphone": "negative"
+        },
+        "got": [
+          [
+            "webcam",
+            "negative"
+          ],
+          [
+            "microphone",
+            "negative"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The charger is bulky but the battery lasts all day.",
+        "expected": {
+          "charger": "negative",
+          "battery": "positive"
+        },
+        "got": [
+          [
+            "charger",
+            "negative"
+          ],
+          [
+            "battery",
+            "positive"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The camera quality is excellent but the battery performance is disappointing.",
+        "expected": {
+          "camera": "positive",
+          "battery": "negative"
+        },
+        "got": [
+          [
+            "camera quality",
+            "positive"
+          ],
+          [
+            "battery performance",
+            "negative"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The screen is bright and the battery lasts two days, but the speaker is tinny.",
+        "expected": {
+          "screen": "positive",
+          "battery": "positive",
+          "speaker": "negative"
+        },
+        "got": [
+          [
+            "screen",
+            "positive"
+          ],
+          [
+            "battery",
+            "positive"
+          ],
+          [
+            "speaker",
+            "negative"
+          ]
+        ],
+        "correct": 3,
+        "of": 3,
+        "detail": ""
+      },
+      {
+        "review": "The phone is fast and the display is sharp.",
+        "expected": {
+          "display": "positive"
+        },
+        "got": [
+          [
+            "display",
+            "positive"
+          ]
+        ],
+        "correct": 1,
+        "of": 1,
+        "detail": ""
+      },
+      {
+        "review": "Terrible signal reception and the software is buggy.",
+        "expected": {
+          "signal": "negative",
+          "software": "negative"
+        },
+        "got": [
+          [
+            "signal reception",
+            "negative"
+          ],
+          [
+            "software",
+            "negative"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The fingerprint sensor is quick but the camera is mediocre in low light.",
+        "expected": {
+          "fingerprint": "positive",
+          "camera": "negative"
+        },
+        "got": [
+          [
+            "fingerprint sensor",
+            "positive"
+          ]
+        ],
+        "correct": 1,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The battery charges quickly and lasts long.",
+        "expected": {
+          "battery": "positive"
+        },
+        "got": [
+          [
+            "battery",
+            "positive"
+          ],
+          [
+            "lasts",
+            "positive"
+          ]
+        ],
+        "correct": 1,
+        "of": 1,
+        "detail": ""
+      },
+      {
+        "review": "The screen cracked after a week and the build quality is poor.",
+        "expected": {
+          "build": "negative"
+        },
+        "got": [
+          [
+            "screen",
+            "negative"
+          ],
+          [
+            "build quality",
+            "negative"
+          ]
+        ],
+        "correct": 1,
+        "of": 1,
+        "detail": ""
+      },
+      {
+        "review": "The lens is excellent and the zoom is fast, but the menu system is confusing.",
+        "expected": {
+          "lens": "positive",
+          "zoom": "positive",
+          "menu": "negative"
+        },
+        "got": [
+          [
+            "lens",
+            "positive"
+          ],
+          [
+            "zoom",
+            "positive"
+          ],
+          [
+            "menu",
+            "negative"
+          ]
+        ],
+        "correct": 3,
+        "of": 3,
+        "detail": ""
+      },
+      {
+        "review": "The autofocus is quick and the photos are sharp.",
+        "expected": {
+          "autofocus": "positive"
+        },
+        "got": [
+          [
+            "autofocus",
+            "positive"
+          ],
+          [
+            "photos",
+            "positive"
+          ]
+        ],
+        "correct": 1,
+        "of": 1,
+        "detail": ""
+      },
+      {
+        "review": "The battery dies too fast and the flash is weak.",
+        "expected": {
+          "battery": "negative",
+          "flash": "negative"
+        },
+        "got": [
+          [
+            "battery",
+            "negative"
+          ],
+          [
+            "flash",
+            "negative"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The images are noisy in low light and the viewfinder is small.",
+        "expected": {
+          "viewfinder": "negative"
+        },
+        "got": [
+          [
+            "viewfinder",
+            "negative"
+          ]
+        ],
+        "correct": 1,
+        "of": 1,
+        "detail": ""
+      },
+      {
+        "review": "The menu is okay and the grip is comfortable.",
+        "expected": {
+          "menu": "neutral",
+          "grip": "positive"
+        },
+        "got": [
+          [
+            "menu",
+            "positive"
+          ],
+          [
+            "grip",
+            "positive"
+          ]
+        ],
+        "correct": 1,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The storage is huge and the sound quality is great, but the software is buggy.",
+        "expected": {
+          "storage": "positive",
+          "sound": "positive",
+          "software": "negative"
+        },
+        "got": [
+          [
+            "storage",
+            "positive"
+          ],
+          [
+            "sound quality",
+            "positive"
+          ],
+          [
+            "software",
+            "negative"
+          ]
+        ],
+        "correct": 3,
+        "of": 3,
+        "detail": ""
+      },
+      {
+        "review": "The battery is poor and the screen is too small.",
+        "expected": {
+          "battery": "negative",
+          "screen": "negative"
+        },
+        "got": [
+          [
+            "battery",
+            "negative"
+          ],
+          [
+            "screen",
+            "negative"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The DVD player reads discs quickly but the remote is flimsy.",
+        "expected": {
+          "remote": "negative"
+        },
+        "got": [
+          [
+            "player",
+            "positive"
+          ],
+          [
+            "remote",
+            "negative"
+          ]
+        ],
+        "correct": 1,
+        "of": 1,
+        "detail": ""
+      },
+      {
+        "review": "The picture quality is excellent and the menu is easy to use.",
+        "expected": {
+          "picture": "positive",
+          "menu": "positive"
+        },
+        "got": [
+          [
+            "picture quality",
+            "positive"
+          ],
+          [
+            "menu",
+            "positive"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The sound quality is amazing, although the ear cushions are uncomfortable.",
+        "expected": {
+          "sound": "positive",
+          "cushions": "negative"
+        },
+        "got": [
+          [
+            "sound quality",
+            "positive"
+          ],
+          [
+            "ear cushions",
+            "negative"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The ear cushions are comfortable but the bass is weak and the price is too high.",
+        "expected": {
+          "cushions": "positive",
+          "bass": "negative",
+          "price": "negative"
+        },
+        "got": [
+          [
+            "ear cushions",
+            "positive"
+          ],
+          [
+            "bass",
+            "negative"
+          ],
+          [
+            "price",
+            "negative"
+          ]
+        ],
+        "correct": 3,
+        "of": 3,
+        "detail": ""
+      },
+      {
+        "review": "The noise cancellation is superb and the battery lasts 30 hours.",
+        "expected": {
+          "noise": "positive",
+          "battery": "positive"
+        },
+        "got": [
+          [
+            "noise cancellation",
+            "positive"
+          ],
+          [
+            "battery",
+            "positive"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The microphone is okay but the bluetooth connection keeps dropping.",
+        "expected": {
+          "microphone": "neutral",
+          "bluetooth": "negative"
+        },
+        "got": [
+          [
+            "microphone",
+            "negative"
+          ],
+          [
+            "bluetooth connection",
+            "negative"
+          ]
+        ],
+        "correct": 1,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The speaker is loud and clear and the bass is punchy.",
+        "expected": {
+          "speaker": "positive",
+          "bass": "positive"
+        },
+        "got": [
+          [
+            "speaker",
+            "positive"
+          ],
+          [
+            "bass",
+            "positive"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The volume is low and the sound is muffled.",
+        "expected": {
+          "volume": "negative",
+          "sound": "negative"
+        },
+        "got": [
+          [
+            "volume",
+            "negative"
+          ],
+          [
+            "sound",
+            "negative"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The tablet screen is sharp but the speakers are weak.",
+        "expected": {
+          "screen": "positive",
+          "speakers": "negative"
+        },
+        "got": [
+          [
+            "tablet screen",
+            "positive"
+          ],
+          [
+            "speakers",
+            "negative"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The smartwatch battery lasts a week and the display is bright.",
+        "expected": {
+          "battery": "positive",
+          "display": "positive"
+        },
+        "got": [
+          [
+            "battery",
+            "positive"
+          ],
+          [
+            "display",
+            "positive"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The strap is uncomfortable and the heart rate sensor is inaccurate.",
+        "expected": {
+          "strap": "negative",
+          "sensor": "negative"
+        },
+        "got": [
+          [
+            "strap",
+            "negative"
+          ],
+          [
+            "heart",
+            "negative"
+          ]
+        ],
+        "correct": 1,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The TV has a stunning picture but the remote is confusing.",
+        "expected": {
+          "picture": "positive",
+          "remote": "negative"
+        },
+        "got": [
+          [
+            "picture",
+            "positive"
+          ],
+          [
+            "remote",
+            "negative"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "Setup was easy and the app works well.",
+        "expected": {
+          "setup": "positive",
+          "app": "positive"
+        },
+        "got": [
+          [
+            "setup",
+            "positive"
+          ],
+          [
+            "app",
+            "positive"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The mouse is comfortable and the scroll wheel is smooth.",
+        "expected": {
+          "mouse": "positive",
+          "scroll": "positive"
+        },
+        "got": [
+          [
+            "mouse",
+            "positive"
+          ],
+          [
+            "scroll wheel",
+            "positive"
+          ]
+        ],
+        "correct": 2,
+        "of": 2,
+        "detail": ""
+      },
+      {
+        "review": "The cable is too short and feels cheap.",
+        "expected": {
+          "cable": "negative"
+        },
+        "got": [
+          [
+            "cable",
+            "negative"
+          ]
+        ],
+        "correct": 1,
+        "of": 1,
+        "detail": ""
+      },
+      {
+        "review": "I love it.",
+        "expected": "none",
+        "got": [],
+        "correct": 1,
+        "of": 1,
+        "detail": "no aspect expected"
+      },
+      {
+        "review": "Thank you so much!",
+        "expected": "none",
+        "got": [],
+        "correct": 1,
+        "of": 1,
+        "detail": "no aspect expected"
+      },
+      {
+        "review": "I bought it last week.",
+        "expected": "none",
+        "got": [],
+        "correct": 1,
+        "of": 1,
+        "detail": "no aspect expected"
+      },
+      {
+        "review": "Highly recommended!",
+        "expected": "none",
+        "got": [
+          [
+            "recommended",
+            "positive"
+          ]
+        ],
+        "correct": 0,
+        "of": 1,
+        "detail": "no aspect expected"
+      },
+      {
+        "review": "It arrived on time.",
+        "expected": "none",
+        "got": [],
+        "correct": 1,
+        "of": 1,
+        "detail": "no aspect expected"
+      },
+      {
+        "review": "The battery is not good.",
+        "expected": {
+          "battery": "negative"
+        },
+        "got": [
+          [
+            "battery",
+            "negative"
+          ]
+        ],
+        "correct": 1,
+        "of": 1,
+        "detail": ""
+      },
+      {
+        "review": "The screen is not bad at all, really bright.",
+        "expected": {
+          "screen": "positive"
+        },
+        "got": [
+          [
+            "screen",
+            "positive"
+          ]
+        ],
+        "correct": 1,
+        "of": 1,
+        "detail": ""
+      },
+      {
+        "review": "The keyboard is fine for the price.",
+        "expected": {
+          "keyboard": "positive"
+        },
+        "got": [
+          [
+            "keyboard",
+            "positive"
+          ]
+        ],
+        "correct": 1,
+        "of": 1,
+        "detail": ""
+      }
+    ]
+  }
+}

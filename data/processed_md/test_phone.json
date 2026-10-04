@@ -1,0 +1,8680 @@
+[
+ {
+  "id": "phone-test-0-1",
+  "text": "will buy again in the future.",
+  "aspects": [
+   {
+    "term": "buy again",
+    "polarity": "positive",
+    "start": 5,
+    "end": 14
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-1-0",
+  "text": "My phone also get restart automatically..",
+  "aspects": [
+   {
+    "term": "get restart",
+    "polarity": "negative",
+    "start": 14,
+    "end": 25
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-2-3",
+  "text": "definitely recommend to buy.",
+  "aspects": [
+   {
+    "term": "recommend to buy",
+    "polarity": "positive",
+    "start": 11,
+    "end": 27
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-4-1",
+  "text": "The OUKITEL C21 smartphone can unlock without faceid and fingerprint.",
+  "aspects": [
+   {
+    "term": "unlock without faceid and fingerprint",
+    "polarity": "neutral",
+    "start": 31,
+    "end": 68
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-4-2",
+  "text": "You can set a password to unlock the phone and a digital password to unlock the phone.",
+  "aspects": [
+   {
+    "term": "set a password to unlock the phone",
+    "polarity": "neutral",
+    "start": 8,
+    "end": 42
+   },
+   {
+    "term": "digital password to unlock the phone",
+    "polarity": "neutral",
+    "start": 49,
+    "end": 85
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-6-0",
+  "text": "Our A52 has 6GB of RAM, as well as a 120Hz refresh rate.",
+  "aspects": [
+   {
+    "term": "6GB of RAM",
+    "polarity": "neutral",
+    "start": 12,
+    "end": 22
+   },
+   {
+    "term": "120Hz refresh rate",
+    "polarity": "neutral",
+    "start": 37,
+    "end": 55
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-6-1",
+  "text": "This, with our amazing 6.5\" Infinity-O display, creates an immersive and seamless viewing and gaming experience.",
+  "aspects": [
+   {
+    "term": "6.5\" Infinity-O display",
+    "polarity": "positive",
+    "start": 23,
+    "end": 46
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-9-1",
+  "text": "Low cost as well...",
+  "aspects": [
+   {
+    "term": "cost",
+    "polarity": "positive",
+    "start": 4,
+    "end": 8
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-10-0",
+  "text": "Shipping took about 1 week.",
+  "aspects": [
+   {
+    "term": "Shipping",
+    "polarity": "negative",
+    "start": 0,
+    "end": 8
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-10-1",
+  "text": "And omg thank u for the free gifts (phone case , cable and screen protector) .",
+  "aspects": [
+   {
+    "term": "free gifts",
+    "polarity": "positive",
+    "start": 24,
+    "end": 34
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-10-3",
+  "text": "Will recommend to ppl if they need a phone that can stop them into social medias",
+  "aspects": [
+   {
+    "term": "recommend",
+    "polarity": "positive",
+    "start": 5,
+    "end": 14
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-11-0",
+  "text": "Only waste of money plzz don't buy this phone Camera bakwaas haii and android system not working properly",
+  "aspects": [
+   {
+    "term": "buy this phone",
+    "polarity": "negative",
+    "start": 31,
+    "end": 45
+   },
+   {
+    "term": "android system",
+    "polarity": "negative",
+    "start": 70,
+    "end": 84
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-12-0",
+  "text": "Please don’t buy this product, this is not suitable for xs max , don’t waist your time and money",
+  "aspects": [
+   {
+    "term": "buy",
+    "polarity": "negative",
+    "start": 13,
+    "end": 16
+   },
+   {
+    "term": "waist your time and money",
+    "polarity": "negative",
+    "start": 71,
+    "end": 96
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-13-1",
+  "text": "seller replied to my messages fast too :)",
+  "aspects": [
+   {
+    "term": "seller replied to my messages",
+    "polarity": "positive",
+    "start": 0,
+    "end": 29
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-14-0",
+  "text": "Good camera and battery and all mobile function",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 5,
+    "end": 11
+   },
+   {
+    "term": "battery",
+    "polarity": "positive",
+    "start": 16,
+    "end": 23
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-15-0",
+  "text": "Condition of the phone about 8.5/10 Has good camera,LCD, wifi, Bluetooth.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 45,
+    "end": 51
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-15-1",
+  "text": "Only not Dolby atom sound .Need about 6-8day arrived.",
+  "aspects": [
+   {
+    "term": "Dolby atom sound",
+    "polarity": "negative",
+    "start": 9,
+    "end": 25
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-17-0",
+  "text": "Item has been delivered and overall quality is good.",
+  "aspects": [
+   {
+    "term": "overall quality",
+    "polarity": "positive",
+    "start": 28,
+    "end": 43
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-19-0",
+  "text": "Fast delivery, received this in good condition ,highly recommend.Thanks",
+  "aspects": [
+   {
+    "term": "recommend",
+    "polarity": "positive",
+    "start": 55,
+    "end": 64
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-21-0",
+  "text": "I bought the Samsung galaxy AO2s for my son, as the other phone he had kept freezing on him, so he's delighted with it plus I got him a phone case and a screen protector too he didn't use the face recognition or fingerprint on it.",
+  "aspects": [
+   {
+    "term": "for my son",
+    "polarity": "positive",
+    "start": 33,
+    "end": 43
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-23-0",
+  "text": "Yes it's working with good quality",
+  "aspects": [
+   {
+    "term": "quality",
+    "polarity": "positive",
+    "start": 27,
+    "end": 34
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-25-2",
+  "text": "Slow to turn on.",
+  "aspects": [
+   {
+    "term": "turn on",
+    "polarity": "negative",
+    "start": 8,
+    "end": 15
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-26-0",
+  "text": "Love the subtle colour and of course the attractive price.",
+  "aspects": [
+   {
+    "term": "subtle colour",
+    "polarity": "positive",
+    "start": 9,
+    "end": 22
+   },
+   {
+    "term": "price",
+    "polarity": "positive",
+    "start": 52,
+    "end": 57
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-27-0",
+  "text": "Thank you for the free gift of power bank.",
+  "aspects": [
+   {
+    "term": "free gift of power bank",
+    "polarity": "positive",
+    "start": 18,
+    "end": 41
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-27-1",
+  "text": "But I did not receive the screen protector and case as advertised.",
+  "aspects": [
+   {
+    "term": "screen protector",
+    "polarity": "negative",
+    "start": 26,
+    "end": 42
+   },
+   {
+    "term": "case",
+    "polarity": "negative",
+    "start": 47,
+    "end": 51
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-30-0",
+  "text": "Came in good condition and quality looks good.",
+  "aspects": [
+   {
+    "term": "quality",
+    "polarity": "positive",
+    "start": 27,
+    "end": 34
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-30-1",
+  "text": "Highly recommended and worth buying.",
+  "aspects": [
+   {
+    "term": "recommended",
+    "polarity": "positive",
+    "start": 7,
+    "end": 18
+   },
+   {
+    "term": "buying",
+    "polarity": "positive",
+    "start": 29,
+    "end": 35
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-31-0",
+  "text": "Usually go for high spec branded android phones however decided against an upgrade and thought I'd try a cheap throwaway phone as broke my handset.",
+  "aspects": [
+   {
+    "term": "throwaway phone",
+    "polarity": "positive",
+    "start": 111,
+    "end": 126
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-31-2",
+  "text": "The phone came with a case and screen protector attached,feels light and good quality.",
+  "aspects": [
+   {
+    "term": "case",
+    "polarity": "positive",
+    "start": 22,
+    "end": 26
+   },
+   {
+    "term": "screen protector",
+    "polarity": "positive",
+    "start": 31,
+    "end": 47
+   },
+   {
+    "term": "feels light",
+    "polarity": "positive",
+    "start": 57,
+    "end": 68
+   },
+   {
+    "term": "quality",
+    "polarity": "positive",
+    "start": 78,
+    "end": 85
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-31-3",
+  "text": "The camera is great and does the job,the phone is fast and responsive.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-31-5",
+  "text": "I would highly recommend it and at such a low price you can afford to take a chance",
+  "aspects": [
+   {
+    "term": "recommend",
+    "polarity": "positive",
+    "start": 15,
+    "end": 24
+   },
+   {
+    "term": "price",
+    "polarity": "positive",
+    "start": 46,
+    "end": 51
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-32-4",
+  "text": "But for the price, good buy ??",
+  "aspects": [
+   {
+    "term": "for the price",
+    "polarity": "positive",
+    "start": 4,
+    "end": 17
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-33-0",
+  "text": "Not waterproofing officially so why to take risks..",
+  "aspects": [
+   {
+    "term": "waterproofing officially",
+    "polarity": "negative",
+    "start": 4,
+    "end": 28
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-35-1",
+  "text": "Like the big screen.",
+  "aspects": [
+   {
+    "term": "screen",
+    "polarity": "positive",
+    "start": 13,
+    "end": 19
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-35-4",
+  "text": "Overall satisfied with purchase!",
+  "aspects": [
+   {
+    "term": "purchase",
+    "polarity": "positive",
+    "start": 23,
+    "end": 31
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-36-0",
+  "text": "Mine came with a hard shell case but no screen protector.",
+  "aspects": [
+   {
+    "term": "shell case",
+    "polarity": "positive",
+    "start": 22,
+    "end": 32
+   },
+   {
+    "term": "screen protector",
+    "polarity": "negative",
+    "start": 40,
+    "end": 56
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-36-1",
+  "text": "Yes, it comes with a clear plastic case in the box.",
+  "aspects": [
+   {
+    "term": "case",
+    "polarity": "positive",
+    "start": 35,
+    "end": 39
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-36-2",
+  "text": "Yes a clear case which does the job perfectly",
+  "aspects": [
+   {
+    "term": "case",
+    "polarity": "positive",
+    "start": 12,
+    "end": 16
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-37-1",
+  "text": "Slight issue as there was a sticky residue all over the screen when the printed plastic was removed - managed to clean it and touch functions are ok.",
+  "aspects": [
+   {
+    "term": "touch functions",
+    "polarity": "positive",
+    "start": 126,
+    "end": 141
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-38-0",
+  "text": "Does what it says, will charge my A52 in around 1hr 20min, but a longer cable would be good.",
+  "aspects": [
+   {
+    "term": "charge my A52",
+    "polarity": "positive",
+    "start": 24,
+    "end": 37
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-39-1",
+  "text": "My phone ear speaker is still very soft.",
+  "aspects": [
+   {
+    "term": "ear speaker",
+    "polarity": "positive",
+    "start": 9,
+    "end": 20
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-40-0",
+  "text": "Approximately 100 gms \"Hi Amir, Galaxy M02s weighs a mere 196 grams and comes in an 9.1mm sleek design.",
+  "aspects": [
+   {
+    "term": "weighs",
+    "polarity": "positive",
+    "start": 44,
+    "end": 50
+   },
+   {
+    "term": "9.1mm",
+    "polarity": "positive",
+    "start": 84,
+    "end": 89
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-40-2",
+  "text": "Regards, Samsung India\" \"Hi Amir, Galaxy M02s weighs a mere 196 grams and comes in an 9.1mm sleek design.",
+  "aspects": [
+   {
+    "term": "weighs",
+    "polarity": "positive",
+    "start": 46,
+    "end": 52
+   },
+   {
+    "term": "9.1mm",
+    "polarity": "positive",
+    "start": 86,
+    "end": 91
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-42-0",
+  "text": "I am really impressed with the image and video quality and screen resolution is great.",
+  "aspects": [
+   {
+    "term": "image and video quality",
+    "polarity": "positive",
+    "start": 31,
+    "end": 54
+   },
+   {
+    "term": "screen resolution",
+    "polarity": "positive",
+    "start": 59,
+    "end": 76
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-42-1",
+  "text": "But phone is heating up may be software update will resolve the problem, apart from this it's great buy",
+  "aspects": [
+   {
+    "term": "heating up",
+    "polarity": "negative",
+    "start": 13,
+    "end": 23
+   },
+   {
+    "term": "buy",
+    "polarity": "positive",
+    "start": 100,
+    "end": 103
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-43-0",
+  "text": "Camera quality is good and has ability to take photos in portrait, im not a massive photo taker but mich better than any other iphones i have had.",
+  "aspects": [
+   {
+    "term": "Camera quality",
+    "polarity": "positive",
+    "start": 0,
+    "end": 14
+   },
+   {
+    "term": "take photos in portrait",
+    "polarity": "positive",
+    "start": 42,
+    "end": 65
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-43-1",
+  "text": "Very good camera quality if that helps Yes the cameras seem to be quite good clear quality Yes I am happy with my I phone XR phone Looks like new Yes Yes",
+  "aspects": [
+   {
+    "term": "camera quality",
+    "polarity": "positive",
+    "start": 10,
+    "end": 24
+   },
+   {
+    "term": "cameras",
+    "polarity": "positive",
+    "start": 47,
+    "end": 54
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-45-2",
+  "text": "And seller gave alot of freebies.",
+  "aspects": [
+   {
+    "term": "freebies",
+    "polarity": "positive",
+    "start": 24,
+    "end": 32
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-47-1",
+  "text": "Would definitely recommend.",
+  "aspects": [
+   {
+    "term": "recommend",
+    "polarity": "positive",
+    "start": 17,
+    "end": 26
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-48-0",
+  "text": "One year from the date of purchase, could be available.",
+  "aspects": [
+   {
+    "term": "One year",
+    "polarity": "positive",
+    "start": 0,
+    "end": 8
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-49-0",
+  "text": "Great and friendly seller !",
+  "aspects": [
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 19,
+    "end": 25
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-50-0",
+  "text": "No it would be a very basic phone so no wireless charging No you will need a phone with a C port phone ie samsung 9 As far as I know it does not have wireless charging capability Yes it does but the WiFi itself doesn't connect that great as games and websites Dont load .",
+  "aspects": [
+   {
+    "term": "wireless charging",
+    "polarity": "negative",
+    "start": 40,
+    "end": 57
+   },
+   {
+    "term": "WiFi",
+    "polarity": "negative",
+    "start": 199,
+    "end": 203
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-52-0",
+  "text": "the c21 is a quality phone at a very decent price compares really well against named phones at a fraction of the price",
+  "aspects": [
+   {
+    "term": "price",
+    "polarity": "positive",
+    "start": 44,
+    "end": 49
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-53-2",
+  "text": "But sound effect not that perfect than airpod pro sound.",
+  "aspects": [
+   {
+    "term": "sound effect",
+    "polarity": "negative",
+    "start": 4,
+    "end": 16
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-53-3",
+  "text": "Not easy to control e mode unlike airpod pro.",
+  "aspects": [
+   {
+    "term": "Not easy to control",
+    "polarity": "negative",
+    "start": 0,
+    "end": 19
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-54-0",
+  "text": "both are very worst as getting lots of display issues after 3 months....",
+  "aspects": [
+   {
+    "term": "display issues",
+    "polarity": "negative",
+    "start": 39,
+    "end": 53
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-55-2",
+  "text": "Took away 1 star since there was no real apology and no token appreciation (eg.",
+  "aspects": [
+   {
+    "term": "real apology",
+    "polarity": "negative",
+    "start": 36,
+    "end": 48
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-55-3",
+  "text": "free clear case) for them selling something OOS.",
+  "aspects": [
+   {
+    "term": "free clear case",
+    "polarity": "negative",
+    "start": 0,
+    "end": 15
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-55-4",
+  "text": "Phone's okay except for the very finicky fingerprint reader.",
+  "aspects": [
+   {
+    "term": "fingerprint reader",
+    "polarity": "negative",
+    "start": 41,
+    "end": 59
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-56-0",
+  "text": "Yes you can connect your Bluetooth Device with this phone.",
+  "aspects": [
+   {
+    "term": "connect your Bluetooth Device with this phone",
+    "polarity": "neutral",
+    "start": 12,
+    "end": 57
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-58-0",
+  "text": "Fast delivery within 3days, purchased during Big Brand Discounts which is much cheaper than the market rate.",
+  "aspects": [
+   {
+    "term": "purchase",
+    "polarity": "positive",
+    "start": 28,
+    "end": 36
+   },
+   {
+    "term": "cheaper than",
+    "polarity": "positive",
+    "start": 79,
+    "end": 91
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-58-1",
+  "text": "Phone came with headphone adapter, phone casing and 2-pin power plug.",
+  "aspects": [
+   {
+    "term": "headphone adapter",
+    "polarity": "positive",
+    "start": 16,
+    "end": 33
+   },
+   {
+    "term": "phone casing",
+    "polarity": "positive",
+    "start": 35,
+    "end": 47
+   },
+   {
+    "term": "2-pin power plug",
+    "polarity": "positive",
+    "start": 52,
+    "end": 68
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-58-2",
+  "text": "Overall satisfied with this purchase.",
+  "aspects": [
+   {
+    "term": "purchase",
+    "polarity": "positive",
+    "start": 28,
+    "end": 36
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-59-0",
+  "text": "I just don't like the finger print sensor as it is not that much fast working...but overall the phone is amazing",
+  "aspects": [
+   {
+    "term": "finger print sensor",
+    "polarity": "negative",
+    "start": 22,
+    "end": 41
+   },
+   {
+    "term": "working",
+    "polarity": "negative",
+    "start": 70,
+    "end": 77
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-60-1",
+  "text": "Very good seller fast and responsive",
+  "aspects": [
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 10,
+    "end": 16
+   },
+   {
+    "term": "fast and responsive",
+    "polarity": "positive",
+    "start": 17,
+    "end": 36
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-61-2",
+  "text": "Never buy again.",
+  "aspects": [
+   {
+    "term": "Never buy again",
+    "polarity": "negative",
+    "start": 0,
+    "end": 15
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-62-2",
+  "text": "Mobile body not for fussy buyer.",
+  "aspects": [
+   {
+    "term": "fussy buyer",
+    "polarity": "negative",
+    "start": 20,
+    "end": 31
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-63-1",
+  "text": "Highly recommend this seller for fast response to my all my question.",
+  "aspects": [
+   {
+    "term": "recommend",
+    "polarity": "positive",
+    "start": 7,
+    "end": 16
+   },
+   {
+    "term": "response to my all my question",
+    "polarity": "positive",
+    "start": 38,
+    "end": 68
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-66-2",
+  "text": "I didn't know thst this watch cannot connect to mifit..",
+  "aspects": [
+   {
+    "term": "didn't know thst this watch cannot connect to mifit",
+    "polarity": "neutral",
+    "start": 2,
+    "end": 53
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-66-5",
+  "text": "Miband is a better buy..",
+  "aspects": [
+   {
+    "term": "buy",
+    "polarity": "positive",
+    "start": 19,
+    "end": 22
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-67-1",
+  "text": "However, customer service sucks.",
+  "aspects": [
+   {
+    "term": "customer service",
+    "polarity": "negative",
+    "start": 9,
+    "end": 25
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-67-2",
+  "text": "No response nor reply, not even an acknowledgement.",
+  "aspects": [
+   {
+    "term": "response nor reply",
+    "polarity": "negative",
+    "start": 3,
+    "end": 21
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-69-0",
+  "text": "There were 2 in the pack so good value for money.",
+  "aspects": [
+   {
+    "term": "value for money",
+    "polarity": "positive",
+    "start": 33,
+    "end": 48
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-69-1",
+  "text": "The Matt surface is very good for reading.",
+  "aspects": [
+   {
+    "term": "Matt surface",
+    "polarity": "positive",
+    "start": 4,
+    "end": 16
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-69-2",
+  "text": "Easy to apply.",
+  "aspects": [
+   {
+    "term": "Easy to apply",
+    "polarity": "positive",
+    "start": 0,
+    "end": 13
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-72-0",
+  "text": "Item is legitimately original and authentic.",
+  "aspects": [
+   {
+    "term": "original and authentic",
+    "polarity": "positive",
+    "start": 21,
+    "end": 43
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-72-1",
+  "text": "It is Snapdragon model which has the ram of 12gb, global version, unlike the local Sg version which only has 8gb ram.",
+  "aspects": [
+   {
+    "term": "ram of 12gb",
+    "polarity": "neutral",
+    "start": 37,
+    "end": 48
+   },
+   {
+    "term": "8gb ram",
+    "polarity": "negative",
+    "start": 109,
+    "end": 116
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-72-2",
+  "text": "A very good buy!",
+  "aspects": [
+   {
+    "term": "buy",
+    "polarity": "positive",
+    "start": 12,
+    "end": 15
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-72-3",
+  "text": "Am so happy with the purchase, thanks.",
+  "aspects": [
+   {
+    "term": "purchase",
+    "polarity": "positive",
+    "start": 21,
+    "end": 29
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-73-1",
+  "text": "Seller very nice and responsive.",
+  "aspects": [
+   {
+    "term": "Seller",
+    "polarity": "positive",
+    "start": 0,
+    "end": 6
+   },
+   {
+    "term": "responsive",
+    "polarity": "positive",
+    "start": 21,
+    "end": 31
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-73-3",
+  "text": "Will def buy again next time if needed!",
+  "aspects": [
+   {
+    "term": "buy again",
+    "polarity": "positive",
+    "start": 9,
+    "end": 18
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-73-4",
+  "text": "Highly recommend them!",
+  "aspects": [
+   {
+    "term": "recommend",
+    "polarity": "positive",
+    "start": 7,
+    "end": 16
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-75-0",
+  "text": "Processing slow, hang issue, camera is not as expecting",
+  "aspects": [
+   {
+    "term": "Processing",
+    "polarity": "negative",
+    "start": 0,
+    "end": 10
+   },
+   {
+    "term": "hang",
+    "polarity": "negative",
+    "start": 17,
+    "end": 21
+   },
+   {
+    "term": "camera",
+    "polarity": "negative",
+    "start": 29,
+    "end": 35
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-76-0",
+  "text": "Good phone at good price lady very pleased with it,would buy from this seller again",
+  "aspects": [
+   {
+    "term": "price",
+    "polarity": "positive",
+    "start": 19,
+    "end": 24
+   },
+   {
+    "term": "would buy from this seller again",
+    "polarity": "positive",
+    "start": 51,
+    "end": 83
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-77-5",
+  "text": "Exceptional customer service.",
+  "aspects": [
+   {
+    "term": "customer service",
+    "polarity": "positive",
+    "start": 12,
+    "end": 28
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-78-0",
+  "text": "Seller is very friendly and good response fast.",
+  "aspects": [
+   {
+    "term": "Seller",
+    "polarity": "positive",
+    "start": 0,
+    "end": 6
+   },
+   {
+    "term": "good response",
+    "polarity": "positive",
+    "start": 28,
+    "end": 41
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-78-1",
+  "text": "Next time I buy again :)",
+  "aspects": [
+   {
+    "term": "Next time I buy again",
+    "polarity": "positive",
+    "start": 0,
+    "end": 21
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-79-3",
+  "text": "some app cannot be installed due to device not compatible.",
+  "aspects": [
+   {
+    "term": "compatible",
+    "polarity": "negative",
+    "start": 47,
+    "end": 57
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-79-4",
+  "text": "Good price for simple device to watch YouTube.",
+  "aspects": [
+   {
+    "term": "price",
+    "polarity": "positive",
+    "start": 5,
+    "end": 10
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-80-0",
+  "text": "Absolutely rubbish phone the battery is the worst needs charging 4/5 a day this was a birthday gift very disappointed with phone and customer service as will because they are not reasonable.",
+  "aspects": [
+   {
+    "term": "battery",
+    "polarity": "negative",
+    "start": 29,
+    "end": 36
+   },
+   {
+    "term": "needs charging",
+    "polarity": "negative",
+    "start": 50,
+    "end": 64
+   },
+   {
+    "term": "customer service",
+    "polarity": "negative",
+    "start": 133,
+    "end": 149
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-83-1",
+  "text": "Screen quality is great.",
+  "aspects": [
+   {
+    "term": "Screen quality",
+    "polarity": "positive",
+    "start": 0,
+    "end": 14
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-83-2",
+  "text": "Finger print scanner in the right place.",
+  "aspects": [
+   {
+    "term": "Finger print scanner",
+    "polarity": "positive",
+    "start": 0,
+    "end": 20
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-83-3",
+  "text": "Camera is great.",
+  "aspects": [
+   {
+    "term": "Camera",
+    "polarity": "positive",
+    "start": 0,
+    "end": 6
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-84-0",
+  "text": "Recieved in good condition and very cute and nice brought during 99?deal!",
+  "aspects": [
+   {
+    "term": "cute and nice",
+    "polarity": "positive",
+    "start": 36,
+    "end": 49
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-84-1",
+  "text": "Will buy again soon!",
+  "aspects": [
+   {
+    "term": "buy again soon",
+    "polarity": "positive",
+    "start": 5,
+    "end": 19
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-85-0",
+  "text": "Top to bottom = 5.9 inches Side to side= 3 .0 inches 6 1/4 inch top to bottom 3 1/4 inch side to side 146.7mm height x 71.5mm width x 7.4mm depth 146.7mm high and 71.5mm wide 6” x 3”",
+  "aspects": [
+   {
+    "term": "5.9 inches",
+    "polarity": "neutral",
+    "start": 16,
+    "end": 26
+   },
+   {
+    "term": "3 .0 inches 6 1/4 inch",
+    "polarity": "neutral",
+    "start": 41,
+    "end": 63
+   },
+   {
+    "term": "3 1/4 inch",
+    "polarity": "neutral",
+    "start": 78,
+    "end": 88
+   },
+   {
+    "term": "146.7mm height",
+    "polarity": "neutral",
+    "start": 102,
+    "end": 116
+   },
+   {
+    "term": "71.5mm width",
+    "polarity": "neutral",
+    "start": 119,
+    "end": 131
+   },
+   {
+    "term": "7.4mm depth 146.7mm high and 71.5mm wide 6",
+    "polarity": "neutral",
+    "start": 134,
+    "end": 176
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-86-1",
+  "text": "Happy with the flash sales.",
+  "aspects": [
+   {
+    "term": "flash sales",
+    "polarity": "positive",
+    "start": 15,
+    "end": 26
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-87-0",
+  "text": "This one is the best purchase I have done in Amazon.",
+  "aspects": [
+   {
+    "term": "purchase",
+    "polarity": "positive",
+    "start": 21,
+    "end": 29
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-88-0",
+  "text": "5g 128gb storage has 6gb ram.",
+  "aspects": [
+   {
+    "term": "128gb storage",
+    "polarity": "neutral",
+    "start": 3,
+    "end": 16
+   },
+   {
+    "term": "6gb ram",
+    "polarity": "neutral",
+    "start": 21,
+    "end": 28
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-88-1",
+  "text": "The larger storage capacity of 256gb has 8gb ram.",
+  "aspects": [
+   {
+    "term": "storage capacity of 256gb",
+    "polarity": "positive",
+    "start": 11,
+    "end": 36
+   },
+   {
+    "term": "8gb ram",
+    "polarity": "positive",
+    "start": 41,
+    "end": 48
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-89-1",
+  "text": "The A21S supports fast charging so you’ll be happy to know that you can pop the charger on and watch it charge in speed.",
+  "aspects": [
+   {
+    "term": "fast",
+    "polarity": "positive",
+    "start": 18,
+    "end": 22
+   },
+   {
+    "term": "charging",
+    "polarity": "positive",
+    "start": 23,
+    "end": 31
+   },
+   {
+    "term": "charge",
+    "polarity": "positive",
+    "start": 104,
+    "end": 110
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-89-2",
+  "text": "^HA at Samsung Support Hello there it comes along with fast charging plug so yes it charges quick .",
+  "aspects": [
+   {
+    "term": "fast",
+    "polarity": "positive",
+    "start": 55,
+    "end": 59
+   },
+   {
+    "term": "charging",
+    "polarity": "positive",
+    "start": 60,
+    "end": 68
+   },
+   {
+    "term": "charge",
+    "polarity": "positive",
+    "start": 84,
+    "end": 90
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-89-3",
+  "text": "Thanks Regards Snatch Deal Yes if you set it to fast charge it's very fast!",
+  "aspects": [
+   {
+    "term": "fast",
+    "polarity": "positive",
+    "start": 48,
+    "end": 52
+   },
+   {
+    "term": "charge",
+    "polarity": "positive",
+    "start": 53,
+    "end": 59
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-89-4",
+  "text": "It has fast charge so it charges extremely quickly Full charge 2hrs approx.",
+  "aspects": [
+   {
+    "term": "fast",
+    "polarity": "positive",
+    "start": 7,
+    "end": 11
+   },
+   {
+    "term": "charge",
+    "polarity": "positive",
+    "start": 12,
+    "end": 18
+   },
+   {
+    "term": "charges",
+    "polarity": "positive",
+    "start": 25,
+    "end": 32
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-89-5",
+  "text": "Yes,it has a fast charge ability.",
+  "aspects": [
+   {
+    "term": "fast",
+    "polarity": "positive",
+    "start": 13,
+    "end": 17
+   },
+   {
+    "term": "charge",
+    "polarity": "positive",
+    "start": 18,
+    "end": 24
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-89-6",
+  "text": "Yes the phone chargers fast Yes it comes with 15w fast charger Yes",
+  "aspects": [
+   {
+    "term": "phone chargers",
+    "polarity": "positive",
+    "start": 8,
+    "end": 22
+   },
+   {
+    "term": "fast",
+    "polarity": "positive",
+    "start": 23,
+    "end": 27
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-92-0",
+  "text": "Value for money..battery life is good and photo quality is awesome...easy access and cool features and very handy to maintain",
+  "aspects": [
+   {
+    "term": "Value for money",
+    "polarity": "positive",
+    "start": 0,
+    "end": 15
+   },
+   {
+    "term": ".battery life",
+    "polarity": "positive",
+    "start": 16,
+    "end": 29
+   },
+   {
+    "term": "photo quality",
+    "polarity": "positive",
+    "start": 42,
+    "end": 55
+   },
+   {
+    "term": "easy access",
+    "polarity": "positive",
+    "start": 69,
+    "end": 80
+   },
+   {
+    "term": "handy to maintain",
+    "polarity": "positive",
+    "start": 108,
+    "end": 125
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-94-0",
+  "text": "Item received early within 3 days, packed well with bubble wrap, box is intact & comes with receipt for the warranty.",
+  "aspects": [
+   {
+    "term": "packed",
+    "polarity": "positive",
+    "start": 35,
+    "end": 41
+   },
+   {
+    "term": "box",
+    "polarity": "positive",
+    "start": 65,
+    "end": 68
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-94-1",
+  "text": "Ear buds paring is done easily & sound is good do charge it fully for first time use before pairing.",
+  "aspects": [
+   {
+    "term": "sound",
+    "polarity": "positive",
+    "start": 33,
+    "end": 38
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-94-2",
+  "text": "Super good purchase.",
+  "aspects": [
+   {
+    "term": "purchase",
+    "polarity": "positive",
+    "start": 11,
+    "end": 19
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-96-0",
+  "text": "Very poor response these mobile......",
+  "aspects": [
+   {
+    "term": "response",
+    "polarity": "negative",
+    "start": 10,
+    "end": 18
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-96-2",
+  "text": "No buy samsung galaxy m31 mobile pls any person do not buy these mobile",
+  "aspects": [
+   {
+    "term": "No buy samsung galaxy m31 mobile pls any person do not buy these mobile",
+    "polarity": "negative",
+    "start": 0,
+    "end": 71
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-97-1",
+  "text": "So far so good with the casing",
+  "aspects": [
+   {
+    "term": "casing",
+    "polarity": "positive",
+    "start": 24,
+    "end": 30
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-98-0",
+  "text": "Item received in good condition and well packed with bubble wrap.",
+  "aspects": [
+   {
+    "term": "packed with bubble wrap",
+    "polarity": "positive",
+    "start": 41,
+    "end": 64
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-99-1",
+  "text": "Cannot find TPG network.",
+  "aspects": [
+   {
+    "term": "TPG network",
+    "polarity": "negative",
+    "start": 12,
+    "end": 23
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-99-2",
+  "text": "Normal telco network is ok...",
+  "aspects": [
+   {
+    "term": "Normal telco network",
+    "polarity": "positive",
+    "start": 0,
+    "end": 20
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-100-0",
+  "text": "This is not the right size for SM-P205.",
+  "aspects": [
+   {
+    "term": "size for SM-P205",
+    "polarity": "negative",
+    "start": 22,
+    "end": 38
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-102-0",
+  "text": "Display is worst, not at all accepting the commands that we r giving and lag issues ?",
+  "aspects": [
+   {
+    "term": "Display",
+    "polarity": "negative",
+    "start": 0,
+    "end": 7
+   },
+   {
+    "term": "lag",
+    "polarity": "negative",
+    "start": 73,
+    "end": 76
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-105-0",
+  "text": "Easy to set up, good screen quality and battery life.",
+  "aspects": [
+   {
+    "term": "Easy to set up",
+    "polarity": "positive",
+    "start": 0,
+    "end": 14
+   },
+   {
+    "term": "screen quality",
+    "polarity": "positive",
+    "start": 21,
+    "end": 35
+   },
+   {
+    "term": "battery life",
+    "polarity": "positive",
+    "start": 40,
+    "end": 52
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-105-1",
+  "text": "Good value phone",
+  "aspects": [
+   {
+    "term": "value",
+    "polarity": "positive",
+    "start": 5,
+    "end": 10
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-106-0",
+  "text": "Yes as it's RAM is 2GB but it also depends upon your sim network as well.",
+  "aspects": [
+   {
+    "term": "RAM",
+    "polarity": "negative",
+    "start": 12,
+    "end": 15
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-107-0",
+  "text": "The sound do not worth the price, hIgh pitched voice, but still can use.",
+  "aspects": [
+   {
+    "term": "sound",
+    "polarity": "negative",
+    "start": 4,
+    "end": 9
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-108-2",
+  "text": "Got unlucky, seller informed original book cover no stock, replaced with a lower quality cover.",
+  "aspects": [
+   {
+    "term": "original book cover",
+    "polarity": "negative",
+    "start": 29,
+    "end": 48
+   },
+   {
+    "term": "quality",
+    "polarity": "negative",
+    "start": 81,
+    "end": 88
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-109-0",
+  "text": "Dont buy it as u cant return it even if some features does'nt function.Most disgusted product i have ever bought from amazon.",
+  "aspects": [
+   {
+    "term": "Dont buy it",
+    "polarity": "negative",
+    "start": 0,
+    "end": 11
+   },
+   {
+    "term": "return",
+    "polarity": "negative",
+    "start": 22,
+    "end": 28
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-109-1",
+  "text": "certain feature doesnt work , its your phone still it wont let you give permission to ceratin appas sying that this may make your phone slow.",
+  "aspects": [
+   {
+    "term": "slow",
+    "polarity": "negative",
+    "start": 136,
+    "end": 140
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-109-2",
+  "text": "i requested a return the same day i received but they refused saying if the phone is functioning then that means you cant return it.",
+  "aspects": [
+   {
+    "term": "return",
+    "polarity": "negative",
+    "start": 14,
+    "end": 20
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-111-0",
+  "text": "Best seller so far i see on online.",
+  "aspects": [
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 5,
+    "end": 11
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-111-1",
+  "text": "Received sealed product in 8 days 3 free gifts.",
+  "aspects": [
+   {
+    "term": "3 free gifts",
+    "polarity": "positive",
+    "start": 34,
+    "end": 46
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-111-2",
+  "text": "before buying seller promised me to give one extra gift (wireless charger) but he forgot to send it with phone but when i check with seller in chat they immediately accepted it and send wireless charger in 2 days.",
+  "aspects": [
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 14,
+    "end": 20
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-114-0",
+  "text": "Very good product highly recommended mended will buy many times",
+  "aspects": [
+   {
+    "term": "recommended",
+    "polarity": "positive",
+    "start": 25,
+    "end": 36
+   },
+   {
+    "term": "will buy many times",
+    "polarity": "positive",
+    "start": 44,
+    "end": 63
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-115-0",
+  "text": "A good gift for our elders...",
+  "aspects": [
+   {
+    "term": "our elders",
+    "polarity": "positive",
+    "start": 16,
+    "end": 26
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-115-3",
+  "text": "Amazing product for a normal user at a affordable price...",
+  "aspects": [
+   {
+    "term": "price",
+    "polarity": "positive",
+    "start": 50,
+    "end": 55
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-116-1",
+  "text": "3rd time buying from Hi Tech Mobile.",
+  "aspects": [
+   {
+    "term": "3rd time buying from Hi Tech Mobile",
+    "polarity": "positive",
+    "start": 0,
+    "end": 35
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-117-1",
+  "text": "Item received was in great condition :))) seller was friendly and polite :) and seller mailed out the item very fast after confirming my transaction :) would love to deal with this seller again in the future :)) thanks!!:)",
+  "aspects": [
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 42,
+    "end": 48
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-118-0",
+  "text": "Charger is very nice No No, its usb 2",
+  "aspects": [
+   {
+    "term": "Charger",
+    "polarity": "positive",
+    "start": 0,
+    "end": 7
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-119-0",
+  "text": "I gift this phone to my mother as a good phone with this price love it ...if your budget is low I recommend please buy this phone or gift some one who needed ..",
+  "aspects": [
+   {
+    "term": "recommend please buy this phone",
+    "polarity": "positive",
+    "start": 98,
+    "end": 129
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-121-1",
+  "text": "With the superb chipset, it gives you high-quality performance while gaming, streaming, and searching.",
+  "aspects": [
+   {
+    "term": "performance",
+    "polarity": "positive",
+    "start": 51,
+    "end": 62
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-121-3",
+  "text": "With the superb chipset, it gives you high-quality performance while gaming, streaming, and searching.",
+  "aspects": [
+   {
+    "term": "performance",
+    "polarity": "positive",
+    "start": 51,
+    "end": 62
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-123-0",
+  "text": "Super charge well for my mate 20 pro, thank you for the free gift!",
+  "aspects": [
+   {
+    "term": "Super charge",
+    "polarity": "positive",
+    "start": 0,
+    "end": 12
+   },
+   {
+    "term": "free gift",
+    "polarity": "positive",
+    "start": 56,
+    "end": 65
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-124-1",
+  "text": "No issue with charging.",
+  "aspects": [
+   {
+    "term": "charging",
+    "polarity": "positive",
+    "start": 14,
+    "end": 22
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-124-2",
+  "text": "Free TPU case and screen protector & wipes given, very thoughtful.",
+  "aspects": [
+   {
+    "term": "TPU case",
+    "polarity": "positive",
+    "start": 5,
+    "end": 13
+   },
+   {
+    "term": "screen protector",
+    "polarity": "positive",
+    "start": 18,
+    "end": 34
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-126-0",
+  "text": "The only complaint is there are too many apps which you can uninstall so it's not much to complain about .",
+  "aspects": [
+   {
+    "term": "apps",
+    "polarity": "negative",
+    "start": 41,
+    "end": 45
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-126-1",
+  "text": "This is as good as any upmarket phone but a hell of a lot cheaper.",
+  "aspects": [
+   {
+    "term": "cheaper",
+    "polarity": "positive",
+    "start": 58,
+    "end": 65
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-129-0",
+  "text": "Excellent product with very good camera and high battery life.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 33,
+    "end": 39
+   },
+   {
+    "term": "battery life",
+    "polarity": "positive",
+    "start": 49,
+    "end": 61
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-129-1",
+  "text": "Value for money and Best Samsung model for under 15k range.",
+  "aspects": [
+   {
+    "term": "Value for money",
+    "polarity": "positive",
+    "start": 0,
+    "end": 15
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-133-1",
+  "text": "It is having a poorest camera I have ever seen",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "negative",
+    "start": 23,
+    "end": 29
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-134-0",
+  "text": "Was stated 512 gb in the website, but received 32gb thumbdrive.",
+  "aspects": [
+   {
+    "term": "512 gb",
+    "polarity": "positive",
+    "start": 11,
+    "end": 17
+   },
+   {
+    "term": "32gb",
+    "polarity": "negative",
+    "start": 47,
+    "end": 51
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-137-0",
+  "text": "Order received in perfect condition, seller is very responsive despite some miscommunications here and there, overall 100% satisfied with product and will definitely buy again !!",
+  "aspects": [
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 37,
+    "end": 43
+   },
+   {
+    "term": "buy again",
+    "polarity": "positive",
+    "start": 166,
+    "end": 175
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-138-0",
+  "text": "Good product quality Good value for money Excellent service by seller Fast delivery",
+  "aspects": [
+   {
+    "term": "product quality",
+    "polarity": "positive",
+    "start": 5,
+    "end": 20
+   },
+   {
+    "term": "value for money",
+    "polarity": "positive",
+    "start": 26,
+    "end": 41
+   },
+   {
+    "term": "service by seller",
+    "polarity": "positive",
+    "start": 52,
+    "end": 69
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-140-4",
+  "text": "Regards, Samsung India\" Yes it definitely support, but plz use slow charge tyoe, so that battery life is long.",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "positive",
+    "start": 89,
+    "end": 101
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-141-0",
+  "text": "Good phone fingerprint reader is hit and miss and it's physically a tad big but a good phone that has a good battery life typically at 40% at the end of a busy day",
+  "aspects": [
+   {
+    "term": "fingerprint reader",
+    "polarity": "neutral",
+    "start": 11,
+    "end": 29
+   },
+   {
+    "term": "big",
+    "polarity": "positive",
+    "start": 72,
+    "end": 75
+   },
+   {
+    "term": "battery life",
+    "polarity": "positive",
+    "start": 109,
+    "end": 121
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-142-0",
+  "text": "Very thin but does what it's supposed to do.",
+  "aspects": [
+   {
+    "term": "thin",
+    "polarity": "positive",
+    "start": 5,
+    "end": 9
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-143-0",
+  "text": "cheap and good worth the money got it on flash deal delivery took so long this time tho",
+  "aspects": [
+   {
+    "term": "cheap",
+    "polarity": "positive",
+    "start": 0,
+    "end": 5
+   },
+   {
+    "term": "worth the money",
+    "polarity": "positive",
+    "start": 15,
+    "end": 30
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-144-0",
+  "text": "No its not Xiaomi Redmi 9 Prime is a budget friendly device.",
+  "aspects": [
+   {
+    "term": "budget friendly",
+    "polarity": "negative",
+    "start": 37,
+    "end": 52
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-144-1",
+  "text": "The device does not come with any IP Rating for being Water-Proof or Dust-Proof.",
+  "aspects": [
+   {
+    "term": "Water-Proof",
+    "polarity": "negative",
+    "start": 54,
+    "end": 65
+   },
+   {
+    "term": "Dust-Proof",
+    "polarity": "negative",
+    "start": 69,
+    "end": 79
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-145-2",
+  "text": "Cheapest to compare with other seller",
+  "aspects": [
+   {
+    "term": "Cheapest to compare with",
+    "polarity": "positive",
+    "start": 0,
+    "end": 24
+   },
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 31,
+    "end": 37
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-146-2",
+  "text": "Warranty can be registered on Samsung website with no issues.",
+  "aspects": [
+   {
+    "term": "Warranty",
+    "polarity": "positive",
+    "start": 0,
+    "end": 8
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-147-1",
+  "text": "Speed and Camera quality is Nice.",
+  "aspects": [
+   {
+    "term": "Camera quality",
+    "polarity": "positive",
+    "start": 10,
+    "end": 24
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-147-2",
+  "text": "Speaker is superb.",
+  "aspects": [
+   {
+    "term": "Speaker",
+    "polarity": "positive",
+    "start": 0,
+    "end": 7
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-147-4",
+  "text": "In 35 minutes Battery fully gets charge.",
+  "aspects": [
+   {
+    "term": "Battery fully gets charge",
+    "polarity": "positive",
+    "start": 14,
+    "end": 39
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-147-5",
+  "text": "Few bugs yet to fix, Message app is slow.",
+  "aspects": [
+   {
+    "term": "bugs",
+    "polarity": "negative",
+    "start": 4,
+    "end": 8
+   },
+   {
+    "term": "Message app",
+    "polarity": "negative",
+    "start": 21,
+    "end": 32
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-147-6",
+  "text": "Auto voice call recorder app is the little concern,because other side person will know if we record the call.",
+  "aspects": [
+   {
+    "term": "Auto voice call recorder app",
+    "polarity": "negative",
+    "start": 0,
+    "end": 28
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-147-8",
+  "text": "You can purchase.",
+  "aspects": [
+   {
+    "term": "can purchase",
+    "polarity": "positive",
+    "start": 4,
+    "end": 16
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-150-1",
+  "text": "The display is not as great as some of premium devices, probably the biggest driver for the price.",
+  "aspects": [
+   {
+    "term": "display",
+    "polarity": "negative",
+    "start": 4,
+    "end": 11
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-150-2",
+  "text": "The battery, performance has been spot on and the camera is good too.",
+  "aspects": [
+   {
+    "term": "battery",
+    "polarity": "positive",
+    "start": 4,
+    "end": 11
+   },
+   {
+    "term": "performance",
+    "polarity": "positive",
+    "start": 13,
+    "end": 24
+   },
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 50,
+    "end": 56
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-150-3",
+  "text": "Finger print reader at the back is not easy to access if you use a flap cover.",
+  "aspects": [
+   {
+    "term": "Finger print reader at the back",
+    "polarity": "negative",
+    "start": 0,
+    "end": 31
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-151-0",
+  "text": "Getting very hot the screen & the back , battery very quickly going down..",
+  "aspects": [
+   {
+    "term": "screen",
+    "polarity": "negative",
+    "start": 21,
+    "end": 27
+   },
+   {
+    "term": "battery",
+    "polarity": "negative",
+    "start": 41,
+    "end": 48
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-153-1",
+  "text": "but ?It isnt sealed ?There r scratches on body ?Manual is written in Tamil Device works well so far tho",
+  "aspects": [
+   {
+    "term": "Manual",
+    "polarity": "neutral",
+    "start": 48,
+    "end": 54
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-154-0",
+  "text": "The phone battery can last for the whole day.",
+  "aspects": [
+   {
+    "term": "phone battery can last for the whole day",
+    "polarity": "positive",
+    "start": 4,
+    "end": 44
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-154-1",
+  "text": "Its very good for delivery person like me who has to use the hp for the whole day.",
+  "aspects": [
+   {
+    "term": "delivery person",
+    "polarity": "positive",
+    "start": 18,
+    "end": 33
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-154-2",
+  "text": "Very impressed with the battery lifespan.",
+  "aspects": [
+   {
+    "term": "battery lifespan",
+    "polarity": "positive",
+    "start": 24,
+    "end": 40
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-155-0",
+  "text": "Seller is responsive in chat.",
+  "aspects": [
+   {
+    "term": "Seller",
+    "polarity": "positive",
+    "start": 0,
+    "end": 6
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-157-0",
+  "text": "It's a lovely phone design but disappointed Apps wont respond typing message is a nightmare.",
+  "aspects": [
+   {
+    "term": "phone design",
+    "polarity": "positive",
+    "start": 14,
+    "end": 26
+   },
+   {
+    "term": "Apps",
+    "polarity": "negative",
+    "start": 44,
+    "end": 48
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-157-1",
+  "text": "Will be sending back second one first the microphone didnt work Il be staying with Doogee",
+  "aspects": [
+   {
+    "term": "microphone",
+    "polarity": "negative",
+    "start": 42,
+    "end": 52
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-158-0",
+  "text": "Only camera is sub par.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "negative",
+    "start": 5,
+    "end": 11
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-158-2",
+  "text": "Battery backup is exceptional.",
+  "aspects": [
+   {
+    "term": "Battery backup",
+    "polarity": "negative",
+    "start": 0,
+    "end": 14
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-158-3",
+  "text": "Fingerprint sensor is pretty fast.",
+  "aspects": [
+   {
+    "term": "Fingerprint sensor",
+    "polarity": "positive",
+    "start": 0,
+    "end": 18
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-158-4",
+  "text": "Face detection is a bit slow.",
+  "aspects": [
+   {
+    "term": "Face detection",
+    "polarity": "negative",
+    "start": 0,
+    "end": 14
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-159-2",
+  "text": "If the display issue continues, please don't hesitate to contact our Support Team through the 'Support' page on our Samsung UK website.",
+  "aspects": [
+   {
+    "term": "display",
+    "polarity": "negative",
+    "start": 7,
+    "end": 14
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-160-0",
+  "text": "Yes, it has always on display.",
+  "aspects": [
+   {
+    "term": "display",
+    "polarity": "negative",
+    "start": 22,
+    "end": 29
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-160-2",
+  "text": "The display is dim for the image and it is quite hard to see though \"Hi Rajendran, Thank you for your query.",
+  "aspects": [
+   {
+    "term": "display",
+    "polarity": "negative",
+    "start": 4,
+    "end": 11
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-160-3",
+  "text": "Galaxy M32 has Always on Display feature.",
+  "aspects": [
+   {
+    "term": "Display",
+    "polarity": "negative",
+    "start": 25,
+    "end": 32
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-162-0",
+  "text": "As nokia is known for its good battery life, till this day the battery runs in tip top condish",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "positive",
+    "start": 31,
+    "end": 43
+   },
+   {
+    "term": "battery",
+    "polarity": "positive",
+    "start": 63,
+    "end": 70
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-165-0",
+  "text": "Awesome phone dropped mine and does not shatter to peices like other high end phones that I had to replace 3 times.",
+  "aspects": [
+   {
+    "term": "dropped",
+    "polarity": "positive",
+    "start": 14,
+    "end": 21
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-165-1",
+  "text": "Still works just a bit of screen burn.Will be replacing it with a oukitel k9.",
+  "aspects": [
+   {
+    "term": "screen burn",
+    "polarity": "negative",
+    "start": 26,
+    "end": 37
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-165-3",
+  "text": "Don't buy as it will become to popular and treble in price",
+  "aspects": [
+   {
+    "term": "Don't buy",
+    "polarity": "negative",
+    "start": 0,
+    "end": 9
+   },
+   {
+    "term": "price",
+    "polarity": "negative",
+    "start": 53,
+    "end": 58
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-168-1",
+  "text": "If one is not a professional content creator and requires smart phone just to have all the necessary features and good space in phone, then , Redmi 9 is a very good buy.",
+  "aspects": [
+   {
+    "term": "space",
+    "polarity": "positive",
+    "start": 119,
+    "end": 124
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-168-2",
+  "text": "Extremely pocket friendly , good touch screen , good camera quality , good icon size , all necessary applications inbuilt.",
+  "aspects": [
+   {
+    "term": "pocket friendly",
+    "polarity": "positive",
+    "start": 10,
+    "end": 25
+   },
+   {
+    "term": "touch screen",
+    "polarity": "positive",
+    "start": 33,
+    "end": 45
+   },
+   {
+    "term": "camera quality",
+    "polarity": "positive",
+    "start": 53,
+    "end": 67
+   },
+   {
+    "term": "icon size",
+    "polarity": "positive",
+    "start": 75,
+    "end": 84
+   },
+   {
+    "term": "applications inbuilt",
+    "polarity": "positive",
+    "start": 101,
+    "end": 121
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-173-1",
+  "text": "Great phone, slim, reliable, excellent camera.",
+  "aspects": [
+   {
+    "term": "slim",
+    "polarity": "positive",
+    "start": 13,
+    "end": 17
+   },
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 39,
+    "end": 45
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-173-2",
+  "text": "Easy to hold and operate, haven't had any issues with setup.",
+  "aspects": [
+   {
+    "term": "Easy to hold and operate",
+    "polarity": "positive",
+    "start": 0,
+    "end": 24
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-173-4",
+  "text": "Had Samsung notes in the past but very happy with this for around a third of the price.",
+  "aspects": [
+   {
+    "term": "for around a third of the price",
+    "polarity": "positive",
+    "start": 55,
+    "end": 86
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-174-0",
+  "text": "Great value for money.",
+  "aspects": [
+   {
+    "term": "value for money",
+    "polarity": "positive",
+    "start": 6,
+    "end": 21
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-175-0",
+  "text": "I like the product for good quality and smooth working.",
+  "aspects": [
+   {
+    "term": "quality",
+    "polarity": "positive",
+    "start": 28,
+    "end": 35
+   },
+   {
+    "term": "working",
+    "polarity": "positive",
+    "start": 47,
+    "end": 54
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-176-3",
+  "text": "Regards, Samsung India\" Charger hain but no headphones Only charger is provided that too with small cable , no screen guard, no earphones, no phone case/back cover",
+  "aspects": [
+   {
+    "term": "headphones",
+    "polarity": "negative",
+    "start": 44,
+    "end": 54
+   },
+   {
+    "term": "screen guard",
+    "polarity": "negative",
+    "start": 111,
+    "end": 123
+   },
+   {
+    "term": "earphones",
+    "polarity": "negative",
+    "start": 128,
+    "end": 137
+   },
+   {
+    "term": "phone case",
+    "polarity": "negative",
+    "start": 142,
+    "end": 152
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-177-0",
+  "text": "Overall the phone works exactly as advertised..but battery could have been bigger..no doubt the battery gets fully charged from 0-100 in just 30 mints max..but it drains quicker, even if you are not a gamer",
+  "aspects": [
+   {
+    "term": "battery",
+    "polarity": "negative",
+    "start": 51,
+    "end": 58
+   },
+   {
+    "term": "battery gets fully charged",
+    "polarity": "positive",
+    "start": 96,
+    "end": 122
+   },
+   {
+    "term": "drains",
+    "polarity": "negative",
+    "start": 163,
+    "end": 169
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-179-0",
+  "text": "Delivery time as expected by ninja van , Poor delivery speed by seller took 1 week to send out Good product quality, value for money",
+  "aspects": [
+   {
+    "term": "elivery speed by seller",
+    "polarity": "negative",
+    "start": 47,
+    "end": 70
+   },
+   {
+    "term": "roduct quality,",
+    "polarity": "positive",
+    "start": 101,
+    "end": 116
+   },
+   {
+    "term": "alue for money",
+    "polarity": "positive",
+    "start": 118,
+    "end": 132
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-180-0",
+  "text": "Pls don't buy this phone..",
+  "aspects": [
+   {
+    "term": "buy this phone",
+    "polarity": "negative",
+    "start": 10,
+    "end": 24
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-180-1",
+  "text": "screen is too dull, most imp.",
+  "aspects": [
+   {
+    "term": "screen",
+    "polarity": "negative",
+    "start": 0,
+    "end": 6
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-180-2",
+  "text": "No refund facility available, it's better add some money buy other phone.",
+  "aspects": [
+   {
+    "term": "refund facility available",
+    "polarity": "negative",
+    "start": 3,
+    "end": 28
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-181-1",
+  "text": "good quality Very recommended this shop.",
+  "aspects": [
+   {
+    "term": "quality",
+    "polarity": "positive",
+    "start": 5,
+    "end": 12
+   },
+   {
+    "term": "recommended",
+    "polarity": "positive",
+    "start": 18,
+    "end": 29
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-182-0",
+  "text": "Gift for my wife, amazing photos/videos",
+  "aspects": [
+   {
+    "term": "photos/videos",
+    "polarity": "positive",
+    "start": 26,
+    "end": 39
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-184-2",
+  "text": "Tablet is packed with air bubble and is well protected.",
+  "aspects": [
+   {
+    "term": "packed with air bubble",
+    "polarity": "positive",
+    "start": 10,
+    "end": 32
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-185-0",
+  "text": "Very friendly seller and overall pleasant shopping experience.Definitely recommend this shop if you are looking for good customer service.",
+  "aspects": [
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 14,
+    "end": 20
+   },
+   {
+    "term": "shopping experience",
+    "polarity": "positive",
+    "start": 42,
+    "end": 61
+   },
+   {
+    "term": "recommend",
+    "polarity": "positive",
+    "start": 73,
+    "end": 82
+   },
+   {
+    "term": "customer service",
+    "polarity": "positive",
+    "start": 121,
+    "end": 137
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-186-0",
+  "text": "Hanging Problem but otherwise good phone for basic uses.",
+  "aspects": [
+   {
+    "term": "Hanging",
+    "polarity": "negative",
+    "start": 0,
+    "end": 7
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-186-1",
+  "text": "But not for heavy user of the phone So choose accordingly.",
+  "aspects": [
+   {
+    "term": "heavy user of the phone",
+    "polarity": "negative",
+    "start": 12,
+    "end": 35
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-187-0",
+  "text": "\"Dear Customer, Galaxy M21 can be charged from 0-100% in around 160 minutes.",
+  "aspects": [
+   {
+    "term": "charged from 0-100%",
+    "polarity": "positive",
+    "start": 34,
+    "end": 53
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-187-2",
+  "text": "Regards, Samsung India\" Battery not working properly",
+  "aspects": [
+   {
+    "term": "Battery",
+    "polarity": "negative",
+    "start": 24,
+    "end": 31
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-188-0",
+  "text": "Super fast delivery and response from seller.",
+  "aspects": [
+   {
+    "term": "response from seller",
+    "polarity": "positive",
+    "start": 24,
+    "end": 44
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-189-0",
+  "text": "The phone can't use for Indonesia's network",
+  "aspects": [
+   {
+    "term": "Indonesia's network",
+    "polarity": "negative",
+    "start": 24,
+    "end": 43
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-190-2",
+  "text": "Came with gifts",
+  "aspects": [
+   {
+    "term": "gifts",
+    "polarity": "positive",
+    "start": 10,
+    "end": 15
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-191-1",
+  "text": "Feels more matte than paperlike, no sensitivity issues with screen while writing.",
+  "aspects": [
+   {
+    "term": "Feels",
+    "polarity": "negative",
+    "start": 0,
+    "end": 5
+   },
+   {
+    "term": "screen",
+    "polarity": "positive",
+    "start": 60,
+    "end": 66
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-192-0",
+  "text": "Wonderful camera and battery and ram and power",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 10,
+    "end": 16
+   },
+   {
+    "term": "battery",
+    "polarity": "positive",
+    "start": 21,
+    "end": 28
+   },
+   {
+    "term": "ram",
+    "polarity": "positive",
+    "start": 33,
+    "end": 36
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-194-0",
+  "text": "Nice phone & camera ?",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 13,
+    "end": 19
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-194-1",
+  "text": "quality very nice..",
+  "aspects": [
+   {
+    "term": "quality",
+    "polarity": "positive",
+    "start": 0,
+    "end": 7
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-194-2",
+  "text": "battery life super..?",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "positive",
+    "start": 0,
+    "end": 12
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-197-0",
+  "text": "Item was shipped out promptly and I received it within 3 days :)",
+  "aspects": [
+   {
+    "term": "shipped out",
+    "polarity": "positive",
+    "start": 9,
+    "end": 20
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-198-3",
+  "text": "Can’t really fix exactly once u match the top logo you can’t match the speaker so kinda frustrated just fix it and the red is not bright red Btw I did fix from the speaker but still fail.",
+  "aspects": [
+   {
+    "term": "speaker",
+    "polarity": "negative",
+    "start": 71,
+    "end": 78
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-201-0",
+  "text": "I have been hesitant in buying an expensive phone like this one.",
+  "aspects": [
+   {
+    "term": "expensive",
+    "polarity": "negative",
+    "start": 34,
+    "end": 43
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-201-2",
+  "text": "Glad I went for this as it works with no issues and performes perfectly",
+  "aspects": [
+   {
+    "term": "performes",
+    "polarity": "positive",
+    "start": 52,
+    "end": 61
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-202-0",
+  "text": "Overall phone is good, but one plus remove the 3.5mm Jack and right now facing bluetooth connectivity issue.",
+  "aspects": [
+   {
+    "term": "bluetooth connectivity",
+    "polarity": "negative",
+    "start": 79,
+    "end": 101
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-203-1",
+  "text": "the quality is OK for the price.",
+  "aspects": [
+   {
+    "term": "quality",
+    "polarity": "positive",
+    "start": 4,
+    "end": 11
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-204-0",
+  "text": "Fast delivery from seller, good quality and value for money.",
+  "aspects": [
+   {
+    "term": "delivery from seller",
+    "polarity": "positive",
+    "start": 5,
+    "end": 25
+   },
+   {
+    "term": "quality",
+    "polarity": "positive",
+    "start": 32,
+    "end": 39
+   },
+   {
+    "term": "value for money",
+    "polarity": "positive",
+    "start": 44,
+    "end": 59
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-205-0",
+  "text": "Great quality and swift delivery.",
+  "aspects": [
+   {
+    "term": "quality",
+    "polarity": "positive",
+    "start": 6,
+    "end": 13
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-206-0",
+  "text": "Cheap price and Okay use huawei earphone type C!",
+  "aspects": [
+   {
+    "term": "price",
+    "polarity": "positive",
+    "start": 6,
+    "end": 11
+   },
+   {
+    "term": "Okay use",
+    "polarity": "positive",
+    "start": 16,
+    "end": 24
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-209-2",
+  "text": "Seller did not give any solution and say that the scratches was not visible.",
+  "aspects": [
+   {
+    "term": "Seller",
+    "polarity": "negative",
+    "start": 0,
+    "end": 6
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-210-0",
+  "text": "Battery life is great.",
+  "aspects": [
+   {
+    "term": "Battery life",
+    "polarity": "positive",
+    "start": 0,
+    "end": 12
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-211-0",
+  "text": "A gift and excellent value for money.",
+  "aspects": [
+   {
+    "term": "value for money",
+    "polarity": "positive",
+    "start": 21,
+    "end": 36
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-212-0",
+  "text": "Does not have finger reader .amazing battery,camera.cast device avaliable.e even after falling from my hand there is no crack",
+  "aspects": [
+   {
+    "term": "finger reader",
+    "polarity": "negative",
+    "start": 14,
+    "end": 27
+   },
+   {
+    "term": "battery",
+    "polarity": "positive",
+    "start": 37,
+    "end": 44
+   },
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 45,
+    "end": 51
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-213-1",
+  "text": "The amazing iQOO Z3 5G handset comes with Panda Display Material.",
+  "aspects": [
+   {
+    "term": "Display Material",
+    "polarity": "positive",
+    "start": 48,
+    "end": 64
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-214-0",
+  "text": "The service is absolutely impressive!",
+  "aspects": [
+   {
+    "term": "service",
+    "polarity": "positive",
+    "start": 4,
+    "end": 11
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-215-0",
+  "text": "Second purchase from seller.",
+  "aspects": [
+   {
+    "term": "Second purchase from seller",
+    "polarity": "positive",
+    "start": 0,
+    "end": 27
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-217-0",
+  "text": "its 6gb and 128gb but performance is too bad 4gb +64gb 6GB +128 GB OPPO A31 has RAM: 4GB/ 6GB Storage: 64GB/ 128GB.",
+  "aspects": [
+   {
+    "term": "performance",
+    "polarity": "negative",
+    "start": 22,
+    "end": 33
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-220-0",
+  "text": "No fingerprint reader, dull battery life, drains very quickly, charges very very slowly.",
+  "aspects": [
+   {
+    "term": "fingerprint reader",
+    "polarity": "negative",
+    "start": 3,
+    "end": 21
+   },
+   {
+    "term": "battery life",
+    "polarity": "negative",
+    "start": 28,
+    "end": 40
+   },
+   {
+    "term": "drains",
+    "polarity": "negative",
+    "start": 42,
+    "end": 48
+   },
+   {
+    "term": "charges",
+    "polarity": "negative",
+    "start": 63,
+    "end": 70
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-220-1",
+  "text": "Poor camera quality, a simple button phone will have more Bright flashlight and what this phone has.",
+  "aspects": [
+   {
+    "term": "camera quality",
+    "polarity": "negative",
+    "start": 5,
+    "end": 19
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-220-2",
+  "text": "Please avoid buying this product.",
+  "aspects": [
+   {
+    "term": "Please avoid buying this product",
+    "polarity": "negative",
+    "start": 0,
+    "end": 32
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-222-0",
+  "text": "Item was well packed and fast delivery.",
+  "aspects": [
+   {
+    "term": "packed",
+    "polarity": "positive",
+    "start": 14,
+    "end": 20
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-225-0",
+  "text": "Package proper protection and delivered in good condition.",
+  "aspects": [
+   {
+    "term": "Package",
+    "polarity": "positive",
+    "start": 0,
+    "end": 7
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-226-0",
+  "text": "great product really works only a bit lag",
+  "aspects": [
+   {
+    "term": "lag",
+    "polarity": "negative",
+    "start": 38,
+    "end": 41
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-227-0",
+  "text": "Repeat order...the cleaning liquid is effective...buy the refill liquid...cheap and good",
+  "aspects": [
+   {
+    "term": "Repeat order",
+    "polarity": "positive",
+    "start": 0,
+    "end": 12
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-228-1",
+  "text": "super quality product.",
+  "aspects": [
+   {
+    "term": "quality product",
+    "polarity": "positive",
+    "start": 6,
+    "end": 21
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-229-0",
+  "text": "It is very good mush buy like the camera omg very good I love it",
+  "aspects": [
+   {
+    "term": "buy",
+    "polarity": "positive",
+    "start": 21,
+    "end": 24
+   },
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 34,
+    "end": 40
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-230-0",
+  "text": "Seller is easy going, the quality of the skin is much better than others .",
+  "aspects": [
+   {
+    "term": "Seller",
+    "polarity": "positive",
+    "start": 0,
+    "end": 6
+   },
+   {
+    "term": "quality of the skin",
+    "polarity": "positive",
+    "start": 26,
+    "end": 45
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-230-1",
+  "text": "Reasonable price for good quality, you cant ask more than that outside, delivery was quick Thumbs up seller!",
+  "aspects": [
+   {
+    "term": "price",
+    "polarity": "positive",
+    "start": 11,
+    "end": 16
+   },
+   {
+    "term": "quality",
+    "polarity": "positive",
+    "start": 26,
+    "end": 33
+   },
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 101,
+    "end": 107
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-231-1",
+  "text": "Although faced some issue installing Google Service, but seller is patience and guided me step by step.",
+  "aspects": [
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 57,
+    "end": 63
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-231-2",
+  "text": "Overall experience satisfied.",
+  "aspects": [
+   {
+    "term": "Overall experience",
+    "polarity": "positive",
+    "start": 0,
+    "end": 18
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-234-0",
+  "text": "Item arrived nicely packed in bubble wrap.",
+  "aspects": [
+   {
+    "term": "packed",
+    "polarity": "positive",
+    "start": 20,
+    "end": 26
+   },
+   {
+    "term": "bubble wrap",
+    "polarity": "neutral",
+    "start": 30,
+    "end": 41
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-235-1",
+  "text": "It feels really nice in the hand and the perfect size screen which is not too big nor too small.",
+  "aspects": [
+   {
+    "term": "in the hand",
+    "polarity": "positive",
+    "start": 21,
+    "end": 32
+   },
+   {
+    "term": "size screen",
+    "polarity": "positive",
+    "start": 49,
+    "end": 60
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-236-0",
+  "text": "Just sell a cellphone only no box no charger without notice anything before.im very upset spend $299 for this item (take attention for seller before you sale things check first with you centre ) thanks you",
+  "aspects": [
+   {
+    "term": "charger",
+    "polarity": "negative",
+    "start": 37,
+    "end": 44
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-237-0",
+  "text": "Very fast charge times and great value for money",
+  "aspects": [
+   {
+    "term": "charge times",
+    "polarity": "positive",
+    "start": 10,
+    "end": 22
+   },
+   {
+    "term": "value for money",
+    "polarity": "positive",
+    "start": 33,
+    "end": 48
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-238-1",
+  "text": "thanks seller for all the free gifts?",
+  "aspects": [
+   {
+    "term": "gifts",
+    "polarity": "positive",
+    "start": 31,
+    "end": 36
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-240-1",
+  "text": "Good screen protector, matte finish and no finger print.",
+  "aspects": [
+   {
+    "term": "screen protector",
+    "polarity": "positive",
+    "start": 5,
+    "end": 21
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-241-1",
+  "text": "Easy to apply, but prefer full screen coverage.",
+  "aspects": [
+   {
+    "term": "Easy to apply",
+    "polarity": "positive",
+    "start": 0,
+    "end": 13
+   },
+   {
+    "term": "full screen coverage",
+    "polarity": "positive",
+    "start": 26,
+    "end": 46
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-245-1",
+  "text": "Very fast shipping too!",
+  "aspects": [
+   {
+    "term": "shipping",
+    "polarity": "positive",
+    "start": 10,
+    "end": 18
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-246-0",
+  "text": "Not the cheapest deal but seller is very helpful and polite.",
+  "aspects": [
+   {
+    "term": "deal",
+    "polarity": "negative",
+    "start": 17,
+    "end": 21
+   },
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 26,
+    "end": 32
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-246-1",
+  "text": "6 months warranty by shop.",
+  "aspects": [
+   {
+    "term": "6 months warranty by shop",
+    "polarity": "neutral",
+    "start": 0,
+    "end": 25
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-247-2",
+  "text": "Box was sealed and came in bubble wrap for better protection.",
+  "aspects": [
+   {
+    "term": "bubble wrap",
+    "polarity": "positive",
+    "start": 27,
+    "end": 38
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-247-4",
+  "text": "It's OK but abit slow/lag but still manageable.",
+  "aspects": [
+   {
+    "term": "lag",
+    "polarity": "negative",
+    "start": 22,
+    "end": 25
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-248-1",
+  "text": "The screen suddenly wakes up in between the calls...",
+  "aspects": [
+   {
+    "term": "screen",
+    "polarity": "negative",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-248-3",
+  "text": "Battery life is good, not crazy.",
+  "aspects": [
+   {
+    "term": "Battery life",
+    "polarity": "positive",
+    "start": 0,
+    "end": 12
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-248-4",
+  "text": "Charging speed is average.",
+  "aspects": [
+   {
+    "term": "Charging speed",
+    "polarity": "neutral",
+    "start": 0,
+    "end": 14
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-248-5",
+  "text": "Google phone and contacts app is quite irritaing with no call recording and some complex unpractical features.",
+  "aspects": [
+   {
+    "term": "Google phone and contacts app",
+    "polarity": "negative",
+    "start": 0,
+    "end": 29
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-249-0",
+  "text": "Seller took their time to ship the item out, despite confirming that they will ship it on the same day I ordered.",
+  "aspects": [
+   {
+    "term": "ship the item out",
+    "polarity": "negative",
+    "start": 26,
+    "end": 43
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-250-0",
+  "text": "Gorgeous looking, the phone looks classy!",
+  "aspects": [
+   {
+    "term": "looking",
+    "polarity": "positive",
+    "start": 9,
+    "end": 16
+   },
+   {
+    "term": "looks",
+    "polarity": "positive",
+    "start": 28,
+    "end": 33
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-251-0",
+  "text": "Great features and comfortable to use.",
+  "aspects": [
+   {
+    "term": "comfortable to use",
+    "polarity": "positive",
+    "start": 19,
+    "end": 37
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-251-1",
+  "text": "Battery life is good.",
+  "aspects": [
+   {
+    "term": "Battery life",
+    "polarity": "positive",
+    "start": 0,
+    "end": 12
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-251-3",
+  "text": "Face recognition is good including screen sensitivity .",
+  "aspects": [
+   {
+    "term": "Face recognition",
+    "polarity": "positive",
+    "start": 0,
+    "end": 16
+   },
+   {
+    "term": "screen sensitivity",
+    "polarity": "positive",
+    "start": 35,
+    "end": 53
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-256-0",
+  "text": "Starting I have faced some app crash issues....but now I have been using it for almost 2 months and it's really smooth and I don't have any isues.....",
+  "aspects": [
+   {
+    "term": "app",
+    "polarity": "negative",
+    "start": 27,
+    "end": 30
+   },
+   {
+    "term": "smooth",
+    "polarity": "positive",
+    "start": 112,
+    "end": 118
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-257-1",
+  "text": "M1 sealed set really a good deal and good customer service response fast on my inquiry ...",
+  "aspects": [
+   {
+    "term": "deal",
+    "polarity": "positive",
+    "start": 28,
+    "end": 32
+   },
+   {
+    "term": "customer service",
+    "polarity": "positive",
+    "start": 42,
+    "end": 58
+   },
+   {
+    "term": "response",
+    "polarity": "positive",
+    "start": 59,
+    "end": 67
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-258-0",
+  "text": "So happy with this phone, in immaculate condition, battery health 100%, arrived a day early and from 32gb to 256gb I can now re-activate all my apps and stop seeing the annoying memory full messages.",
+  "aspects": [
+   {
+    "term": "battery health",
+    "polarity": "positive",
+    "start": 51,
+    "end": 65
+   },
+   {
+    "term": "32gb",
+    "polarity": "positive",
+    "start": 101,
+    "end": 105
+   },
+   {
+    "term": "256gb",
+    "polarity": "positive",
+    "start": 109,
+    "end": 114
+   },
+   {
+    "term": "annoying memory full messages",
+    "polarity": "positive",
+    "start": 169,
+    "end": 198
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-260-0",
+  "text": "Our devices come with lightning to usb cable, SIM pin and warranty card Hi, Thank you for your message.",
+  "aspects": [
+   {
+    "term": "lightning to usb cable",
+    "polarity": "positive",
+    "start": 22,
+    "end": 44
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-261-0",
+  "text": "5G 4g , only one band in 5g",
+  "aspects": [
+   {
+    "term": "5G",
+    "polarity": "negative",
+    "start": 0,
+    "end": 2
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-266-0",
+  "text": "Redmi note 9 : finger print touch is excellent !",
+  "aspects": [
+   {
+    "term": "finger print touch",
+    "polarity": "positive",
+    "start": 15,
+    "end": 33
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-266-1",
+  "text": "And that's feather touch screen is brilliant but , The battery back-up wasn't good as the price ratio, it have been 6000mah battery it good, but this device desopoint me!",
+  "aspects": [
+   {
+    "term": "feather touch screen",
+    "polarity": "positive",
+    "start": 11,
+    "end": 31
+   },
+   {
+    "term": "battery",
+    "polarity": "positive",
+    "start": 55,
+    "end": 62
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-266-2",
+  "text": "So all over product was nice as the price criteria , ?",
+  "aspects": [
+   {
+    "term": "price criteria",
+    "polarity": "positive",
+    "start": 36,
+    "end": 50
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-267-1",
+  "text": "All of the pieces are well made and easy to assemble.",
+  "aspects": [
+   {
+    "term": "easy to assemble",
+    "polarity": "positive",
+    "start": 36,
+    "end": 52
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-267-3",
+  "text": "Attaching it to my car couldn't have been easier; it was easy to attach securely without issues.",
+  "aspects": [
+   {
+    "term": "easy to attach",
+    "polarity": "positive",
+    "start": 57,
+    "end": 71
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-268-0",
+  "text": "good phone with a nice camera battery life - loses it fast but rapid recharge",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "positive",
+    "start": 30,
+    "end": 42
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-269-1",
+  "text": "Seller is very responsive, patient and supportive.",
+  "aspects": [
+   {
+    "term": "Seller",
+    "polarity": "positive",
+    "start": 0,
+    "end": 6
+   },
+   {
+    "term": "patient",
+    "polarity": "positive",
+    "start": 27,
+    "end": 34
+   },
+   {
+    "term": "supportive",
+    "polarity": "positive",
+    "start": 39,
+    "end": 49
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-269-2",
+  "text": "Very very happy with this purchase and I highly recommend this seller.",
+  "aspects": [
+   {
+    "term": "purchase",
+    "polarity": "positive",
+    "start": 26,
+    "end": 34
+   },
+   {
+    "term": "recommend",
+    "polarity": "positive",
+    "start": 48,
+    "end": 57
+   },
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 63,
+    "end": 69
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-270-2",
+  "text": "Price is cheap.",
+  "aspects": [
+   {
+    "term": "Price",
+    "polarity": "positive",
+    "start": 0,
+    "end": 5
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-271-0",
+  "text": "Protector was received packed in a soft case, good.",
+  "aspects": [
+   {
+    "term": "Protector",
+    "polarity": "positive",
+    "start": 0,
+    "end": 9
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-271-1",
+  "text": "IPhone 6+: screen protector covers only the display (black rectangle) as already informed by seller.?Sufficient for basic coverage.",
+  "aspects": [
+   {
+    "term": "protector",
+    "polarity": "positive",
+    "start": 18,
+    "end": 27
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-272-1",
+  "text": "Love the smart design.",
+  "aspects": [
+   {
+    "term": "smart design",
+    "polarity": "positive",
+    "start": 9,
+    "end": 21
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-272-2",
+  "text": "Great camera and resolution.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 6,
+    "end": 12
+   },
+   {
+    "term": "resolution",
+    "polarity": "positive",
+    "start": 17,
+    "end": 27
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-276-0",
+  "text": "Charging was not working so it was approved for return and refund",
+  "aspects": [
+   {
+    "term": "Charging",
+    "polarity": "negative",
+    "start": 0,
+    "end": 8
+   },
+   {
+    "term": "return and refund",
+    "polarity": "positive",
+    "start": 48,
+    "end": 65
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-277-0",
+  "text": "No case/cover in box.",
+  "aspects": [
+   {
+    "term": "case",
+    "polarity": "positive",
+    "start": 3,
+    "end": 7
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-277-5",
+  "text": "Some contain a case and a preapplied screen protector Mine came with a transparent back case,I bought another one a week later.",
+  "aspects": [
+   {
+    "term": "case",
+    "polarity": "positive",
+    "start": 15,
+    "end": 19
+   },
+   {
+    "term": "preapplied screen protector",
+    "polarity": "positive",
+    "start": 26,
+    "end": 53
+   },
+   {
+    "term": "transparent back case",
+    "polarity": "positive",
+    "start": 71,
+    "end": 92
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-277-6",
+  "text": "The A52 5G comes with a protective case in the box, yes!",
+  "aspects": [
+   {
+    "term": "protective case",
+    "polarity": "positive",
+    "start": 24,
+    "end": 39
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-278-1",
+  "text": "Phone came in original packing with a free clear phone case.",
+  "aspects": [
+   {
+    "term": "phone case",
+    "polarity": "positive",
+    "start": 49,
+    "end": 59
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-280-1",
+  "text": "The colour is very nice.",
+  "aspects": [
+   {
+    "term": "colour",
+    "polarity": "positive",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-281-0",
+  "text": "Worst phone, don't buy anybody,,,,,,, after one month phone will be fully hanging",
+  "aspects": [
+   {
+    "term": "buy",
+    "polarity": "negative",
+    "start": 19,
+    "end": 22
+   },
+   {
+    "term": "hanging",
+    "polarity": "negative",
+    "start": 74,
+    "end": 81
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-282-0",
+  "text": "It's camera quality is very good also the battery life is also good...really satisfied about the product...",
+  "aspects": [
+   {
+    "term": "camera quality",
+    "polarity": "positive",
+    "start": 5,
+    "end": 19
+   },
+   {
+    "term": "battery life",
+    "polarity": "positive",
+    "start": 42,
+    "end": 54
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-284-2",
+  "text": "After moderate use, the battery lasts for more than 48 hours.",
+  "aspects": [
+   {
+    "term": "battery",
+    "polarity": "positive",
+    "start": 24,
+    "end": 31
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-284-3",
+  "text": "The display has a decent size, the image is crystal clear, voice is very good, it is simple to use.",
+  "aspects": [
+   {
+    "term": "display",
+    "polarity": "positive",
+    "start": 4,
+    "end": 11
+   },
+   {
+    "term": "image",
+    "polarity": "positive",
+    "start": 35,
+    "end": 40
+   },
+   {
+    "term": "voice",
+    "polarity": "positive",
+    "start": 59,
+    "end": 64
+   },
+   {
+    "term": "simple to use",
+    "polarity": "positive",
+    "start": 85,
+    "end": 98
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-285-0",
+  "text": "It’s really good new product and value for money",
+  "aspects": [
+   {
+    "term": "value for money",
+    "polarity": "positive",
+    "start": 33,
+    "end": 48
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-286-1",
+  "text": "the only thing is a bit pricey",
+  "aspects": [
+   {
+    "term": "pricey",
+    "polarity": "negative",
+    "start": 24,
+    "end": 30
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-288-0",
+  "text": "Item packed in a used dirty looking mask box.",
+  "aspects": [
+   {
+    "term": "mask box",
+    "polarity": "negative",
+    "start": 36,
+    "end": 44
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-289-4",
+  "text": "The seller was friendly and she was prompt on answering my queries.",
+  "aspects": [
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 4,
+    "end": 10
+   },
+   {
+    "term": "answering my queries",
+    "polarity": "positive",
+    "start": 46,
+    "end": 66
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-289-5",
+  "text": "Thank you so much seller!",
+  "aspects": [
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 18,
+    "end": 24
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-292-0",
+  "text": "Battery is great last for age's really happy with this phone",
+  "aspects": [
+   {
+    "term": "Battery",
+    "polarity": "positive",
+    "start": 0,
+    "end": 7
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-293-0",
+  "text": "Received my hp in good condition,function everythings ok.Is my repent order,bought it during sales.Worth it",
+  "aspects": [
+   {
+    "term": "order",
+    "polarity": "positive",
+    "start": 70,
+    "end": 75
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-294-1",
+  "text": "Bad purchase experience with Samsung.",
+  "aspects": [
+   {
+    "term": "purchase experience with Samsung",
+    "polarity": "negative",
+    "start": 4,
+    "end": 36
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-297-1",
+  "text": "The quality can't be beat and neither can the price, I would highly recommend this phone.",
+  "aspects": [
+   {
+    "term": "quality",
+    "polarity": "positive",
+    "start": 4,
+    "end": 11
+   },
+   {
+    "term": "price",
+    "polarity": "positive",
+    "start": 46,
+    "end": 51
+   },
+   {
+    "term": "recommend this phone",
+    "polarity": "positive",
+    "start": 68,
+    "end": 88
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-301-0",
+  "text": "\"Hi Riya, Galaxy M51 comes with 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase.",
+  "aspects": [
+   {
+    "term": "1 year manufacturer warranty",
+    "polarity": "positive",
+    "start": 32,
+    "end": 60
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-301-2",
+  "text": "It comes with a brand warranty of 1 year and manufacturer warranty of 6 months Yes Worst Phone Dont Buy it",
+  "aspects": [
+   {
+    "term": "brand warranty of 1 year",
+    "polarity": "positive",
+    "start": 16,
+    "end": 40
+   },
+   {
+    "term": "manufacturer warranty of 6 months",
+    "polarity": "positive",
+    "start": 45,
+    "end": 78
+   },
+   {
+    "term": "Buy",
+    "polarity": "negative",
+    "start": 100,
+    "end": 103
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-302-6",
+  "text": "Communications with seller is great.",
+  "aspects": [
+   {
+    "term": "Communications with seller",
+    "polarity": "positive",
+    "start": 0,
+    "end": 26
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-303-0",
+  "text": "Great phone , excellent camera, sound and picture.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 24,
+    "end": 30
+   },
+   {
+    "term": "sound",
+    "polarity": "positive",
+    "start": 32,
+    "end": 37
+   },
+   {
+    "term": "picture",
+    "polarity": "positive",
+    "start": 42,
+    "end": 49
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-303-1",
+  "text": "Battery life average.",
+  "aspects": [
+   {
+    "term": "Battery life",
+    "polarity": "neutral",
+    "start": 0,
+    "end": 12
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-304-0",
+  "text": "Fiber Dear Customer, Galaxy M31 comes in a Premium Polycarbonate design.",
+  "aspects": [
+   {
+    "term": "Premium Polycarbonate design",
+    "polarity": "neutral",
+    "start": 43,
+    "end": 71
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-304-2",
+  "text": "Regards, Samsung India Dear Customer, Galaxy M31 comes in a Premium Polycarbonate design.",
+  "aspects": [
+   {
+    "term": "Premium Polycarbonate design",
+    "polarity": "neutral",
+    "start": 60,
+    "end": 88
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-306-1",
+  "text": "Quality seems good.",
+  "aspects": [
+   {
+    "term": "Quality",
+    "polarity": "positive",
+    "start": 0,
+    "end": 7
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-307-0",
+  "text": "\"Hi Anish, Galaxy M51 supports solid security feature 'Fingerprint sensor' (Side mounted).",
+  "aspects": [
+   {
+    "term": "feature 'Fingerprint sensor'",
+    "polarity": "positive",
+    "start": 46,
+    "end": 74
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-307-2",
+  "text": "Regards, Samsung India\" Yes \"Hi Anish, Galaxy M51 supports solid security feature 'Fingerprint sensor' (Side mounted).",
+  "aspects": [
+   {
+    "term": "feature 'Fingerprint sensor'",
+    "polarity": "positive",
+    "start": 74,
+    "end": 102
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-307-5",
+  "text": "However I can confirm this phone has finger print lock security.",
+  "aspects": [
+   {
+    "term": "finger print lock security",
+    "polarity": "positive",
+    "start": 37,
+    "end": 63
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-309-0",
+  "text": "I got this model as not only was it not too expensive, but it also had a fairly good amount of space so I can have a few apps for work as well as some personal ones.",
+  "aspects": [
+   {
+    "term": "expensive",
+    "polarity": "positive",
+    "start": 44,
+    "end": 53
+   },
+   {
+    "term": "amount of space",
+    "polarity": "positive",
+    "start": 85,
+    "end": 100
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-309-1",
+  "text": "The battery also lasts quite a while, so much better than my old phone.",
+  "aspects": [
+   {
+    "term": "battery",
+    "polarity": "positive",
+    "start": 4,
+    "end": 11
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-309-4",
+  "text": "Also missing the fingerprint log in function but it is something you can live without.",
+  "aspects": [
+   {
+    "term": "fingerprint log in function",
+    "polarity": "negative",
+    "start": 17,
+    "end": 44
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-309-5",
+  "text": "All 5 stars except for the fingerprint reader since it doesn't have one.",
+  "aspects": [
+   {
+    "term": "fingerprint reader",
+    "polarity": "negative",
+    "start": 27,
+    "end": 45
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-310-3",
+  "text": "If you want an iPhone that is amazing for a good price get the new SE or the XR (Mine was a one off I presume) but if you have more money to spend buy the IPhone 11 or up.",
+  "aspects": [
+   {
+    "term": "amazing for a good price",
+    "polarity": "positive",
+    "start": 30,
+    "end": 54
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-311-3",
+  "text": "Comes with case and screen protector.",
+  "aspects": [
+   {
+    "term": "case",
+    "polarity": "positive",
+    "start": 11,
+    "end": 15
+   },
+   {
+    "term": "screen protector",
+    "polarity": "positive",
+    "start": 20,
+    "end": 36
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-312-4",
+  "text": "I simply wanted a phone with a good battery and a good camera.",
+  "aspects": [
+   {
+    "term": "battery",
+    "polarity": "positive",
+    "start": 36,
+    "end": 43
+   },
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 55,
+    "end": 61
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-312-6",
+  "text": "Still shocked at the price after having a galaxy s9.",
+  "aspects": [
+   {
+    "term": "price",
+    "polarity": "positive",
+    "start": 21,
+    "end": 26
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-313-0",
+  "text": "One of the most beautiful cases you can get for your Note 10 Plus.",
+  "aspects": [
+   {
+    "term": "cases",
+    "polarity": "positive",
+    "start": 26,
+    "end": 31
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-314-1",
+  "text": "1 for a dedicated sim card and the second an optional 2nd sim card or sd card capable of up to 64gb I think.",
+  "aspects": [
+   {
+    "term": "capable of up to 64gb",
+    "polarity": "positive",
+    "start": 78,
+    "end": 99
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-314-2",
+  "text": "Yes, there is memory card which supports external SD card up to 256GB Yes, covered by a water resistant plug.",
+  "aspects": [
+   {
+    "term": "256GB",
+    "polarity": "neutral",
+    "start": 64,
+    "end": 69
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-315-2",
+  "text": "Came in bubble wrapped.",
+  "aspects": [
+   {
+    "term": "Came in bubble wrapped",
+    "polarity": "neutral",
+    "start": 0,
+    "end": 22
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-316-1",
+  "text": "Loving the sound and battery life.",
+  "aspects": [
+   {
+    "term": "sound",
+    "polarity": "positive",
+    "start": 11,
+    "end": 16
+   },
+   {
+    "term": "battery life",
+    "polarity": "positive",
+    "start": 21,
+    "end": 33
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-316-3",
+  "text": "Seller provided timely delivery updates and answers all queries patiently",
+  "aspects": [
+   {
+    "term": "answers all queries",
+    "polarity": "positive",
+    "start": 44,
+    "end": 63
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-317-1",
+  "text": "Easy to unstall google play.",
+  "aspects": [
+   {
+    "term": "unstall google play",
+    "polarity": "positive",
+    "start": 8,
+    "end": 27
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-317-2",
+  "text": "Most apps work well from google playstore but unable to install chrome only.",
+  "aspects": [
+   {
+    "term": "Most apps",
+    "polarity": "positive",
+    "start": 0,
+    "end": 9
+   },
+   {
+    "term": "chrome",
+    "polarity": "negative",
+    "start": 64,
+    "end": 70
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-318-0",
+  "text": "Could not hear anything when ringing someone and they could not hear me.",
+  "aspects": [
+   {
+    "term": "hear",
+    "polarity": "negative",
+    "start": 10,
+    "end": 14
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-319-0",
+  "text": "It's camera quality is not so good otherwise ok",
+  "aspects": [
+   {
+    "term": "camera quality",
+    "polarity": "negative",
+    "start": 5,
+    "end": 19
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-321-0",
+  "text": "Good phone for the price, fast and responsive,very good camera setup which attracted me to it.",
+  "aspects": [
+   {
+    "term": "phone for the price",
+    "polarity": "positive",
+    "start": 5,
+    "end": 24
+   },
+   {
+    "term": "fast",
+    "polarity": "positive",
+    "start": 26,
+    "end": 30
+   },
+   {
+    "term": "responsive",
+    "polarity": "positive",
+    "start": 35,
+    "end": 45
+   },
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 56,
+    "end": 62
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-321-1",
+  "text": "Finger print reader very responsive, battery life is good but I've had better, ease of use is very good.",
+  "aspects": [
+   {
+    "term": "Finger print reader",
+    "polarity": "positive",
+    "start": 0,
+    "end": 19
+   },
+   {
+    "term": "responsive",
+    "polarity": "positive",
+    "start": 25,
+    "end": 35
+   },
+   {
+    "term": "battery life",
+    "polarity": "positive",
+    "start": 37,
+    "end": 49
+   },
+   {
+    "term": "ease of use",
+    "polarity": "positive",
+    "start": 79,
+    "end": 90
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-323-0",
+  "text": "Efficient and definitely reliable as the product is 100% genuine.",
+  "aspects": [
+   {
+    "term": "Efficient",
+    "polarity": "positive",
+    "start": 0,
+    "end": 9
+   },
+   {
+    "term": "reliable",
+    "polarity": "positive",
+    "start": 25,
+    "end": 33
+   },
+   {
+    "term": "genuine",
+    "polarity": "positive",
+    "start": 57,
+    "end": 64
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-323-1",
+  "text": "Very good price too!",
+  "aspects": [
+   {
+    "term": "price",
+    "polarity": "positive",
+    "start": 10,
+    "end": 15
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-324-2",
+  "text": "The phone turns out to be a bit more chunky than I thought but ok as my spare phone.",
+  "aspects": [
+   {
+    "term": "chunky",
+    "polarity": "negative",
+    "start": 37,
+    "end": 43
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-325-0",
+  "text": "I have been using Redmi phone from 2016 onwards and these are really cool phones, note10 is also nice related with camera quality, battery, charging.",
+  "aspects": [
+   {
+    "term": "camera quality",
+    "polarity": "positive",
+    "start": 115,
+    "end": 129
+   },
+   {
+    "term": "battery",
+    "polarity": "positive",
+    "start": 131,
+    "end": 138
+   },
+   {
+    "term": "charging",
+    "polarity": "positive",
+    "start": 140,
+    "end": 148
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-325-1",
+  "text": "Pros: Charging is very fast Camera quality is nice Battery life is longer Performance wise it's great as i play around 10games a day without any lag/latency",
+  "aspects": [
+   {
+    "term": "Charging",
+    "polarity": "positive",
+    "start": 6,
+    "end": 14
+   },
+   {
+    "term": "Camera quality",
+    "polarity": "positive",
+    "start": 28,
+    "end": 42
+   },
+   {
+    "term": "Battery",
+    "polarity": "positive",
+    "start": 51,
+    "end": 58
+   },
+   {
+    "term": "Performance wise",
+    "polarity": "positive",
+    "start": 74,
+    "end": 90
+   },
+   {
+    "term": "lag",
+    "polarity": "positive",
+    "start": 145,
+    "end": 148
+   },
+   {
+    "term": "latency",
+    "polarity": "positive",
+    "start": 149,
+    "end": 156
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-327-1",
+  "text": "Seller very responsive to questions and price is cheaper than samsung retail shop.",
+  "aspects": [
+   {
+    "term": "Seller",
+    "polarity": "positive",
+    "start": 0,
+    "end": 6
+   },
+   {
+    "term": "price",
+    "polarity": "positive",
+    "start": 40,
+    "end": 45
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-327-2",
+  "text": "Item is authentic and product is exactly as what is selling in shop with 1 year samsung warranty.",
+  "aspects": [
+   {
+    "term": "authentic",
+    "polarity": "positive",
+    "start": 8,
+    "end": 17
+   },
+   {
+    "term": "1 year samsung warranty",
+    "polarity": "positive",
+    "start": 73,
+    "end": 96
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-329-0",
+  "text": "Cheap and good I phone x max back temper class .",
+  "aspects": [
+   {
+    "term": "Cheap",
+    "polarity": "positive",
+    "start": 0,
+    "end": 5
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-329-1",
+  "text": "Value for money 5 days can receive item delivery also , ok for me?",
+  "aspects": [
+   {
+    "term": "Value for money",
+    "polarity": "positive",
+    "start": 0,
+    "end": 15
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-331-1",
+  "text": "So far charging is as fast as first time.",
+  "aspects": [
+   {
+    "term": "charging",
+    "polarity": "positive",
+    "start": 7,
+    "end": 15
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-332-0",
+  "text": "Brilliant value for money.",
+  "aspects": [
+   {
+    "term": "Brilliant value for money",
+    "polarity": "positive",
+    "start": 0,
+    "end": 25
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-332-1",
+  "text": "Fast and effective use of WiFi and fantastic colours.",
+  "aspects": [
+   {
+    "term": "WiFi",
+    "polarity": "positive",
+    "start": 26,
+    "end": 30
+   },
+   {
+    "term": "colours",
+    "polarity": "positive",
+    "start": 45,
+    "end": 52
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-332-2",
+  "text": "Easy to use.",
+  "aspects": [
+   {
+    "term": "Easy to use",
+    "polarity": "positive",
+    "start": 0,
+    "end": 11
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-333-0",
+  "text": "Battery is good, Fast charging, Good Network strength, Good Sound quality, satisfied with this Phone",
+  "aspects": [
+   {
+    "term": "Battery",
+    "polarity": "positive",
+    "start": 0,
+    "end": 7
+   },
+   {
+    "term": "charging",
+    "polarity": "positive",
+    "start": 22,
+    "end": 30
+   },
+   {
+    "term": "Network strength",
+    "polarity": "positive",
+    "start": 37,
+    "end": 53
+   },
+   {
+    "term": "Sound quality",
+    "polarity": "positive",
+    "start": 60,
+    "end": 73
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-334-0",
+  "text": "Very easy, you just drag the side of your hand across the screen (left to right).",
+  "aspects": [
+   {
+    "term": "easy",
+    "polarity": "positive",
+    "start": 5,
+    "end": 9
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-337-2",
+  "text": "They took one day to reply but have to admit they are fast delivery that why i give 3 star.",
+  "aspects": [
+   {
+    "term": "reply",
+    "polarity": "negative",
+    "start": 21,
+    "end": 26
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-338-0",
+  "text": "Yes, the outdoor smartphone is unlocked and accept any network.",
+  "aspects": [
+   {
+    "term": "network",
+    "polarity": "positive",
+    "start": 55,
+    "end": 62
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-339-1",
+  "text": "Comes with full set of accessories.",
+  "aspects": [
+   {
+    "term": "Comes",
+    "polarity": "positive",
+    "start": 0,
+    "end": 5
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-340-0",
+  "text": "I received the Bluetooth, it’s really small, looks cute, and the sound is very good.",
+  "aspects": [
+   {
+    "term": "small",
+    "polarity": "positive",
+    "start": 38,
+    "end": 43
+   },
+   {
+    "term": "looks",
+    "polarity": "positive",
+    "start": 45,
+    "end": 50
+   },
+   {
+    "term": "sound",
+    "polarity": "positive",
+    "start": 65,
+    "end": 70
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-341-0",
+  "text": "Itwms rcved in good condition, well packed and everythg sealed.",
+  "aspects": [
+   {
+    "term": "packed",
+    "polarity": "positive",
+    "start": 36,
+    "end": 42
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-342-1",
+  "text": "Seller would not honour any guarantee and I had to contact manufacturer myself to organise a repair which will take approximately two weeks.",
+  "aspects": [
+   {
+    "term": "contact manufacturer myself to organise a repair",
+    "polarity": "negative",
+    "start": 51,
+    "end": 99
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-342-2",
+  "text": "Would not buy from Amazon marketplace again and definitely not buy from this seller.",
+  "aspects": [
+   {
+    "term": "Would not buy from Amazon marketplace again",
+    "polarity": "negative",
+    "start": 0,
+    "end": 43
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-343-0",
+  "text": "Goods received with good condition, well packed and nice colour ????????",
+  "aspects": [
+   {
+    "term": "packed",
+    "polarity": "positive",
+    "start": 41,
+    "end": 47
+   },
+   {
+    "term": "colour",
+    "polarity": "positive",
+    "start": 57,
+    "end": 63
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-344-2",
+  "text": "Regards, Samsung India\" nice battery life personally experienced \"Hi Bikash, Galaxy M31 has 26 Hours of video playback, 48 hours of voice call, 119 hours of music playback.",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "positive",
+    "start": 29,
+    "end": 41
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-345-0",
+  "text": "Fast delivery within 4 working days and items is well packed with thick bubble wraps.",
+  "aspects": [
+   {
+    "term": "thick bubble wraps",
+    "polarity": "positive",
+    "start": 66,
+    "end": 84
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-345-2",
+  "text": "However it’s even more suitable for IT less savy person~ I bought it for my mom and she finds it very easy to use and she loves the screen size!",
+  "aspects": [
+   {
+    "term": "IT less savy person",
+    "polarity": "positive",
+    "start": 36,
+    "end": 55
+   },
+   {
+    "term": "easy to use",
+    "polarity": "positive",
+    "start": 102,
+    "end": 113
+   },
+   {
+    "term": "screen size",
+    "polarity": "positive",
+    "start": 132,
+    "end": 143
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-346-0",
+  "text": "Just cannot charge very well I do not know why",
+  "aspects": [
+   {
+    "term": "charge very well I",
+    "polarity": "negative",
+    "start": 12,
+    "end": 30
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-347-0",
+  "text": "Hubby likes it, what more can I say?",
+  "aspects": [
+   {
+    "term": "Hubby",
+    "polarity": "positive",
+    "start": 0,
+    "end": 5
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-348-0",
+  "text": "Amazing quality abd fast delivery .",
+  "aspects": [
+   {
+    "term": "quality",
+    "polarity": "positive",
+    "start": 8,
+    "end": 15
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-348-1",
+  "text": "Will buy again.",
+  "aspects": [
+   {
+    "term": "buy again",
+    "polarity": "positive",
+    "start": 5,
+    "end": 14
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-349-0",
+  "text": "Excellent phone good quality sound.",
+  "aspects": [
+   {
+    "term": "quality sound",
+    "polarity": "positive",
+    "start": 21,
+    "end": 34
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-349-1",
+  "text": "Really good phone at a sensible price.",
+  "aspects": [
+   {
+    "term": "price",
+    "polarity": "positive",
+    "start": 32,
+    "end": 37
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-349-2",
+  "text": "Absolutely I bought it for my wife I wear two hearing aids but that phone is so loud I ask her to turn it down",
+  "aspects": [
+   {
+    "term": "loud",
+    "polarity": "positive",
+    "start": 80,
+    "end": 84
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-350-2",
+  "text": "Hope it will last and will buy again",
+  "aspects": [
+   {
+    "term": "buy again",
+    "polarity": "positive",
+    "start": 27,
+    "end": 36
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-351-0",
+  "text": "Super battery life and charging speed and good camera quality",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "positive",
+    "start": 6,
+    "end": 18
+   },
+   {
+    "term": "charging speed",
+    "polarity": "positive",
+    "start": 23,
+    "end": 37
+   },
+   {
+    "term": "camera quality",
+    "polarity": "positive",
+    "start": 47,
+    "end": 61
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-352-1",
+  "text": "Item came nicely packed with many free gifts.",
+  "aspects": [
+   {
+    "term": "packed",
+    "polarity": "positive",
+    "start": 17,
+    "end": 23
+   },
+   {
+    "term": "free gifts",
+    "polarity": "positive",
+    "start": 34,
+    "end": 44
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-352-2",
+  "text": "Seller was very responsive and nice to let me reorder so I could use a better discount voucher.",
+  "aspects": [
+   {
+    "term": "Seller",
+    "polarity": "positive",
+    "start": 0,
+    "end": 6
+   },
+   {
+    "term": "responsive",
+    "polarity": "positive",
+    "start": 16,
+    "end": 26
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-352-3",
+  "text": "Highly recommend this seller!",
+  "aspects": [
+   {
+    "term": "recommend",
+    "polarity": "positive",
+    "start": 7,
+    "end": 16
+   },
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 22,
+    "end": 28
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-353-1",
+  "text": "I put it on charge it went to 100% and the screen went blank, very disappointing.",
+  "aspects": [
+   {
+    "term": "screen",
+    "polarity": "negative",
+    "start": 43,
+    "end": 49
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-354-0",
+  "text": "Great all round phone.tiny bit larger than I thought but apart from that I'm really happy",
+  "aspects": [
+   {
+    "term": "larger",
+    "polarity": "neutral",
+    "start": 31,
+    "end": 37
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-355-4",
+  "text": "Happy with my purchase!",
+  "aspects": [
+   {
+    "term": "my purchase",
+    "polarity": "positive",
+    "start": 11,
+    "end": 22
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-356-0",
+  "text": "Very fast delivery and phone was well protected",
+  "aspects": [
+   {
+    "term": "well protected",
+    "polarity": "positive",
+    "start": 33,
+    "end": 47
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-357-1",
+  "text": "Will definitely get one for my bf the next flash sale",
+  "aspects": [
+   {
+    "term": "get one for my bf",
+    "polarity": "positive",
+    "start": 16,
+    "end": 33
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-358-0",
+  "text": "Better not to purchase gadgets from online!",
+  "aspects": [
+   {
+    "term": "purchase",
+    "polarity": "negative",
+    "start": 14,
+    "end": 22
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-358-2",
+  "text": "Super slow phone Battery drains damn fast Camera stuck at landscape mode Android version old but youtube does not function at all Keep notifying about unauthorized access all the time",
+  "aspects": [
+   {
+    "term": "slow",
+    "polarity": "negative",
+    "start": 6,
+    "end": 10
+   },
+   {
+    "term": "Battery drains",
+    "polarity": "negative",
+    "start": 17,
+    "end": 31
+   },
+   {
+    "term": "Camera",
+    "polarity": "negative",
+    "start": 42,
+    "end": 48
+   },
+   {
+    "term": "youtube",
+    "polarity": "negative",
+    "start": 97,
+    "end": 104
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-360-0",
+  "text": "Easy to configure..",
+  "aspects": [
+   {
+    "term": "Easy to configure",
+    "polarity": "positive",
+    "start": 0,
+    "end": 17
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-360-1",
+  "text": "seller very responsive and when i told him have no google playstore, he sent me instructions via email.",
+  "aspects": [
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 0,
+    "end": 6
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-360-2",
+  "text": "5 stars for service and phone.",
+  "aspects": [
+   {
+    "term": "service",
+    "polarity": "positive",
+    "start": 12,
+    "end": 19
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-361-0",
+  "text": "6gb and 64GB variant is currently not available in India because of the shortage but you can wait this might be available in next two or three months.",
+  "aspects": [
+   {
+    "term": "6gb",
+    "polarity": "negative",
+    "start": 0,
+    "end": 3
+   },
+   {
+    "term": "64GB",
+    "polarity": "negative",
+    "start": 8,
+    "end": 12
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-361-1",
+  "text": "You can also check the MI India store if they are selling 64GB variant then you can buy from them as well and you can try on local sellers as well.",
+  "aspects": [
+   {
+    "term": "64GB",
+    "polarity": "negative",
+    "start": 58,
+    "end": 62
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-362-1",
+  "text": "No instructions within the box but setting up is pretty straightforward.",
+  "aspects": [
+   {
+    "term": "instructions",
+    "polarity": "negative",
+    "start": 3,
+    "end": 15
+   },
+   {
+    "term": "setting up is pretty straightforward",
+    "polarity": "positive",
+    "start": 35,
+    "end": 71
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-362-3",
+  "text": "Very satisfied with my purchase :)",
+  "aspects": [
+   {
+    "term": "purchase",
+    "polarity": "positive",
+    "start": 23,
+    "end": 31
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-365-0",
+  "text": "Ok the product is pretty much good , it's battery is 6000mah but it doesn't work like it's worth ....",
+  "aspects": [
+   {
+    "term": "battery is 6000mah",
+    "polarity": "negative",
+    "start": 42,
+    "end": 60
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-365-1",
+  "text": "back camera is good but the front is not that great after all the phone is good with it's options and storage",
+  "aspects": [
+   {
+    "term": "back camera",
+    "polarity": "positive",
+    "start": 0,
+    "end": 11
+   },
+   {
+    "term": "front",
+    "polarity": "negative",
+    "start": 28,
+    "end": 33
+   },
+   {
+    "term": "storage",
+    "polarity": "positive",
+    "start": 102,
+    "end": 109
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-366-0",
+  "text": "Delivery about 7 days to arrive, soft surface with magnetic closed",
+  "aspects": [
+   {
+    "term": "surface",
+    "polarity": "positive",
+    "start": 38,
+    "end": 45
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-367-0",
+  "text": "Perfect smartphone gor anyone +ONE UI, amoled display, optimized software, less weight, -camera not class leading, haptic feedback is poor",
+  "aspects": [
+   {
+    "term": "software",
+    "polarity": "positive",
+    "start": 65,
+    "end": 73
+   },
+   {
+    "term": "weight",
+    "polarity": "positive",
+    "start": 80,
+    "end": 86
+   },
+   {
+    "term": "camera",
+    "polarity": "negative",
+    "start": 89,
+    "end": 95
+   },
+   {
+    "term": "haptic feedback",
+    "polarity": "negative",
+    "start": 115,
+    "end": 130
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-368-0",
+  "text": "No cover is given in the box.",
+  "aspects": [
+   {
+    "term": "cover",
+    "polarity": "negative",
+    "start": 3,
+    "end": 8
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-373-2",
+  "text": "Seller is prompt to reply to messages but does not seem to listen properly to requests.",
+  "aspects": [
+   {
+    "term": "Seller",
+    "polarity": "positive",
+    "start": 0,
+    "end": 6
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-374-1",
+  "text": "PROS: Very pleased, easy to use, lots of features, fast, in fact all I wanted and hoped for other than the, CONS: Too big for my size of hand and too heavy.",
+  "aspects": [
+   {
+    "term": "easy to use",
+    "polarity": "positive",
+    "start": 20,
+    "end": 31
+   },
+   {
+    "term": "fast",
+    "polarity": "positive",
+    "start": 51,
+    "end": 55
+   },
+   {
+    "term": "big",
+    "polarity": "negative",
+    "start": 118,
+    "end": 121
+   },
+   {
+    "term": "heavy",
+    "polarity": "negative",
+    "start": 150,
+    "end": 155
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-375-0",
+  "text": "friendly & patient!",
+  "aspects": [
+   {
+    "term": "friendly & patient",
+    "polarity": "positive",
+    "start": 0,
+    "end": 18
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-375-1",
+  "text": "willing to answer any questions ^^ quality is pretty much good too, except with some dirt & the ears cant stay in shape for long :-( but all's well?",
+  "aspects": [
+   {
+    "term": "quality",
+    "polarity": "positive",
+    "start": 35,
+    "end": 42
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-375-4",
+  "text": "ill buy from her again :-)",
+  "aspects": [
+   {
+    "term": "ill buy from her again",
+    "polarity": "positive",
+    "start": 0,
+    "end": 22
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-377-0",
+  "text": "Nice very good ,,very smooth..its magic of amoled display bro",
+  "aspects": [
+   {
+    "term": "magic of amoled display",
+    "polarity": "positive",
+    "start": 34,
+    "end": 57
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-379-0",
+  "text": "The phone is 6.49 inch and it's 260g, lightweight.",
+  "aspects": [
+   {
+    "term": "6.49 inch",
+    "polarity": "neutral",
+    "start": 13,
+    "end": 22
+   },
+   {
+    "term": "260g",
+    "polarity": "neutral",
+    "start": 32,
+    "end": 36
+   },
+   {
+    "term": "weight",
+    "polarity": "positive",
+    "start": 43,
+    "end": 49
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-379-1",
+  "text": "Among many rugged phones, WP8PRO has the largest screen and the thinnest body No its thick and heavy, its a rugged phone so its strong",
+  "aspects": [
+   {
+    "term": "rugged",
+    "polarity": "positive",
+    "start": 11,
+    "end": 17
+   },
+   {
+    "term": "screen",
+    "polarity": "positive",
+    "start": 49,
+    "end": 55
+   },
+   {
+    "term": "body",
+    "polarity": "positive",
+    "start": 73,
+    "end": 77
+   },
+   {
+    "term": "thick",
+    "polarity": "negative",
+    "start": 85,
+    "end": 90
+   },
+   {
+    "term": "heavy",
+    "polarity": "negative",
+    "start": 95,
+    "end": 100
+   },
+   {
+    "term": "strong",
+    "polarity": "positive",
+    "start": 128,
+    "end": 134
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-380-4",
+  "text": "Blue tooth is ropey at best.",
+  "aspects": [
+   {
+    "term": "Blue tooth",
+    "polarity": "negative",
+    "start": 0,
+    "end": 10
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-381-0",
+  "text": "Ok phone , battery pack up is less",
+  "aspects": [
+   {
+    "term": "battery pack up",
+    "polarity": "negative",
+    "start": 11,
+    "end": 26
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-383-0",
+  "text": "The phone works well and has GMS inside, easy to install Play Store.",
+  "aspects": [
+   {
+    "term": "easy to install",
+    "polarity": "positive",
+    "start": 41,
+    "end": 56
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-383-1",
+  "text": "Seller shipped out phone and delivery was very smooth by DPE Express.",
+  "aspects": [
+   {
+    "term": "Seller shipped out phone",
+    "polarity": "positive",
+    "start": 0,
+    "end": 24
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-383-2",
+  "text": "Appreciate seller’s quick reply to my questions through the chat.",
+  "aspects": [
+   {
+    "term": "seller’s quick reply to my questions",
+    "polarity": "positive",
+    "start": 11,
+    "end": 47
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-386-2",
+  "text": "Its a good buy as packaging is full.",
+  "aspects": [
+   {
+    "term": "packaging",
+    "polarity": "positive",
+    "start": 18,
+    "end": 27
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-388-0",
+  "text": "Not Ear phones are not available.",
+  "aspects": [
+   {
+    "term": "Not Ear phones",
+    "polarity": "negative",
+    "start": 0,
+    "end": 14
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-388-1",
+  "text": "option to insert ear phones is there \"Hi Rahul, As Most users have specific preference for earphones hence earphones have not been included to give you the flexibility of buying earphones of your choice according to your needs.",
+  "aspects": [
+   {
+    "term": "earphones",
+    "polarity": "negative",
+    "start": 91,
+    "end": 100
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-389-0",
+  "text": "Item received as per purchase order.",
+  "aspects": [
+   {
+    "term": "purchase",
+    "polarity": "positive",
+    "start": 21,
+    "end": 29
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-389-1",
+  "text": "Was nicely packed and wrapped to ensure the product is not damaged during delivery.",
+  "aspects": [
+   {
+    "term": "packed",
+    "polarity": "positive",
+    "start": 11,
+    "end": 17
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-389-2",
+  "text": "Fits the tablet perfectly.Good purchase!!!",
+  "aspects": [
+   {
+    "term": "purchase",
+    "polarity": "positive",
+    "start": 31,
+    "end": 39
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-390-0",
+  "text": "Authentic and packaged well, just that the parcel was left outside my house even though I was at home.",
+  "aspects": [
+   {
+    "term": "Authentic",
+    "polarity": "positive",
+    "start": 0,
+    "end": 9
+   },
+   {
+    "term": "packaged",
+    "polarity": "positive",
+    "start": 14,
+    "end": 22
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-391-1",
+  "text": "Yes, it is a genuine brand new Samsung Galaxy smartphone.",
+  "aspects": [
+   {
+    "term": "genuine",
+    "polarity": "positive",
+    "start": 13,
+    "end": 20
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-391-3",
+  "text": "Yes it's a genuine Samsung, I've been using it for over 2 mths without any issue!",
+  "aspects": [
+   {
+    "term": "genuine",
+    "polarity": "positive",
+    "start": 11,
+    "end": 18
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-391-4",
+  "text": "Great sound, & lots of features, good value for money.?",
+  "aspects": [
+   {
+    "term": "sound",
+    "polarity": "positive",
+    "start": 6,
+    "end": 11
+   },
+   {
+    "term": "value for money",
+    "polarity": "positive",
+    "start": 38,
+    "end": 53
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-391-6",
+  "text": "Samsung have a lot of phones with great specs at really good prices.",
+  "aspects": [
+   {
+    "term": "prices",
+    "polarity": "positive",
+    "start": 61,
+    "end": 67
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-391-7",
+  "text": "Dont let the price put you off, ive bought at least 3 Samsungs in the past year, all working perfectly.",
+  "aspects": [
+   {
+    "term": "working",
+    "polarity": "positive",
+    "start": 85,
+    "end": 92
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-393-0",
+  "text": "Phoneis Bit slow...",
+  "aspects": [
+   {
+    "term": "slow",
+    "polarity": "negative",
+    "start": 12,
+    "end": 16
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-393-1",
+  "text": "It takes time to reboot, whenever I receive call,it starts ringing first then i get the display",
+  "aspects": [
+   {
+    "term": "reboot",
+    "polarity": "negative",
+    "start": 17,
+    "end": 23
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-397-1",
+  "text": "Camera just fine Battery was grt lasted 1 whole day normal working Finger print sensor did not worked sometimes.",
+  "aspects": [
+   {
+    "term": "Camera",
+    "polarity": "positive",
+    "start": 0,
+    "end": 6
+   },
+   {
+    "term": "Battery",
+    "polarity": "positive",
+    "start": 17,
+    "end": 24
+   },
+   {
+    "term": "Finger print sensor",
+    "polarity": "negative",
+    "start": 67,
+    "end": 86
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-397-3",
+  "text": "A budget phone it was with decent performance,until recently I had restarting problems.",
+  "aspects": [
+   {
+    "term": "phone",
+    "polarity": "positive",
+    "start": 9,
+    "end": 14
+   },
+   {
+    "term": "performance",
+    "polarity": "positive",
+    "start": 34,
+    "end": 45
+   },
+   {
+    "term": "restarting problems",
+    "polarity": "negative",
+    "start": 67,
+    "end": 86
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-397-5",
+  "text": "my bad luck it started after Mobile warranty was over by 2 months.",
+  "aspects": [
+   {
+    "term": "Mobile warranty",
+    "polarity": "negative",
+    "start": 29,
+    "end": 44
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-397-6",
+  "text": "Samsung care said mother board was faulty, replacement will cost 6k.",
+  "aspects": [
+   {
+    "term": "replacement",
+    "polarity": "negative",
+    "start": 43,
+    "end": 54
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-397-7",
+  "text": "So personally, i do not recommend this particular model m21.",
+  "aspects": [
+   {
+    "term": "do not recommend",
+    "polarity": "negative",
+    "start": 17,
+    "end": 33
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-399-1",
+  "text": "Material felt good on hands.",
+  "aspects": [
+   {
+    "term": "Material felt",
+    "polarity": "positive",
+    "start": 0,
+    "end": 13
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-400-1",
+  "text": "Love the colour!",
+  "aspects": [
+   {
+    "term": "colour",
+    "polarity": "positive",
+    "start": 9,
+    "end": 15
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-401-0",
+  "text": "Yes, it has AI camera Yes it Does Have.",
+  "aspects": [
+   {
+    "term": "AI camera",
+    "polarity": "positive",
+    "start": 12,
+    "end": 21
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-402-0",
+  "text": "Yes it supports for better internet speed......",
+  "aspects": [
+   {
+    "term": "internet speed",
+    "polarity": "positive",
+    "start": 27,
+    "end": 41
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-403-0",
+  "text": "Phone is great my elderly mother can hear who calls her now very happy with it...",
+  "aspects": [
+   {
+    "term": "my elderly mother",
+    "polarity": "positive",
+    "start": 15,
+    "end": 32
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-407-0",
+  "text": "i will order again...",
+  "aspects": [
+   {
+    "term": "order again",
+    "polarity": "positive",
+    "start": 7,
+    "end": 18
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-408-0",
+  "text": "Again battery life seems short compared with earlier models",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "negative",
+    "start": 6,
+    "end": 18
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-409-2",
+  "text": "And the battery life is good - my last phone usually made it through the day just about sort of, but this is often showing 70-80% at bedtime.",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "positive",
+    "start": 8,
+    "end": 20
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-409-3",
+  "text": "And the 5g is nice ( like being at home on wifi) So, I'm a fan.",
+  "aspects": [
+   {
+    "term": "5g",
+    "polarity": "positive",
+    "start": 8,
+    "end": 10
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-410-0",
+  "text": "I am not on Tik Tok so don’t really know, but it connects to the internet so I guess so.",
+  "aspects": [
+   {
+    "term": "connects to the internet",
+    "polarity": "neutral",
+    "start": 49,
+    "end": 73
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-411-0",
+  "text": "Fastest charger for this phone by far!!",
+  "aspects": [
+   {
+    "term": "charger",
+    "polarity": "positive",
+    "start": 8,
+    "end": 15
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-412-2",
+  "text": "Ok, so it weighs a ton, but it is robust and has survived multiple drops.",
+  "aspects": [
+   {
+    "term": "weighs a ton",
+    "polarity": "neutral",
+    "start": 10,
+    "end": 22
+   },
+   {
+    "term": "robust",
+    "polarity": "positive",
+    "start": 34,
+    "end": 40
+   },
+   {
+    "term": "survived multiple drops",
+    "polarity": "positive",
+    "start": 49,
+    "end": 72
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-412-3",
+  "text": "Definitely waterproof, have been kayaking with it and it has not been water damaged.",
+  "aspects": [
+   {
+    "term": "waterproof",
+    "polarity": "positive",
+    "start": 11,
+    "end": 21
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-412-4",
+  "text": "Processing speed has not noticeably slowed after 12 months Luke some phones I have owned.",
+  "aspects": [
+   {
+    "term": "Processing speed",
+    "polarity": "positive",
+    "start": 0,
+    "end": 16
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-413-1",
+  "text": "But giving wireless headset .....haiz.....",
+  "aspects": [
+   {
+    "term": "wireless headset",
+    "polarity": "positive",
+    "start": 11,
+    "end": 27
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-414-0",
+  "text": "I have One plus 7 and yes one plus Nord 2 is of less quality compare to 7.",
+  "aspects": [
+   {
+    "term": "quality",
+    "polarity": "negative",
+    "start": 53,
+    "end": 60
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-415-2",
+  "text": "Delivery was quite speedy as well, and seller is great with communication.",
+  "aspects": [
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 39,
+    "end": 45
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-416-1",
+  "text": "Much larger phone, as it boasts a 6.1” all screen display and it takes a little while to get used to the dynamics of the phone, ie lack of home button, control centre and such but it’s a beautiful phone.",
+  "aspects": [
+   {
+    "term": "larger",
+    "polarity": "positive",
+    "start": 5,
+    "end": 11
+   },
+   {
+    "term": "6.1” all screen display",
+    "polarity": "neutral",
+    "start": 34,
+    "end": 57
+   },
+   {
+    "term": "home button",
+    "polarity": "negative",
+    "start": 139,
+    "end": 150
+   },
+   {
+    "term": "control centre",
+    "polarity": "negative",
+    "start": 152,
+    "end": 166
+   },
+   {
+    "term": "beautiful",
+    "polarity": "positive",
+    "start": 187,
+    "end": 196
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-416-2",
+  "text": "Definitely recommend if you’re looking to upgrade.",
+  "aspects": [
+   {
+    "term": "recommend",
+    "polarity": "positive",
+    "start": 11,
+    "end": 20
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-420-1",
+  "text": "Will definitely deal with you again!?",
+  "aspects": [
+   {
+    "term": "deal with you again",
+    "polarity": "positive",
+    "start": 16,
+    "end": 35
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-422-0",
+  "text": "Front camera is not bad.",
+  "aspects": [
+   {
+    "term": "Front camera",
+    "polarity": "positive",
+    "start": 0,
+    "end": 12
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-422-1",
+  "text": "But rear camera is awesome.",
+  "aspects": [
+   {
+    "term": "rear camera",
+    "polarity": "positive",
+    "start": 4,
+    "end": 15
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-423-2",
+  "text": "Good battery life, terrific camera, outstanding functionality, call clarity, beautiful looks & an amazing array of brilliant features.",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "positive",
+    "start": 5,
+    "end": 17
+   },
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 28,
+    "end": 34
+   },
+   {
+    "term": "looks",
+    "polarity": "positive",
+    "start": 87,
+    "end": 92
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-423-3",
+  "text": "I love Samsung phones, especially this latest S21 & I love it all the more because its got a flat screen & not the pretty horrible bevelled screen that has been the Samsung norm of recent years!",
+  "aspects": [
+   {
+    "term": "bevelled screen",
+    "polarity": "negative",
+    "start": 131,
+    "end": 146
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-423-4",
+  "text": "I highly recommend this phone on every front, its just magnificent.",
+  "aspects": [
+   {
+    "term": "recommend",
+    "polarity": "positive",
+    "start": 9,
+    "end": 18
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-425-0",
+  "text": "Best value phone I've ever bought.",
+  "aspects": [
+   {
+    "term": "value phone",
+    "polarity": "positive",
+    "start": 5,
+    "end": 16
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-426-0",
+  "text": "I liked the Display and battery only.",
+  "aspects": [
+   {
+    "term": "Display",
+    "polarity": "positive",
+    "start": 12,
+    "end": 19
+   },
+   {
+    "term": "battery",
+    "polarity": "positive",
+    "start": 24,
+    "end": 31
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-426-1",
+  "text": "But the processor helio G80 is very low range at this price.",
+  "aspects": [
+   {
+    "term": "at this price",
+    "polarity": "positive",
+    "start": 46,
+    "end": 59
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-427-0",
+  "text": "Samsung Galaxy Note 10 came in great condition with lots of bubble wrap.",
+  "aspects": [
+   {
+    "term": "bubble wrap",
+    "polarity": "neutral",
+    "start": 60,
+    "end": 71
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-428-0",
+  "text": "I assume you get all updates until the operating system is no longer compatible with the hardware/processor?",
+  "aspects": [
+   {
+    "term": "operating system",
+    "polarity": "negative",
+    "start": 39,
+    "end": 55
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-429-0",
+  "text": "This is one of the best rugged phones yet lightweight, bought for my daughter to play around without worry of getting damaged.",
+  "aspects": [
+   {
+    "term": "lightweight",
+    "polarity": "positive",
+    "start": 42,
+    "end": 53
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-429-1",
+  "text": "Really sturdy with proper tough rubber casing covers from hard falls and also DUST & WATERPROOF.",
+  "aspects": [
+   {
+    "term": "sturdy",
+    "polarity": "positive",
+    "start": 7,
+    "end": 13
+   },
+   {
+    "term": "DUST",
+    "polarity": "positive",
+    "start": 78,
+    "end": 82
+   },
+   {
+    "term": "WATERPROOF",
+    "polarity": "positive",
+    "start": 85,
+    "end": 95
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-429-2",
+  "text": "Have an A25 octa-core processor does the actions fast & Quick helps the battery to last longer without draining fast, do have a massive battery of over 10KmAh.",
+  "aspects": [
+   {
+    "term": "battery",
+    "polarity": "positive",
+    "start": 72,
+    "end": 79
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-429-3",
+  "text": "Powered by USB C port is my favourite thing does help to charge faster too.",
+  "aspects": [
+   {
+    "term": "charge",
+    "polarity": "positive",
+    "start": 57,
+    "end": 63
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-429-5",
+  "text": "With 16MP cam captures clear pictures & 64GB ROM to store data, do support dual SIM & SD card slot for extended memory.",
+  "aspects": [
+   {
+    "term": "pictures",
+    "polarity": "positive",
+    "start": 29,
+    "end": 37
+   },
+   {
+    "term": "64GB ROM",
+    "polarity": "neutral",
+    "start": 40,
+    "end": 48
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-430-0",
+  "text": "No it doesn’t have Alexa.",
+  "aspects": [
+   {
+    "term": "Alexa",
+    "polarity": "negative",
+    "start": 19,
+    "end": 24
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-430-1",
+  "text": "It has Google Assistant.",
+  "aspects": [
+   {
+    "term": "Google Assistant",
+    "polarity": "positive",
+    "start": 7,
+    "end": 23
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-430-2",
+  "text": "Moreover, if you have subscribed for Amazon Music and Prime then Alexa would be there.",
+  "aspects": [
+   {
+    "term": "Alexa",
+    "polarity": "negative",
+    "start": 65,
+    "end": 70
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-431-0",
+  "text": "Ordered 2 earphones, 1 of them is fine, 1 of them the quality is quite bad.",
+  "aspects": [
+   {
+    "term": "quality",
+    "polarity": "negative",
+    "start": 54,
+    "end": 61
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-434-0",
+  "text": "Battery life is very poor.",
+  "aspects": [
+   {
+    "term": "Battery life",
+    "polarity": "negative",
+    "start": 0,
+    "end": 12
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-434-1",
+  "text": "Sometimes I sleep with 30 to 40% phone charging.",
+  "aspects": [
+   {
+    "term": "30 to 40% phone charging",
+    "polarity": "negative",
+    "start": 23,
+    "end": 47
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-435-0",
+  "text": "Abi out of stock hoga Wait karo book Ho jayega",
+  "aspects": [
+   {
+    "term": "out of stock",
+    "polarity": "negative",
+    "start": 4,
+    "end": 16
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-436-1",
+  "text": "However was expecting a full screen cover (edges) but even though it is not full screen , it does not even feel like its 9s+ as it seem smaller than the regulars one",
+  "aspects": [
+   {
+    "term": "full screen cover",
+    "polarity": "negative",
+    "start": 24,
+    "end": 41
+   },
+   {
+    "term": "full screen",
+    "polarity": "negative",
+    "start": 76,
+    "end": 87
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-437-0",
+  "text": "Audio not as good as the ear pcs i have before, very soft",
+  "aspects": [
+   {
+    "term": "Audio",
+    "polarity": "negative",
+    "start": 0,
+    "end": 5
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-438-0",
+  "text": "Doesn't ring out, less storage, keeps beeping when on call, doesn't keep enough charge in and rubbish for signal",
+  "aspects": [
+   {
+    "term": "ring out",
+    "polarity": "negative",
+    "start": 8,
+    "end": 16
+   },
+   {
+    "term": "storage",
+    "polarity": "negative",
+    "start": 23,
+    "end": 30
+   },
+   {
+    "term": "charge",
+    "polarity": "negative",
+    "start": 80,
+    "end": 86
+   },
+   {
+    "term": "signal",
+    "polarity": "negative",
+    "start": 106,
+    "end": 112
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-441-0",
+  "text": "like the phone for its ease of use and its battery life and the ease of getting to other functions",
+  "aspects": [
+   {
+    "term": "ease of use",
+    "polarity": "positive",
+    "start": 23,
+    "end": 34
+   },
+   {
+    "term": "battery life",
+    "polarity": "positive",
+    "start": 43,
+    "end": 55
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-443-0",
+  "text": "Pros: Battery backup is good.",
+  "aspects": [
+   {
+    "term": "Battery backup",
+    "polarity": "positive",
+    "start": 6,
+    "end": 20
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-443-1",
+  "text": "Rear Camera is good.",
+  "aspects": [
+   {
+    "term": "Rear Camera",
+    "polarity": "positive",
+    "start": 0,
+    "end": 11
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-443-2",
+  "text": "Front camera is average.",
+  "aspects": [
+   {
+    "term": "Front camera",
+    "polarity": "neutral",
+    "start": 0,
+    "end": 12
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-443-3",
+  "text": "Image processing could be way better.",
+  "aspects": [
+   {
+    "term": "Image processing",
+    "polarity": "negative",
+    "start": 0,
+    "end": 16
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-443-4",
+  "text": "Display clarity is good.",
+  "aspects": [
+   {
+    "term": "Display clarity",
+    "polarity": "positive",
+    "start": 0,
+    "end": 15
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-443-7",
+  "text": "Bcoz the display is very fragile.",
+  "aspects": [
+   {
+    "term": "display",
+    "polarity": "negative",
+    "start": 9,
+    "end": 16
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-443-8",
+  "text": "After 8 months of usage, touch screen stopped working unexpectedly while operating the phone.",
+  "aspects": [
+   {
+    "term": "touch screen",
+    "polarity": "negative",
+    "start": 25,
+    "end": 37
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-443-9",
+  "text": "Lags very often if you don't have space left or you have not restarted for a long time.",
+  "aspects": [
+   {
+    "term": "Lags",
+    "polarity": "negative",
+    "start": 0,
+    "end": 4
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-443-10",
+  "text": "Front camera image processing not that much great.",
+  "aspects": [
+   {
+    "term": "Front camera",
+    "polarity": "neutral",
+    "start": 0,
+    "end": 12
+   },
+   {
+    "term": "image processing",
+    "polarity": "negative",
+    "start": 13,
+    "end": 29
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-444-0",
+  "text": "Well packaged for delivery.",
+  "aspects": [
+   {
+    "term": "packaged",
+    "polarity": "positive",
+    "start": 5,
+    "end": 13
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-444-2",
+  "text": "This is my 3rd time buying.",
+  "aspects": [
+   {
+    "term": "This is my 3rd time buying",
+    "polarity": "positive",
+    "start": 0,
+    "end": 26
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-446-3",
+  "text": "It does have a Google app and search bar Yes it has full suite of Google apps preloaded Yes.",
+  "aspects": [
+   {
+    "term": "full suite of Google apps",
+    "polarity": "positive",
+    "start": 52,
+    "end": 77
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-447-0",
+  "text": "Good value takes 1.5 hours to charge mobile phone as to 4 hours from 0%",
+  "aspects": [
+   {
+    "term": "value",
+    "polarity": "positive",
+    "start": 5,
+    "end": 10
+   },
+   {
+    "term": "charge",
+    "polarity": "positive",
+    "start": 30,
+    "end": 36
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-448-0",
+  "text": "The phone gets hot while charging and the battery drains fast",
+  "aspects": [
+   {
+    "term": "gets hot",
+    "polarity": "negative",
+    "start": 10,
+    "end": 18
+   },
+   {
+    "term": "battery drains",
+    "polarity": "negative",
+    "start": 42,
+    "end": 56
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-449-0",
+  "text": "delivery took longer than expected but still happy with purchase !",
+  "aspects": [
+   {
+    "term": "purchase",
+    "polarity": "positive",
+    "start": 56,
+    "end": 64
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-451-0",
+  "text": "Items came with bubble wrapped.",
+  "aspects": [
+   {
+    "term": "bubble wrapped",
+    "polarity": "positive",
+    "start": 16,
+    "end": 30
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-451-1",
+  "text": "Hp is compatible to LTE/3G.",
+  "aspects": [
+   {
+    "term": "LTE/3G",
+    "polarity": "positive",
+    "start": 20,
+    "end": 26
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-451-2",
+  "text": "Wire charger is not working.",
+  "aspects": [
+   {
+    "term": "Wire charger",
+    "polarity": "negative",
+    "start": 0,
+    "end": 12
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-451-4",
+  "text": "Find the before and after purchase service is totally different.",
+  "aspects": [
+   {
+    "term": "before and after purchase service",
+    "polarity": "negative",
+    "start": 9,
+    "end": 42
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-453-1",
+  "text": "Yes, the handset does have a fingerprint lock sensor.",
+  "aspects": [
+   {
+    "term": "fingerprint lock sensor",
+    "polarity": "positive",
+    "start": 29,
+    "end": 52
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-454-0",
+  "text": "Excellent upgrade from IPhone 8 it was worth it.",
+  "aspects": [
+   {
+    "term": "upgrade",
+    "polarity": "positive",
+    "start": 10,
+    "end": 17
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-454-1",
+  "text": "I love the Face ID and bigger screen also great battery life so far.",
+  "aspects": [
+   {
+    "term": "Face ID",
+    "polarity": "positive",
+    "start": 11,
+    "end": 18
+   },
+   {
+    "term": "screen",
+    "polarity": "positive",
+    "start": 30,
+    "end": 36
+   },
+   {
+    "term": "battery life",
+    "polarity": "positive",
+    "start": 48,
+    "end": 60
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-454-2",
+  "text": "It’s not 5G but by the time I upgrade again I’ll get a 5G iPhone.",
+  "aspects": [
+   {
+    "term": "5G",
+    "polarity": "negative",
+    "start": 9,
+    "end": 11
+   },
+   {
+    "term": "upgrade",
+    "polarity": "positive",
+    "start": 30,
+    "end": 37
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-455-0",
+  "text": "This phone at this price is an absolute steal.",
+  "aspects": [
+   {
+    "term": "phone at this price",
+    "polarity": "positive",
+    "start": 5,
+    "end": 24
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-455-2",
+  "text": "Can't recommend it enough!",
+  "aspects": [
+   {
+    "term": "Can't recommend it enough",
+    "polarity": "positive",
+    "start": 0,
+    "end": 25
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-456-0",
+  "text": "Your browser does not support HTML5 video.",
+  "aspects": [
+   {
+    "term": "browser",
+    "polarity": "negative",
+    "start": 5,
+    "end": 12
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-457-0",
+  "text": "Very nice and friendly seller!!",
+  "aspects": [
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 23,
+    "end": 29
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-457-1",
+  "text": "Answered all of my questions patiently :) cover is same as shown :) thank you!!",
+  "aspects": [
+   {
+    "term": "Answered all of my questions",
+    "polarity": "positive",
+    "start": 0,
+    "end": 28
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-458-1",
+  "text": "There was a slight delay with seller shipping out the product but other than that the rest is good!",
+  "aspects": [
+   {
+    "term": "delay",
+    "polarity": "negative",
+    "start": 19,
+    "end": 24
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-458-2",
+  "text": "Got it at a good price too!",
+  "aspects": [
+   {
+    "term": "price",
+    "polarity": "positive",
+    "start": 17,
+    "end": 22
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-459-0",
+  "text": "What a bargain - it looks like it is new - perfect!",
+  "aspects": [
+   {
+    "term": "bargain",
+    "polarity": "positive",
+    "start": 7,
+    "end": 14
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-461-0",
+  "text": "Material is not exactly like pictures and a bit shaky too.",
+  "aspects": [
+   {
+    "term": "Material",
+    "polarity": "negative",
+    "start": 0,
+    "end": 8
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-461-1",
+  "text": "But acceptable for this price.",
+  "aspects": [
+   {
+    "term": "price",
+    "polarity": "positive",
+    "start": 24,
+    "end": 29
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-462-0",
+  "text": "Note 10 pro prices will not be change in sale",
+  "aspects": [
+   {
+    "term": "prices",
+    "polarity": "positive",
+    "start": 12,
+    "end": 18
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-463-0",
+  "text": "Needed urgent screen protector still cheaper than retail deliver within few days only",
+  "aspects": [
+   {
+    "term": "cheaper than",
+    "polarity": "positive",
+    "start": 37,
+    "end": 49
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-471-0",
+  "text": "Nice product at good price.",
+  "aspects": [
+   {
+    "term": "price",
+    "polarity": "positive",
+    "start": 21,
+    "end": 26
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-471-1",
+  "text": "Well package and receive in few days after place order",
+  "aspects": [
+   {
+    "term": "package",
+    "polarity": "positive",
+    "start": 5,
+    "end": 12
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-472-1",
+  "text": "It is 4G ready",
+  "aspects": [
+   {
+    "term": "4G",
+    "polarity": "neutral",
+    "start": 6,
+    "end": 8
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-473-0",
+  "text": "Good quality phone at a great price.",
+  "aspects": [
+   {
+    "term": "quality phone",
+    "polarity": "positive",
+    "start": 5,
+    "end": 18
+   },
+   {
+    "term": "price",
+    "polarity": "positive",
+    "start": 30,
+    "end": 35
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-476-2",
+  "text": "Would buy my next phone from Amazon’s refurbishing service as well.",
+  "aspects": [
+   {
+    "term": "Would",
+    "polarity": "positive",
+    "start": 0,
+    "end": 5
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-477-0",
+  "text": "Super good quality and sturdy .",
+  "aspects": [
+   {
+    "term": "quality and sturdy",
+    "polarity": "positive",
+    "start": 11,
+    "end": 29
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-478-0",
+  "text": "\"Dear Customer, Galaxy M32 comes with 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase.",
+  "aspects": [
+   {
+    "term": "1 year manufacturer warranty for device",
+    "polarity": "neutral",
+    "start": 38,
+    "end": 77
+   },
+   {
+    "term": "6 months manufacturer warranty for in-box accessories",
+    "polarity": "neutral",
+    "start": 82,
+    "end": 135
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-480-0",
+  "text": "Phn is not GD according to price ....but normal camera is quite good .",
+  "aspects": [
+   {
+    "term": "normal camera",
+    "polarity": "positive",
+    "start": 41,
+    "end": 54
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-481-1",
+  "text": "Case is original and of good quality.",
+  "aspects": [
+   {
+    "term": "original",
+    "polarity": "positive",
+    "start": 8,
+    "end": 16
+   },
+   {
+    "term": "quality",
+    "polarity": "positive",
+    "start": 29,
+    "end": 36
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-482-0",
+  "text": "No the iPhone 7 came all complete with battery installed, charger etc, it was 128 GB model and I paid ?210.",
+  "aspects": [
+   {
+    "term": "battery",
+    "polarity": "positive",
+    "start": 39,
+    "end": 46
+   },
+   {
+    "term": "128 GB",
+    "polarity": "neutral",
+    "start": 78,
+    "end": 84
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-482-1",
+  "text": "If it had been refurbished I could not tell 12 months of daily use and battery still shows 100% capacity.",
+  "aspects": [
+   {
+    "term": "battery",
+    "polarity": "positive",
+    "start": 71,
+    "end": 78
+   },
+   {
+    "term": "100% capacity",
+    "polarity": "positive",
+    "start": 91,
+    "end": 104
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-482-2",
+  "text": "Hope this helps The refurbished iPhone 7 that I bought is 4 years old and has a perfectly good battery, so I I saw no reason to replace it.",
+  "aspects": [
+   {
+    "term": "battery",
+    "polarity": "positive",
+    "start": 95,
+    "end": 102
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-482-3",
+  "text": "In fact, this replaced an old iPhone 5s, which still had the original battery.",
+  "aspects": [
+   {
+    "term": "battery",
+    "polarity": "positive",
+    "start": 70,
+    "end": 77
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-482-4",
+  "text": "If I am not mistaken, Apple say that a battery should be good for 500 charge / discharge cycles When my phone came my battery health was at 100% so I assume they do Hi there, I recently bought a reconditioned iPhone from Amazon which was complete with battery and have never heard of Amazon selling an iPhone without one.",
+  "aspects": [
+   {
+    "term": "battery",
+    "polarity": "positive",
+    "start": 39,
+    "end": 46
+   },
+   {
+    "term": "battery health",
+    "polarity": "positive",
+    "start": 118,
+    "end": 132
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-483-1",
+  "text": "Goggle play store install from Xiaomi app so is missing.",
+  "aspects": [
+   {
+    "term": "Goggle play store",
+    "polarity": "negative",
+    "start": 0,
+    "end": 17
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-484-2",
+  "text": "The matte finishing of the case really feels great to the touch.",
+  "aspects": [
+   {
+    "term": "case",
+    "polarity": "positive",
+    "start": 27,
+    "end": 31
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-484-3",
+  "text": "However, the case is quite thin and doesn't really stick out much to protect the screen.",
+  "aspects": [
+   {
+    "term": "case",
+    "polarity": "positive",
+    "start": 13,
+    "end": 17
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-485-1",
+  "text": "She is happy with camera functionality.",
+  "aspects": [
+   {
+    "term": "camera functionality",
+    "polarity": "positive",
+    "start": 18,
+    "end": 38
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-487-0",
+  "text": "I will buy again in the future, good seller, very responsive in chat",
+  "aspects": [
+   {
+    "term": "I will buy again in the future",
+    "polarity": "positive",
+    "start": 0,
+    "end": 30
+   },
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 37,
+    "end": 43
+   },
+   {
+    "term": "responsive",
+    "polarity": "positive",
+    "start": 50,
+    "end": 60
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-488-0",
+  "text": "Bought this for my Mrs 30th birthday as a present and on regular occasions it says overheating, 30sec left, super annoying.",
+  "aspects": [
+   {
+    "term": "overheating",
+    "polarity": "negative",
+    "start": 83,
+    "end": 94
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-489-2",
+  "text": "Regards, Samsung India Samsung Galaxy m21 2021 have normal single speaker at the bottom area which is loud and clear.",
+  "aspects": [
+   {
+    "term": "normal single speaker",
+    "polarity": "positive",
+    "start": 52,
+    "end": 73
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-489-3",
+  "text": "Quality of speaker is very good.",
+  "aspects": [
+   {
+    "term": "Quality of speaker",
+    "polarity": "positive",
+    "start": 0,
+    "end": 18
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-489-4",
+  "text": "Sound is very loud as per Trend",
+  "aspects": [
+   {
+    "term": "Sound",
+    "polarity": "positive",
+    "start": 0,
+    "end": 5
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-490-0",
+  "text": "Smooth and speedy self collection.",
+  "aspects": [
+   {
+    "term": "Smooth",
+    "polarity": "positive",
+    "start": 0,
+    "end": 6
+   },
+   {
+    "term": "speedy",
+    "polarity": "positive",
+    "start": 11,
+    "end": 17
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-490-1",
+  "text": "Service not as bad as some described.",
+  "aspects": [
+   {
+    "term": "Service",
+    "polarity": "positive",
+    "start": 0,
+    "end": 7
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-490-2",
+  "text": "Nice and great many free gifts.",
+  "aspects": [
+   {
+    "term": "free gifts",
+    "polarity": "positive",
+    "start": 20,
+    "end": 30
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-491-0",
+  "text": "Quality of mobile are very bad............3rd classs............dont buy Good",
+  "aspects": [
+   {
+    "term": "Quality of mobile",
+    "polarity": "negative",
+    "start": 0,
+    "end": 17
+   },
+   {
+    "term": "dont buy",
+    "polarity": "negative",
+    "start": 64,
+    "end": 72
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-493-1",
+  "text": "Seller very responsive & answered my queries.",
+  "aspects": [
+   {
+    "term": "Seller",
+    "polarity": "positive",
+    "start": 0,
+    "end": 6
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-493-2",
+  "text": "Comes nicely wrapped & bubbled bag.",
+  "aspects": [
+   {
+    "term": "bubbled bag",
+    "polarity": "positive",
+    "start": 23,
+    "end": 34
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-493-4",
+  "text": "Compliment with a cover & tempered glass.",
+  "aspects": [
+   {
+    "term": "cover",
+    "polarity": "positive",
+    "start": 18,
+    "end": 23
+   },
+   {
+    "term": "tempered glass",
+    "polarity": "positive",
+    "start": 26,
+    "end": 40
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-494-0",
+  "text": "Probably the wrong charger Not sure how to respond TBH ...",
+  "aspects": [
+   {
+    "term": "charger",
+    "polarity": "negative",
+    "start": 19,
+    "end": 26
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-495-0",
+  "text": "Good quality and cheap protective case.",
+  "aspects": [
+   {
+    "term": "quality",
+    "polarity": "positive",
+    "start": 5,
+    "end": 12
+   },
+   {
+    "term": "protective case",
+    "polarity": "positive",
+    "start": 23,
+    "end": 38
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-497-1",
+  "text": "The main problem i have is there is no user guide at all.",
+  "aspects": [
+   {
+    "term": "user guide",
+    "polarity": "negative",
+    "start": 39,
+    "end": 49
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-497-4",
+  "text": "All other phones I've tried ( 2) there is an online or app to tell you basics .",
+  "aspects": [
+   {
+    "term": "online or app to tell you basics",
+    "polarity": "positive",
+    "start": 45,
+    "end": 77
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-498-1",
+  "text": "Price is good and delivery took a while but not in urgent need so its ok.",
+  "aspects": [
+   {
+    "term": "Price",
+    "polarity": "positive",
+    "start": 0,
+    "end": 5
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-499-0",
+  "text": "Tablet received but anyway seller not confirm with as about where this tablet come from and I ask he just tell me will reach 2weeks time and it’s ship from China is a export set after I check is crack at the top of screen",
+  "aspects": [
+   {
+    "term": "screen",
+    "polarity": "negative",
+    "start": 215,
+    "end": 221
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-500-0",
+  "text": "Yes sir, Free fire runs well on this too .",
+  "aspects": [
+   {
+    "term": "Free fire",
+    "polarity": "positive",
+    "start": 9,
+    "end": 18
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-502-0",
+  "text": "Battery Backup is good ....",
+  "aspects": [
+   {
+    "term": "Battery Backup",
+    "polarity": "positive",
+    "start": 0,
+    "end": 14
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-503-0",
+  "text": "+ Clean carton, thoughtful and neat packaging + Comes next working day + Continue the good gold standard",
+  "aspects": [
+   {
+    "term": "arton,",
+    "polarity": "positive",
+    "start": 9,
+    "end": 15
+   },
+   {
+    "term": "ackaging",
+    "polarity": "positive",
+    "start": 37,
+    "end": 45
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-504-0",
+  "text": "Cannot charge phone.",
+  "aspects": [
+   {
+    "term": "charge phone",
+    "polarity": "negative",
+    "start": 7,
+    "end": 19
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-504-1",
+  "text": "The cable provided is defect.",
+  "aspects": [
+   {
+    "term": "cable provided",
+    "polarity": "negative",
+    "start": 4,
+    "end": 18
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-504-2",
+  "text": "A lot of apps are not compatible with this iPhone 4.",
+  "aspects": [
+   {
+    "term": "A lot of apps",
+    "polarity": "negative",
+    "start": 0,
+    "end": 13
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-506-0",
+  "text": "Very handy for a 2TB storage.....",
+  "aspects": [
+   {
+    "term": "2TB storage",
+    "polarity": "positive",
+    "start": 17,
+    "end": 28
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-509-0",
+  "text": "Awesome seller, received items next day after placing order.",
+  "aspects": [
+   {
+    "term": "seller",
+    "polarity": "positive",
+    "start": 8,
+    "end": 14
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-509-1",
+  "text": "Responsive to queries too.",
+  "aspects": [
+   {
+    "term": "queries",
+    "polarity": "positive",
+    "start": 14,
+    "end": 21
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-510-0",
+  "text": "Bought phone on the 5th May 2021 Battery gone already not charging after 15% did online chat with Amazon no longer eligable for refund your having a laugh.",
+  "aspects": [
+   {
+    "term": "Battery",
+    "polarity": "negative",
+    "start": 33,
+    "end": 40
+   },
+   {
+    "term": "refund",
+    "polarity": "negative",
+    "start": 128,
+    "end": 134
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-511-1",
+  "text": "Bought for my son.",
+  "aspects": [
+   {
+    "term": "my son",
+    "polarity": "positive",
+    "start": 11,
+    "end": 17
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-512-0",
+  "text": "Nice and affordable phone And comes with a complete set..",
+  "aspects": [
+   {
+    "term": "affordable",
+    "polarity": "positive",
+    "start": 9,
+    "end": 19
+   },
+   {
+    "term": "comes",
+    "polarity": "positive",
+    "start": 30,
+    "end": 35
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-515-0",
+  "text": "Surprise gift to my wife..",
+  "aspects": [
+   {
+    "term": "wife",
+    "polarity": "positive",
+    "start": 20,
+    "end": 24
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-test-518-1",
+  "text": "The pop out is quite obvious but besides that screen is working fine and clear.",
+  "aspects": [
+   {
+    "term": "screen",
+    "polarity": "positive",
+    "start": 46,
+    "end": 52
+   }
+  ],
+  "domain": "phone"
+ }
+]

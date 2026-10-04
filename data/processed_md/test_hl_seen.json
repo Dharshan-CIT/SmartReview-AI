@@ -1,0 +1,646 @@
+[
+ {
+  "id": "camera-Canon G3-182",
+  "text": "i found that low light situations combined with any sort of action left this camera in the dust.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "negative",
+    "start": 77,
+    "end": 83
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-186",
+  "text": "the grain was terrible.",
+  "aspects": [
+   {
+    "term": "grain",
+    "polarity": "negative",
+    "start": 4,
+    "end": 9
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-188",
+  "text": "well flash photos are never great, and there was still a lot of noise.",
+  "aspects": [
+   {
+    "term": "flash photo",
+    "polarity": "negative",
+    "start": 5,
+    "end": 16
+   },
+   {
+    "term": "noise",
+    "polarity": "negative",
+    "start": 64,
+    "end": 69
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-189",
+  "text": "when i took outdoor photos with plenty of light and the objects weren't moving, the photos were awesome.",
+  "aspects": [
+   {
+    "term": "photo",
+    "polarity": "positive",
+    "start": 20,
+    "end": 25
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-190",
+  "text": "the camera was a marvel.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 4,
+    "end": 10
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-244",
+  "text": "this is the perfect camera for a photo hobbiest who wants to have easy point and shoot ability as well.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 20,
+    "end": 26
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-246",
+  "text": "battery life, the drawback to most digital cameras, to quote k. reeves.",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "positive",
+    "start": 0,
+    "end": 12
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-248",
+  "text": "manual functionality is excellent, downloading pictures is quick and a breeze, and the quality is astounding.",
+  "aspects": [
+   {
+    "term": "manual function",
+    "polarity": "positive",
+    "start": 0,
+    "end": 15
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-250",
+  "text": "not perfect (yes, the viewfinder can get obstructed in instances.but the lcd works well enough in those instances), not the cheapest 4.0 mp, but the best 4.0 mp.",
+  "aspects": [
+   {
+    "term": "viewfinder",
+    "polarity": "negative",
+    "start": 22,
+    "end": 32
+   },
+   {
+    "term": "lcd",
+    "polarity": "positive",
+    "start": 73,
+    "end": 76
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-25",
+  "text": "this is my first digital camera, and what a ' toy ' it is!",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 25,
+    "end": 31
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-27",
+  "text": "just a little overview, powershot g3 is the flagship of canon's powershot series and its an slr-like camera, its 4 megapixel and (alsmost) full manual control gives the pictures a touch of brilliance.",
+  "aspects": [
+   {
+    "term": "picture",
+    "polarity": "positive",
+    "start": 169,
+    "end": 176
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-28",
+  "text": "whether you are a novice or an expert, its ease of use and functionality goes together.",
+  "aspects": [
+   {
+    "term": "use",
+    "polarity": "positive",
+    "start": 51,
+    "end": 54
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-34",
+  "text": "* main dial is not backlit.",
+  "aspects": [
+   {
+    "term": "dial",
+    "polarity": "negative",
+    "start": 7,
+    "end": 11
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-35",
+  "text": "* lens visible in optical viewfinder.",
+  "aspects": [
+   {
+    "term": "viewfinder",
+    "polarity": "negative",
+    "start": 26,
+    "end": 36
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-89",
+  "text": "recent price drops have made the g3 the best bargain in digital cameras currently available.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 64,
+    "end": 70
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-90",
+  "text": "advanced photobugs will find more creative control than imaginable.",
+  "aspects": [
+   {
+    "term": "control",
+    "polarity": "positive",
+    "start": 43,
+    "end": 50
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-91",
+  "text": "newbies will find the full auto setting will give them perfect pictures right out of the box.",
+  "aspects": [
+   {
+    "term": "auto setting",
+    "polarity": "positive",
+    "start": 27,
+    "end": 39
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-92",
+  "text": "4 megapixels is enough for anybody and the photo quality is awesome.",
+  "aspects": [
+   {
+    "term": "photo quality",
+    "polarity": "positive",
+    "start": 43,
+    "end": 56
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-97",
+  "text": "the extended zoom range and faster lense put it at the top of it's class.",
+  "aspects": [
+   {
+    "term": "zoom",
+    "polarity": "positive",
+    "start": 13,
+    "end": 17
+   },
+   {
+    "term": "lense",
+    "polarity": "positive",
+    "start": 35,
+    "end": 40
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-633",
+  "text": "i've been using the g3 for about six weeks and it has proven itself to be all that it's advertised.",
+  "aspects": [
+   {
+    "term": "g3",
+    "polarity": "positive",
+    "start": 20,
+    "end": 22
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "camera-Canon G3-638",
+  "text": "all-in-all, i believe this is arguably the best non-slr digital camera on the market.",
+  "aspects": [
+   {
+    "term": "camera",
+    "polarity": "positive",
+    "start": 64,
+    "end": 70
+   }
+  ],
+  "domain": "camera"
+ },
+ {
+  "id": "phone-Nokia 6610-79",
+  "text": "i highly recommend a nokia 6610.",
+  "aspects": [
+   {
+    "term": "nokia",
+    "polarity": "positive",
+    "start": 21,
+    "end": 26
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-324",
+  "text": "this is the best phone i have seen.",
+  "aspects": [
+   {
+    "term": "phone",
+    "polarity": "positive",
+    "start": 17,
+    "end": 22
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-595",
+  "text": "this is one of the nicest phones nokia has made.",
+  "aspects": [
+   {
+    "term": "phone",
+    "polarity": "positive",
+    "start": 26,
+    "end": 31
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-367",
+  "text": "nokia was my first nonflip phone, and i'm glad i decided to go with them.",
+  "aspects": [
+   {
+    "term": "nokia",
+    "polarity": "positive",
+    "start": 0,
+    "end": 5
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-371",
+  "text": "the battery life is amazing.",
+  "aspects": [
+   {
+    "term": "battery life",
+    "polarity": "positive",
+    "start": 4,
+    "end": 16
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-372",
+  "text": "the color screen is a plus, as are the polyphonic ringtones.",
+  "aspects": [
+   {
+    "term": "color screen",
+    "polarity": "positive",
+    "start": 4,
+    "end": 16
+   },
+   {
+    "term": "ringtone",
+    "polarity": "positive",
+    "start": 50,
+    "end": 58
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "phone-Nokia 6610-373",
+  "text": "i'm not one who uses web browsing, so this phone easily met and surpassed my needs.",
+  "aspects": [
+   {
+    "term": "phone",
+    "polarity": "positive",
+    "start": 43,
+    "end": 48
+   }
+  ],
+  "domain": "phone"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-261",
+  "text": "audio is excellent.",
+  "aspects": [
+   {
+    "term": "audio",
+    "polarity": "positive",
+    "start": 0,
+    "end": 5
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-705",
+  "text": "seemed like a good deal, but this pos frequently cannot recognize dvds and music cds -- takes a long time loading and then concludes, \" no disc \".",
+  "aspects": [
+   {
+    "term": "dvd",
+    "polarity": "negative",
+    "start": 66,
+    "end": 69
+   },
+   {
+    "term": "cd",
+    "polarity": "negative",
+    "start": 81,
+    "end": 83
+   },
+   {
+    "term": "no disc",
+    "polarity": "negative",
+    "start": 136,
+    "end": 143
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-795",
+  "text": "the 2600 had false silver plate instead of play display.",
+  "aspects": [
+   {
+    "term": "silver plate",
+    "polarity": "negative",
+    "start": 19,
+    "end": 31
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-333",
+  "text": "for the most part this is a good dvd player.",
+  "aspects": [
+   {
+    "term": "player",
+    "polarity": "positive",
+    "start": 37,
+    "end": 43
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-334",
+  "text": "but about 25% of dvd's i've played on ithave a problem, when watching a movie the picture will freeze, but the dvd still plays, and eventualy the picture kicks back in after skipping a few moments.",
+  "aspects": [
+   {
+    "term": "dvd",
+    "polarity": "negative",
+    "start": 17,
+    "end": 20
+   },
+   {
+    "term": "play",
+    "polarity": "negative",
+    "start": 28,
+    "end": 32
+   },
+   {
+    "term": "picture",
+    "polarity": "negative",
+    "start": 82,
+    "end": 89
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-482",
+  "text": "it's running great for all the dvds i have and rented.",
+  "aspects": [
+   {
+    "term": "run",
+    "polarity": "positive",
+    "start": 5,
+    "end": 8
+   },
+   {
+    "term": "dvd",
+    "polarity": "positive",
+    "start": 31,
+    "end": 34
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-485",
+  "text": "i think, apex is the best dvd player you can get for the price.",
+  "aspects": [
+   {
+    "term": "dvd player",
+    "polarity": "positive",
+    "start": 26,
+    "end": 36
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-487",
+  "text": "most of them are already switched to apex and they are happy.",
+  "aspects": [
+   {
+    "term": "apex",
+    "polarity": "positive",
+    "start": 37,
+    "end": 41
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-587",
+  "text": "the player looked good right out of the box, offering lots of features and good styling.",
+  "aspects": [
+   {
+    "term": "look",
+    "polarity": "positive",
+    "start": 11,
+    "end": 15
+   },
+   {
+    "term": "feature",
+    "polarity": "positive",
+    "start": 62,
+    "end": 69
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-588",
+  "text": "i immediately had problems getting the player to recognize two of my favorite dvds.",
+  "aspects": [
+   {
+    "term": "dvd",
+    "polarity": "negative",
+    "start": 78,
+    "end": 81
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-590",
+  "text": "after multilple tries, one of the disks was finally recognized but video was poor and features not available.",
+  "aspects": [
+   {
+    "term": "video",
+    "polarity": "negative",
+    "start": 67,
+    "end": 72
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-591",
+  "text": "only one disk played through to completion successfully.",
+  "aspects": [
+   {
+    "term": "disk",
+    "polarity": "negative",
+    "start": 9,
+    "end": 13
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-208",
+  "text": "it sends discoutinous signals to tv, so the tv has the pictures for one moment and has only the white noise for the other moment.",
+  "aspects": [
+   {
+    "term": "picture",
+    "polarity": "negative",
+    "start": 55,
+    "end": 62
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-209",
+  "text": "the other thing i don't like about this 2600 is that it makes the color look over saturated.",
+  "aspects": [
+   {
+    "term": "color",
+    "polarity": "negative",
+    "start": 66,
+    "end": 71
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-308",
+  "text": "i have sent my ad2600 back to apex because it won't play certain disney and other dvd movies (no disc message).",
+  "aspects": [
+   {
+    "term": "play",
+    "polarity": "negative",
+    "start": 52,
+    "end": 56
+   },
+   {
+    "term": "dvd",
+    "polarity": "negative",
+    "start": 82,
+    "end": 85
+   },
+   {
+    "term": "no disc",
+    "polarity": "negative",
+    "start": 94,
+    "end": 101
+   }
+  ],
+  "domain": "dvd"
+ },
+ {
+  "id": "dvd-Apex AD2600 Progressive-scan DVD player-685",
+  "text": "the dvd player is fine.",
+  "aspects": [
+   {
+    "term": "player",
+    "polarity": "positive",
+    "start": 8,
+    "end": 14
+   }
+  ],
+  "domain": "dvd"
+ }
+]

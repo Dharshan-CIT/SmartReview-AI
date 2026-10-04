@@ -1,0 +1,52 @@
+{
+  "temperature": 1.7848,
+  "validation_nll_before": 0.4613,
+  "validation_nll_after": 0.3534,
+  "test": {
+    "test_laptop": {
+      "n": 213,
+      "ece_before": 0.1605,
+      "ece_after": 0.0622,
+      "mean_conf_before": 0.9611,
+      "mean_conf_after": 0.8791,
+      "accuracy": 0.8169
+    },
+    "test_phone": {
+      "n": 800,
+      "ece_before": 0.0716,
+      "ece_after": 0.0305,
+      "mean_conf_before": 0.9743,
+      "mean_conf_after": 0.9073,
+      "accuracy": 0.905
+    },
+    "test_hl_seen": {
+      "n": 56,
+      "ece_before": 0.0561,
+      "ece_after": 0.0453,
+      "mean_conf_before": 0.9835,
+      "mean_conf_after": 0.9159,
+      "accuracy": 0.9464
+    },
+    "test_unseen_camera": {
+      "n": 160,
+      "ece_before": 0.0476,
+      "ece_after": 0.0746,
+      "mean_conf_before": 0.9828,
+      "mean_conf_after": 0.9189,
+      "accuracy": 0.9438
+    },
+    "test_unseen_mp3": {
+      "n": 669,
+      "ece_before": 0.075,
+      "ece_after": 0.0408,
+      "mean_conf_before": 0.9688,
+      "mean_conf_after": 0.8962,
+      "accuracy": 0.8939
+    }
+  },
+  "test_all": {
+    "n": 1898,
+    "ece_before": 0.0762,
+    "ece_after": 0.0341
+  }
+}

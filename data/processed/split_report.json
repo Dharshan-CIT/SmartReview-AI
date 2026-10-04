@@ -1,0 +1,38 @@
+{
+  "test": {
+    "sentences": 305,
+    "sentences_with_aspects": 149,
+    "aspect_annotations_all": 218,
+    "atsc_examples_no_conflict": 213,
+    "polarity_all": {
+      "negative": 88,
+      "neutral": 40,
+      "positive": 85,
+      "conflict": 5
+    }
+  },
+  "val": {
+    "sentences": 305,
+    "sentences_with_aspects": 149,
+    "aspect_annotations_all": 236,
+    "atsc_examples_no_conflict": 231,
+    "polarity_all": {
+      "positive": 108,
+      "negative": 77,
+      "neutral": 46,
+      "conflict": 5
+    }
+  },
+  "train": {
+    "sentences": 2435,
+    "sentences_with_aspects": 1190,
+    "aspect_annotations_all": 1904,
+    "atsc_examples_no_conflict": 1869,
+    "polarity_all": {
+      "neutral": 374,
+      "positive": 794,
+      "negative": 701,
+      "conflict": 35
+    }
+  }
+}

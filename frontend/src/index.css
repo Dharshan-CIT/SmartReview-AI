@@ -1,0 +1,202 @@
+@import "tailwindcss";
+
+/*
+  Design tokens
+  Type scale : display 3.75rem / h1 2.25rem / h2 1.5rem / h3 1.125rem / body 1rem / small 0.875rem / caption 0.75rem
+  Weights    : 400 body, 500 UI labels, 600 headings, 700 display
+  Spacing    : Tailwind 4px scale (4, 8, 12, 16, 24, 32, 48, 64)
+  Semantic colours always pair with an icon and a text label (never colour alone).
+  Dark mode  : the same tokens are re-declared under html.dark, so every utility adapts automatically.
+*/
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+
+  --color-bg: #f6f7fb;
+  --color-surface: #ffffff;
+  --color-border: #e3e6ee;
+  --color-text: #0f172a;
+  --color-muted: #566074;
+
+  --color-primary-50: #eef2ff;
+  --color-primary-100: #e0e7ff;
+  --color-primary-500: #5b5bd6;
+  --color-primary-600: #4f46e5;
+  --color-primary-700: #4338ca;
+  --color-primary-900: #312e81;
+  --color-primary-ink: #4338ca; /* primary used as TEXT colour */
+
+  --color-pos: #047857;
+  --color-pos-bg: #ecfdf5;
+  --color-pos-border: #a7f3d0;
+  --color-neg: #be123c;
+  --color-neg-bg: #fff1f2;
+  --color-neg-border: #fecdd3;
+  --color-neu: #475569;
+  --color-neu-bg: #f1f5f9;
+  --color-neu-border: #cbd5e1;
+  --color-mix: #b45309;
+  --color-mix-bg: #fffbeb;
+  --color-mix-border: #fde68a;
+
+  --shadow-card: 0 1px 2px rgb(15 23 42 / 0.05), 0 1px 3px rgb(15 23 42 / 0.06);
+  --shadow-pop: 0 12px 32px -10px rgb(15 23 42 / 0.28);
+  --shadow-glow: 0 10px 40px -12px rgb(79 70 229 / 0.45);
+}
+
+html.dark {
+  color-scheme: dark;
+  --color-bg: #111214;
+  --color-surface: #1a1b1e;
+  --color-border: #2e3035;
+  --color-text: #f1f2f4;
+  --color-muted: #a3a7b0;
+
+  --color-primary-50: #25223a;
+  --color-primary-100: #3a3563;
+  --color-primary-ink: #b4b0ff;
+
+  --color-pos: #4ade80;
+  --color-pos-bg: #0f2417;
+  --color-pos-border: #1f6b3b;
+  --color-neg: #fb7185;
+  --color-neg-bg: #2a1217;
+  --color-neg-border: #7d2537;
+  --color-neu: #b3b8c2;
+  --color-neu-bg: #24262b;
+  --color-neu-border: #3b3e46;
+  --color-mix: #fbbf24;
+  --color-mix-bg: #2a2109;
+  --color-mix-border: #715512;
+
+  --shadow-card: 0 1px 2px rgb(0 0 0 / 0.4);
+  --shadow-pop: 0 12px 32px -10px rgb(0 0 0 / 0.7);
+}
+
+html { scroll-behavior: smooth; }
+body {
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-sans);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+/* Visible keyboard focus everywhere */
+:focus-visible {
+  outline: 2px solid var(--color-primary-600);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+html.dark :focus-visible { outline-color: #a5b4fc; }
+
+/* Hero background: soft colour washes + faint grid */
+.bg-hero {
+  background:
+    radial-gradient(55rem 26rem at 80% -10%, rgb(99 102 241 / 0.13), transparent 60%),
+    radial-gradient(40rem 22rem at 0% 10%, rgb(20 184 166 / 0.10), transparent 60%);
+}
+.bg-grid {
+  background-image:
+    linear-gradient(to right, rgb(100 116 139 / 0.08) 1px, transparent 1px),
+    linear-gradient(to bottom, rgb(100 116 139 / 0.08) 1px, transparent 1px);
+  background-size: 36px 36px;
+  mask-image: radial-gradient(ellipse at 50% 30%, black 30%, transparent 75%);
+}
+.text-gradient {
+  background: linear-gradient(90deg, #4f46e5, #7c3aed 45%, #0ea5e9);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+html.dark .text-gradient { background: linear-gradient(90deg, #a5b4fc, #c4b5fd 45%, #7dd3fc); -webkit-background-clip: text; background-clip: text; }
+
+@keyframes fade-up {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: none; }
+}
+.animate-fade-up { animation: fade-up 0.4s ease-out both; }
+.stagger > * { animation: fade-up 0.4s ease-out both; }
+.stagger > *:nth-child(2) { animation-delay: 60ms; }
+.stagger > *:nth-child(3) { animation-delay: 120ms; }
+.stagger > *:nth-child(4) { animation-delay: 180ms; }
+.stagger > *:nth-child(5) { animation-delay: 240ms; }
+.stagger > *:nth-child(6) { animation-delay: 300ms; }
+
+@keyframes grow-x { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+.animate-grow { transform-origin: left; animation: grow-x 0.7s cubic-bezier(.2,.8,.2,1) both; }
+
+@keyframes pulse-dot { 0%,100% { opacity: 1; } 50% { opacity: .45; } }
+.animate-pulse-dot { animation: pulse-dot 2s ease-in-out infinite; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.01ms !important; animation-delay: 0ms !important; transition-duration: 0.01ms !important; scroll-behavior: auto !important; }
+}
+
+/* ---------- Splash screen ---------- */
+@keyframes splash-pop { 0% { opacity: 0; transform: scale(.6) rotate(-8deg); } 60% { transform: scale(1.06) rotate(1deg); } 100% { opacity: 1; transform: none; } }
+@keyframes splash-draw { from { stroke-dashoffset: 40; } to { stroke-dashoffset: 0; } }
+@keyframes splash-rise { from { opacity: 0; transform: translateY(14px); letter-spacing: .12em; } to { opacity: 1; transform: none; letter-spacing: -.02em; } }
+@keyframes splash-load { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+@keyframes splash-orb { 0%,100% { transform: translate(0,0) scale(1); } 50% { transform: translate(18px,-22px) scale(1.08); } }
+.splash-logo { animation: splash-pop .55s cubic-bezier(.2,.9,.3,1.2) both; }
+.splash-check { stroke-dasharray: 40; animation: splash-draw .4s .35s ease-out both; }
+.splash-title { animation: splash-rise .6s .2s cubic-bezier(.2,.8,.2,1) both; }
+.splash-tag { animation: splash-rise .6s .45s cubic-bezier(.2,.8,.2,1) both; }
+.splash-bar { transform-origin: left; animation: splash-load 2.7s .15s cubic-bezier(.4,0,.2,1) both; }
+.splash-orb { animation: splash-orb 6s ease-in-out infinite; }
+
+/* ---------- Visual system additions ---------- */
+/* Drifting colour orbs behind the hero (transform-only, so they are cheap to animate) */
+@keyframes drift-a { 0%,100% { transform: translate3d(0,0,0) scale(1); } 50% { transform: translate3d(40px,30px,0) scale(1.12); } }
+@keyframes drift-b { 0%,100% { transform: translate3d(0,0,0) scale(1); } 50% { transform: translate3d(-50px,20px,0) scale(1.08); } }
+.orb { position: absolute; border-radius: 9999px; filter: blur(70px); opacity: 0.55; pointer-events: none; will-change: transform; }
+.orb-indigo { background: rgb(99 102 241 / 0.45); animation: drift-a 14s ease-in-out infinite; }
+.orb-teal { background: rgb(20 184 166 / 0.35); animation: drift-b 17s ease-in-out infinite; }
+.orb-violet { background: rgb(168 85 247 / 0.30); animation: drift-a 20s ease-in-out infinite reverse; }
+html.dark .orb { opacity: 0.35; }
+
+/* Pipeline connector: a soft line with a highlight that keeps flowing along it */
+@keyframes flow-x { from { background-position: 0% 0; } to { background-position: 200% 0; } }
+@keyframes flow-y { from { background-position: 0 0%; } to { background-position: 0 200%; } }
+.pipeline-line {
+  background: linear-gradient(90deg, var(--color-border) 0%, var(--color-primary-600) 25%, var(--color-border) 50%, var(--color-border) 100%);
+  background-size: 200% 100%; animation: flow-x 4s linear infinite;
+}
+.pipeline-line-v {
+  background: linear-gradient(180deg, var(--color-border) 0%, var(--color-primary-600) 25%, var(--color-border) 50%, var(--color-border) 100%);
+  background-size: 100% 200%; animation: flow-y 4s linear infinite;
+}
+
+/* Loading skeleton with a moving sheen */
+@keyframes shimmer { from { background-position: -200% 0; } to { background-position: 200% 0; } }
+.skeleton {
+  background: linear-gradient(90deg, var(--color-neu-bg) 25%, var(--color-border) 37%, var(--color-neu-bg) 63%);
+  background-size: 200% 100%; animation: shimmer 1.6s ease-in-out infinite;
+}
+
+/* Cards that respond to the pointer */
+.hover-lift { transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease; }
+.hover-lift:hover { transform: translateY(-3px); box-shadow: var(--shadow-pop); border-color: var(--color-primary-100); }
+
+/* Gradient outline for the most important card on a page */
+.gradient-border { position: relative; }
+.gradient-border::before {
+  content: ""; position: absolute; inset: -1px; border-radius: inherit; padding: 1px; pointer-events: none;
+  background: linear-gradient(135deg, #6366f1, #14b8a6 60%, #a855f7);
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0); -webkit-mask-composite: xor; mask-composite: exclude;
+}
+
+/* Confidence / ratio bars that grow in */
+@keyframes bar-in { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+.bar-in { transform-origin: left; animation: bar-in .8s cubic-bezier(.2,.8,.2,1) both; }
+
+/* Route change: content eases in */
+@keyframes route-in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+.route-in { animation: route-in .35s ease-out both; }
+
+@media (prefers-reduced-motion: reduce) {
+  .orb, .pipeline-line, .pipeline-line-v, .skeleton { animation: none !important; }
+}

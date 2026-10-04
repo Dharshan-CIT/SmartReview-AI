@@ -1,0 +1,19 @@
+﻿# ML core
+torch
+transformers>=4.40
+datasets
+accelerate
+scikit-learn
+pandas
+numpy
+matplotlib
+# Backend
+fastapi
+uvicorn[standard]
+pydantic>=2
+pydantic-settings
+sqlalchemy
+python-dotenv
+# Testing
+pytest
+httpx

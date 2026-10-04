@@ -1,0 +1,29 @@
+﻿# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+# Node
+node_modules/
+frontend/dist/
+# Env / secrets
+.env
+# Large artifacts (models are shared via Drive/Colab, not git)
+models/ate/*
+models/atsc/*
+!models/ate/.gitkeep
+!models/atsc/.gitkeep
+*.db
+# OS / editor
+.DS_Store
+.vscode/
+colab_bundle.zip
+
+logs/
+upload_to_colab/
+
+# model weights are large; never commit them
+models/**/*.safetensors
+models/*_v*/
+models/*_laptop_*/
