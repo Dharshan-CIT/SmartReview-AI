@@ -1,0 +1,13 @@
+# Minimal dependencies to SERVE the app (API + inference), used by the Docker deploy image.
+# Training/evaluation-only packages (datasets, accelerate, pandas, matplotlib) are deliberately left
+# out to keep the deploy image small and the build fast; use requirements.txt (project root) for
+# local development, training and evaluation. scikit-learn IS needed here even though it looks
+# training-only: ml/inference.py imports mark_aspect() from ml/train_atsc.py, which imports it.
+transformers>=4.40
+scikit-learn
+fastapi
+uvicorn[standard]
+pydantic>=2
+pydantic-settings
+sqlalchemy
+python-dotenv

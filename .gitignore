@@ -7,6 +7,7 @@ __pycache__/
 # Node
 node_modules/
 frontend/dist/
+frontend/tsconfig.tsbuildinfo
 # Env / secrets
 .env
 # Large artifacts (models are shared via Drive/Colab, not git)
